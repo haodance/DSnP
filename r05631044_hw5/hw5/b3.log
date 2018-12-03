@@ -1,0 +1,42 @@
+adt> adta -s jordan
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = jordan   
+
+adt> adta -s jordano
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = jordan   [  1] = jordan   
+
+adt> adta -s jorda
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = jorda   [  1] = jordan   [  2] = jordan   
+
+adt> adta -s jordan
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = jorda   [  1] = jordan   [  2] = jordan   [  3] = jordan   
+
+
+adt> adta -s jordana
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = jorda   [  1] = jordan   [  2] = jordan   [  3] = jordan   
+[  4] = jordan   
+
+adt> adtd -s jordani
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = jorda   [  1] = jordan   
+
+adt> adtd -s jord
+
+adt> adtp
+=== ADT (bst) ===
