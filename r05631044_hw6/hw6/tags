@@ -1,0 +1,484 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AIG_GATE	src/cir/cirDef.h	/^   AIG_GATE   = 3,$/;"	e	enum:GateType
+ARROW_DOWN_KEY	include/cmdCharDef.h	/^   ARROW_DOWN_KEY   = 66 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	include/cmdCharDef.h	/^   ARROW_DOWN_KEY   = TA_ARROW_DOWN_KEY,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^   ARROW_DOWN_KEY   = 66 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^   ARROW_DOWN_KEY   = TA_ARROW_DOWN_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	include/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	include/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = TA_ARROW_KEY_BEGIN,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = TA_ARROW_KEY_BEGIN,$/;"	e	enum:ParseChar
+ARROW_KEY_END	include/cmdCharDef.h	/^   ARROW_KEY_END    = ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_END	include/cmdCharDef.h	/^   ARROW_KEY_END    = TA_ARROW_KEY_END,$/;"	e	enum:ParseChar
+ARROW_KEY_END	src/cmd/cmdCharDef.h	/^   ARROW_KEY_END    = ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_END	src/cmd/cmdCharDef.h	/^   ARROW_KEY_END    = TA_ARROW_KEY_END,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	include/cmdCharDef.h	/^   ARROW_KEY_FLAG   = 1 << 8,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	include/cmdCharDef.h	/^   ARROW_KEY_FLAG   = TA_ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^   ARROW_KEY_FLAG   = 1 << 8,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^   ARROW_KEY_FLAG   = TA_ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	include/cmdCharDef.h	/^   ARROW_KEY_INT    = 91,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	include/cmdCharDef.h	/^   ARROW_KEY_INT    = TA_ARROW_KEY_INT,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^   ARROW_KEY_INT    = 91,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^   ARROW_KEY_INT    = TA_ARROW_KEY_INT,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	include/cmdCharDef.h	/^   ARROW_LEFT_KEY   = 68 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	include/cmdCharDef.h	/^   ARROW_LEFT_KEY   = TA_ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_LEFT_KEY   = 68 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_LEFT_KEY   = TA_ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	include/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = 67 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	include/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = TA_ARROW_RIGHT_KEY,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = 67 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = TA_ARROW_RIGHT_KEY,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	include/cmdCharDef.h	/^   ARROW_UP_KEY     = 65 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	include/cmdCharDef.h	/^   ARROW_UP_KEY     = TA_ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^   ARROW_UP_KEY     = 65 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^   ARROW_UP_KEY     = TA_ARROW_UP_KEY,$/;"	e	enum:ParseChar
+AigGate	src/cir/cirgate.h	/^        AigGate() {}$/;"	f	class:AigGate
+AigGate	src/cir/cirgate.h	/^class AigGate : public CirGate{$/;"	c
+BACK_SPACE_CHAR	include/cmdCharDef.h	/^   BACK_SPACE_CHAR  = 8,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	include/cmdCharDef.h	/^   BACK_SPACE_CHAR  = TA_BACK_SPACE_CHAR,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^   BACK_SPACE_CHAR  = 8,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^   BACK_SPACE_CHAR  = TA_BACK_SPACE_CHAR,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	include/cmdCharDef.h	/^   BACK_SPACE_KEY   = 127,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	include/cmdCharDef.h	/^   BACK_SPACE_KEY   = TA_BACK_SPACE_KEY,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^   BACK_SPACE_KEY   = 127,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^   BACK_SPACE_KEY   = TA_BACK_SPACE_KEY,$/;"	e	enum:ParseChar
+BEEP_CHAR	include/cmdCharDef.h	/^   BEEP_CHAR        = 7,$/;"	e	enum:ParseChar
+BEEP_CHAR	include/cmdCharDef.h	/^   BEEP_CHAR        = TA_BEEP_CHAR,$/;"	e	enum:ParseChar
+BEEP_CHAR	src/cmd/cmdCharDef.h	/^   BEEP_CHAR        = 7,$/;"	e	enum:ParseChar
+BEEP_CHAR	src/cmd/cmdCharDef.h	/^   BEEP_CHAR        = TA_BEEP_CHAR,$/;"	e	enum:ParseChar
+CANNOT_INVERTED	src/cir/cirMgr.cpp	/^   CANNOT_INVERTED,$/;"	e	enum:CirParseError	file:
+CIRCMDTOT	src/cir/cirCmd.cpp	/^   CIRCMDTOT$/;"	e	enum:CirCmdState	file:
+CIRINIT	src/cir/cirCmd.cpp	/^   CIRINIT,$/;"	e	enum:CirCmdState	file:
+CIRREAD	src/cir/cirCmd.cpp	/^   CIRREAD,$/;"	e	enum:CirCmdState	file:
+CIR_CMD_H	src/cir/cirCmd.h	/^#define CIR_CMD_H$/;"	d
+CIR_DEF_H	src/cir/cirDef.h	/^#define CIR_DEF_H$/;"	d
+CIR_GATE_H	src/cir/cirgate.h	/^#define CIR_GATE_H$/;"	d
+CIR_MGR_H	src/cir/cirMgr.h	/^#define CIR_MGR_H$/;"	d
+CMD_CHAR_DEF_H	include/cmdCharDef.h	/^#define CMD_CHAR_DEF_H$/;"	d
+CMD_CHAR_DEF_H	src/cmd/cmdCharDef.h	/^#define CMD_CHAR_DEF_H$/;"	d
+CMD_EXEC_DONE	include/cmdParser.h	/^   CMD_EXEC_DONE  = 0,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_DONE	src/cmd/cmdParser.h	/^   CMD_EXEC_DONE  = 0,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_ERROR	include/cmdParser.h	/^   CMD_EXEC_ERROR = 1,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_ERROR	src/cmd/cmdParser.h	/^   CMD_EXEC_ERROR = 1,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_NOP	include/cmdParser.h	/^   CMD_EXEC_NOP   = 3,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_NOP	src/cmd/cmdParser.h	/^   CMD_EXEC_NOP   = 3,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_QUIT	include/cmdParser.h	/^   CMD_EXEC_QUIT  = 2,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_QUIT	src/cmd/cmdParser.h	/^   CMD_EXEC_QUIT  = 2,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_TOT	include/cmdParser.h	/^   CMD_EXEC_TOT$/;"	e	enum:CmdExecStatus
+CMD_EXEC_TOT	src/cmd/cmdParser.h	/^   CMD_EXEC_TOT$/;"	e	enum:CmdExecStatus
+CMD_OPT_ERROR_TOT	include/cmdParser.h	/^   CMD_OPT_ERROR_TOT$/;"	e	enum:CmdOptionError
+CMD_OPT_ERROR_TOT	src/cmd/cmdParser.h	/^   CMD_OPT_ERROR_TOT$/;"	e	enum:CmdOptionError
+CMD_OPT_EXTRA	include/cmdParser.h	/^   CMD_OPT_EXTRA      = 1,$/;"	e	enum:CmdOptionError
+CMD_OPT_EXTRA	src/cmd/cmdParser.h	/^   CMD_OPT_EXTRA      = 1,$/;"	e	enum:CmdOptionError
+CMD_OPT_FOPEN_FAIL	include/cmdParser.h	/^   CMD_OPT_FOPEN_FAIL = 3,$/;"	e	enum:CmdOptionError
+CMD_OPT_FOPEN_FAIL	src/cmd/cmdParser.h	/^   CMD_OPT_FOPEN_FAIL = 3,$/;"	e	enum:CmdOptionError
+CMD_OPT_ILLEGAL	include/cmdParser.h	/^   CMD_OPT_ILLEGAL    = 2,$/;"	e	enum:CmdOptionError
+CMD_OPT_ILLEGAL	src/cmd/cmdParser.h	/^   CMD_OPT_ILLEGAL    = 2,$/;"	e	enum:CmdOptionError
+CMD_OPT_MISSING	include/cmdParser.h	/^   CMD_OPT_MISSING    = 0,$/;"	e	enum:CmdOptionError
+CMD_OPT_MISSING	src/cmd/cmdParser.h	/^   CMD_OPT_MISSING    = 0,$/;"	e	enum:CmdOptionError
+CMD_PARSER_H	include/cmdParser.h	/^#define CMD_PARSER_H$/;"	d
+CMD_PARSER_H	src/cmd/cmdParser.h	/^#define CMD_PARSER_H$/;"	d
+CONST_GATE	src/cir/cirDef.h	/^   CONST_GATE = 4,$/;"	e	enum:GateType
+CirCmdState	src/cir/cirCmd.cpp	/^enum CirCmdState$/;"	g	file:
+CirGate	src/cir/cirgate.h	/^   CirGate(): _ref(0), _active(false) {}$/;"	f	class:CirGate
+CirGate	src/cir/cirgate.h	/^class CirGate$/;"	c
+CirGateCmd	src/cir/cirCmd.h	/^CmdClass(CirGateCmd);$/;"	v
+CirGateV	src/cir/cirgate.h	/^        CirGateV(CirGate* g, size_t phase):$/;"	f	class:CirGateV
+CirGateV	src/cir/cirgate.h	/^class CirGateV{$/;"	c
+CirMgr	src/cir/cirMgr.h	/^   CirMgr() {$/;"	f	class:CirMgr
+CirMgr	src/cir/cirMgr.h	/^class CirMgr$/;"	c
+CirParseError	src/cir/cirMgr.cpp	/^enum CirParseError {$/;"	g	file:
+CirPrintCmd	src/cir/cirCmd.h	/^CmdClass(CirPrintCmd);$/;"	v
+CirReadCmd	src/cir/cirCmd.h	/^CmdClass(CirReadCmd);$/;"	v
+CirWriteCmd	src/cir/cirCmd.h	/^CmdClass(CirWriteCmd);$/;"	v
+CmdClass	include/cmdParser.h	/^#define CmdClass(/;"	d
+CmdClass	src/cmd/cmdParser.h	/^#define CmdClass(/;"	d
+CmdExec	include/cmdParser.h	/^   CmdExec() {}$/;"	f	class:CmdExec
+CmdExec	include/cmdParser.h	/^class CmdExec$/;"	c
+CmdExec	src/cmd/cmdParser.h	/^   CmdExec() {}$/;"	f	class:CmdExec
+CmdExec	src/cmd/cmdParser.h	/^class CmdExec$/;"	c
+CmdExecStatus	include/cmdParser.h	/^enum CmdExecStatus$/;"	g
+CmdExecStatus	src/cmd/cmdParser.h	/^enum CmdExecStatus$/;"	g
+CmdMap	include/cmdParser.h	/^typedef map<const string, CmdExec*>   CmdMap;$/;"	t	class:CmdParser
+CmdMap	src/cmd/cmdParser.h	/^typedef map<const string, CmdExec*>   CmdMap;$/;"	t	class:CmdParser
+CmdOptionError	include/cmdParser.h	/^enum CmdOptionError$/;"	g
+CmdOptionError	src/cmd/cmdParser.h	/^enum CmdOptionError$/;"	g
+CmdParser	include/cmdParser.h	/^   CmdParser(const string& p) : _prompt(p), _dofile(0),$/;"	f	class:CmdParser
+CmdParser	include/cmdParser.h	/^class CmdParser$/;"	c
+CmdParser	src/cmd/cmdParser.h	/^   CmdParser(const string& p) : _prompt(p), _dofile(0),$/;"	f	class:CmdParser
+CmdParser	src/cmd/cmdParser.h	/^class CmdParser$/;"	c
+CmdRegPair	include/cmdParser.h	/^typedef pair<const string, CmdExec*>  CmdRegPair;$/;"	t	class:CmdParser
+CmdRegPair	src/cmd/cmdParser.h	/^typedef pair<const string, CmdExec*>  CmdRegPair;$/;"	t	class:CmdParser
+ConstGate	src/cir/cirgate.h	/^        ConstGate() {}$/;"	f	class:ConstGate
+ConstGate	src/cir/cirgate.h	/^class ConstGate : public CirGate{$/;"	c
+DELETE_KEY	include/cmdCharDef.h	/^   DELETE_KEY       = 51 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+DELETE_KEY	include/cmdCharDef.h	/^   DELETE_KEY       = TA_DELETE_KEY,$/;"	e	enum:ParseChar
+DELETE_KEY	src/cmd/cmdCharDef.h	/^   DELETE_KEY       = 51 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+DELETE_KEY	src/cmd/cmdCharDef.h	/^   DELETE_KEY       = TA_DELETE_KEY,$/;"	e	enum:ParseChar
+DUMMY_END	src/cir/cirMgr.cpp	/^   DUMMY_END$/;"	e	enum:CirParseError	file:
+END_KEY	include/cmdCharDef.h	/^   END_KEY          = 52 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+END_KEY	include/cmdCharDef.h	/^   END_KEY          = TA_END_KEY,$/;"	e	enum:ParseChar
+END_KEY	src/cmd/cmdCharDef.h	/^   END_KEY          = 52 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+END_KEY	src/cmd/cmdCharDef.h	/^   END_KEY          = TA_END_KEY,$/;"	e	enum:ParseChar
+ESC_KEY	include/cmdCharDef.h	/^   ESC_KEY          = 27,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	include/cmdCharDef.h	/^   ESC_KEY          = TA_ESC_KEY,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	src/cmd/cmdCharDef.h	/^   ESC_KEY          = 27,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	src/cmd/cmdCharDef.h	/^   ESC_KEY          = TA_ESC_KEY,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+EXEC	Makefile	/^EXEC     = cirTest$/;"	m
+EXTRA_SPACE	src/cir/cirMgr.cpp	/^   EXTRA_SPACE,$/;"	e	enum:CirParseError	file:
+GateList	src/cir/cirDef.h	/^typedef vector<CirGate*>           GateList;$/;"	t
+GateType	src/cir/cirDef.h	/^enum GateType$/;"	g
+HOME_KEY	include/cmdCharDef.h	/^   HOME_KEY         = 49 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+HOME_KEY	include/cmdCharDef.h	/^   HOME_KEY         = TA_HOME_KEY,$/;"	e	enum:ParseChar
+HOME_KEY	src/cmd/cmdCharDef.h	/^   HOME_KEY         = 49 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+HOME_KEY	src/cmd/cmdCharDef.h	/^   HOME_KEY         = TA_HOME_KEY,$/;"	e	enum:ParseChar
+ILLEGAL_IDENTIFIER	src/cir/cirMgr.cpp	/^   ILLEGAL_IDENTIFIER,$/;"	e	enum:CirParseError	file:
+ILLEGAL_NUM	src/cir/cirMgr.cpp	/^   ILLEGAL_NUM,$/;"	e	enum:CirParseError	file:
+ILLEGAL_SYMBOL_NAME	src/cir/cirMgr.cpp	/^   ILLEGAL_SYMBOL_NAME,$/;"	e	enum:CirParseError	file:
+ILLEGAL_SYMBOL_TYPE	src/cir/cirMgr.cpp	/^   ILLEGAL_SYMBOL_TYPE,$/;"	e	enum:CirParseError	file:
+ILLEGAL_WSPACE	src/cir/cirMgr.cpp	/^   ILLEGAL_WSPACE,$/;"	e	enum:CirParseError	file:
+INPUT_END_KEY	include/cmdCharDef.h	/^   INPUT_END_KEY    = 4,          \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	include/cmdCharDef.h	/^   INPUT_END_KEY    = TA_INPUT_END_KEY,   \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	src/cmd/cmdCharDef.h	/^   INPUT_END_KEY    = 4,          \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	src/cmd/cmdCharDef.h	/^   INPUT_END_KEY    = TA_INPUT_END_KEY,   \/\/ ctrl-d$/;"	e	enum:ParseChar
+INSERT_KEY	include/cmdCharDef.h	/^   INSERT_KEY       = 50 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+INSERT_KEY	include/cmdCharDef.h	/^   INSERT_KEY       = TA_INSERT_KEY,$/;"	e	enum:ParseChar
+INSERT_KEY	src/cmd/cmdCharDef.h	/^   INSERT_KEY       = 50 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+INSERT_KEY	src/cmd/cmdCharDef.h	/^   INSERT_KEY       = TA_INSERT_KEY,$/;"	e	enum:ParseChar
+IdList	src/cir/cirDef.h	/^typedef vector<unsigned>           IdList;$/;"	t
+LIBPKGS	Makefile	/^LIBPKGS  = $(REFPKGS) $(SRCPKGS)$/;"	m
+LIBS	Makefile	/^LIBS     = $(addprefix -l, $(LIBPKGS))$/;"	m
+LINE_BEGIN_KEY	include/cmdCharDef.h	/^   LINE_BEGIN_KEY   = 1,          \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	include/cmdCharDef.h	/^   LINE_BEGIN_KEY   = TA_LINE_BEGIN_KEY,  \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^   LINE_BEGIN_KEY   = 1,          \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^   LINE_BEGIN_KEY   = TA_LINE_BEGIN_KEY,  \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_END_KEY	include/cmdCharDef.h	/^   LINE_END_KEY     = 5,          \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	include/cmdCharDef.h	/^   LINE_END_KEY     = TA_LINE_END_KEY,    \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	src/cmd/cmdCharDef.h	/^   LINE_END_KEY     = 5,          \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	src/cmd/cmdCharDef.h	/^   LINE_END_KEY     = TA_LINE_END_KEY,    \/\/ ctrl-e$/;"	e	enum:ParseChar
+MAIN	Makefile	/^MAIN     = main$/;"	m
+MAX_LIT_ID	src/cir/cirMgr.cpp	/^   MAX_LIT_ID,$/;"	e	enum:CirParseError	file:
+MISSING_DEF	src/cir/cirMgr.cpp	/^   MISSING_DEF,$/;"	e	enum:CirParseError	file:
+MISSING_IDENTIFIER	src/cir/cirMgr.cpp	/^   MISSING_IDENTIFIER,$/;"	e	enum:CirParseError	file:
+MISSING_NEWLINE	src/cir/cirMgr.cpp	/^   MISSING_NEWLINE,$/;"	e	enum:CirParseError	file:
+MISSING_NUM	src/cir/cirMgr.cpp	/^   MISSING_NUM,$/;"	e	enum:CirParseError	file:
+MISSING_SPACE	src/cir/cirMgr.cpp	/^   MISSING_SPACE,$/;"	e	enum:CirParseError	file:
+MOD_KEY_BEGIN	include/cmdCharDef.h	/^   MOD_KEY_BEGIN    = HOME_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	include/cmdCharDef.h	/^   MOD_KEY_BEGIN    = TA_MOD_KEY_BEGIN,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   MOD_KEY_BEGIN    = HOME_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   MOD_KEY_BEGIN    = TA_MOD_KEY_BEGIN,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	include/cmdCharDef.h	/^   MOD_KEY_DUMMY    = 126,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	include/cmdCharDef.h	/^   MOD_KEY_DUMMY    = TA_MOD_KEY_DUMMY,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^   MOD_KEY_DUMMY    = 126,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^   MOD_KEY_DUMMY    = TA_MOD_KEY_DUMMY,$/;"	e	enum:ParseChar
+MOD_KEY_END	include/cmdCharDef.h	/^   MOD_KEY_END      = PG_DOWN_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_END	include/cmdCharDef.h	/^   MOD_KEY_END      = TA_MOD_KEY_END,$/;"	e	enum:ParseChar
+MOD_KEY_END	src/cmd/cmdCharDef.h	/^   MOD_KEY_END      = PG_DOWN_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_END	src/cmd/cmdCharDef.h	/^   MOD_KEY_END      = TA_MOD_KEY_END,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	include/cmdCharDef.h	/^   MOD_KEY_FLAG     = 1 << 9,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	include/cmdCharDef.h	/^   MOD_KEY_FLAG     = TA_MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^   MOD_KEY_FLAG     = 1 << 9,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^   MOD_KEY_FLAG     = TA_MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+MOD_KEY_INT	include/cmdCharDef.h	/^   MOD_KEY_INT      = 91,$/;"	e	enum:ParseChar
+MOD_KEY_INT	include/cmdCharDef.h	/^   MOD_KEY_INT      = TA_MOD_KEY_INT,$/;"	e	enum:ParseChar
+MOD_KEY_INT	src/cmd/cmdCharDef.h	/^   MOD_KEY_INT      = 91,$/;"	e	enum:ParseChar
+MOD_KEY_INT	src/cmd/cmdCharDef.h	/^   MOD_KEY_INT      = TA_MOD_KEY_INT,$/;"	e	enum:ParseChar
+MYCLK_TCK	include/myUsage.h	/^#define MYCLK_TCK /;"	d
+MYCLK_TCK	include/myUsage.h	/^#undef MYCLK_TCK$/;"	d
+MYCLK_TCK	src/util/myUsage.h	/^#define MYCLK_TCK /;"	d
+MYCLK_TCK	src/util/myUsage.h	/^#undef MYCLK_TCK$/;"	d
+MY_USAGE_H	include/myUsage.h	/^#define MY_USAGE_H$/;"	d
+MY_USAGE_H	src/util/myUsage.h	/^#define MY_USAGE_H$/;"	d
+MyUsage	include/myUsage.h	/^   MyUsage() { reset(); }$/;"	f	class:MyUsage
+MyUsage	include/myUsage.h	/^class MyUsage$/;"	c
+MyUsage	src/util/myUsage.h	/^   MyUsage() { reset(); }$/;"	f	class:MyUsage
+MyUsage	src/util/myUsage.h	/^class MyUsage$/;"	c
+NEG	src/cir/cirgate.h	/^#define NEG /;"	d
+NEWLINE_KEY	include/cmdCharDef.h	/^   NEWLINE_KEY      = TA_NEWLINE_KEY,     \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	include/cmdCharDef.h	/^   NEWLINE_KEY      = int('\\n'),  \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	src/cmd/cmdCharDef.h	/^   NEWLINE_KEY      = TA_NEWLINE_KEY,     \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	src/cmd/cmdCharDef.h	/^   NEWLINE_KEY      = int('\\n'),  \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NUM_TOO_BIG	src/cir/cirMgr.cpp	/^   NUM_TOO_BIG,$/;"	e	enum:CirParseError	file:
+NUM_TOO_SMALL	src/cir/cirMgr.cpp	/^   NUM_TOO_SMALL,$/;"	e	enum:CirParseError	file:
+PARSE_CHAR_END	include/cmdCharDef.h	/^   PARSE_CHAR_END$/;"	e	enum:ParseChar
+PARSE_CHAR_END	src/cmd/cmdCharDef.h	/^   PARSE_CHAR_END$/;"	e	enum:ParseChar
+PG_DOWN_KEY	include/cmdCharDef.h	/^   PG_DOWN_KEY      = 54 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	include/cmdCharDef.h	/^   PG_DOWN_KEY      = TA_PG_DOWN_KEY,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^   PG_DOWN_KEY      = 54 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^   PG_DOWN_KEY      = TA_PG_DOWN_KEY,$/;"	e	enum:ParseChar
+PG_OFFSET	include/cmdParser.h	/^#define PG_OFFSET /;"	d
+PG_OFFSET	src/cmd/cmdParser.h	/^#define PG_OFFSET /;"	d
+PG_UP_KEY	include/cmdCharDef.h	/^   PG_UP_KEY        = 53 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_UP_KEY	include/cmdCharDef.h	/^   PG_UP_KEY        = TA_PG_UP_KEY,$/;"	e	enum:ParseChar
+PG_UP_KEY	src/cmd/cmdCharDef.h	/^   PG_UP_KEY        = 53 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_UP_KEY	src/cmd/cmdCharDef.h	/^   PG_UP_KEY        = TA_PG_UP_KEY,$/;"	e	enum:ParseChar
+PI_GATE	src/cir/cirDef.h	/^   PI_GATE    = 1,$/;"	e	enum:GateType
+PO_GATE	src/cir/cirDef.h	/^   PO_GATE    = 2,$/;"	e	enum:GateType
+ParseChar	include/cmdCharDef.h	/^enum ParseChar$/;"	g
+ParseChar	src/cmd/cmdCharDef.h	/^enum ParseChar$/;"	g
+PiGate	src/cir/cirgate.h	/^        PiGate() {}$/;"	f	class:PiGate
+PiGate	src/cir/cirgate.h	/^class PiGate : public CirGate{$/;"	c
+PoGate	src/cir/cirgate.h	/^        PoGate() {}$/;"	f	class:PoGate
+PoGate	src/cir/cirgate.h	/^class PoGate : public CirGate{$/;"	c
+READ_BUF_SIZE	include/cmdParser.h	/^#define READ_BUF_SIZE /;"	d
+READ_BUF_SIZE	src/cmd/cmdParser.h	/^#define READ_BUF_SIZE /;"	d
+REDEF_CONST	src/cir/cirMgr.cpp	/^   REDEF_CONST,$/;"	e	enum:CirParseError	file:
+REDEF_GATE	src/cir/cirMgr.cpp	/^   REDEF_GATE,$/;"	e	enum:CirParseError	file:
+REDEF_SYMBOLIC_NAME	src/cir/cirMgr.cpp	/^   REDEF_SYMBOLIC_NAME,$/;"	e	enum:CirParseError	file:
+REFPKGS	Makefile	/^REFPKGS  = cmd$/;"	m
+RN_GEN_H	include/rnGen.h	/^#define RN_GEN_H$/;"	d
+RN_GEN_H	src/util/rnGen.h	/^#define RN_GEN_H$/;"	d
+RandomNumGen	include/rnGen.h	/^      RandomNumGen() { my_srandom(getpid()); }$/;"	f	class:RandomNumGen
+RandomNumGen	include/rnGen.h	/^      RandomNumGen(unsigned seed) { my_srandom(seed); }$/;"	f	class:RandomNumGen
+RandomNumGen	include/rnGen.h	/^class RandomNumGen$/;"	c
+RandomNumGen	src/util/rnGen.h	/^      RandomNumGen() { my_srandom(getpid()); }$/;"	f	class:RandomNumGen
+RandomNumGen	src/util/rnGen.h	/^      RandomNumGen(unsigned seed) { my_srandom(seed); }$/;"	f	class:RandomNumGen
+RandomNumGen	src/util/rnGen.h	/^class RandomNumGen$/;"	c
+SRCLIBS	Makefile	/^SRCLIBS  = $(addsuffix .a, $(addprefix lib, $(SRCPKGS)))$/;"	m
+SRCPKGS	Makefile	/^SRCPKGS  = cir util $/;"	m
+TAB_KEY	include/cmdCharDef.h	/^   TAB_KEY          = TA_TAB_KEY,         \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	include/cmdCharDef.h	/^   TAB_KEY          = int('\\t'),  \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	src/cmd/cmdCharDef.h	/^   TAB_KEY          = TA_TAB_KEY,         \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	src/cmd/cmdCharDef.h	/^   TAB_KEY          = int('\\t'),  \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TA_ARROW_DOWN_KEY	include/cmdCharDef.h	/^#define TA_ARROW_DOWN_KEY /;"	d
+TA_ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_DOWN_KEY /;"	d
+TA_ARROW_KEY_BEGIN	include/cmdCharDef.h	/^#define TA_ARROW_KEY_BEGIN /;"	d
+TA_ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_BEGIN /;"	d
+TA_ARROW_KEY_END	include/cmdCharDef.h	/^#define TA_ARROW_KEY_END /;"	d
+TA_ARROW_KEY_END	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_END /;"	d
+TA_ARROW_KEY_FLAG	include/cmdCharDef.h	/^#define TA_ARROW_KEY_FLAG /;"	d
+TA_ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_FLAG /;"	d
+TA_ARROW_KEY_INT	include/cmdCharDef.h	/^#define TA_ARROW_KEY_INT /;"	d
+TA_ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_INT /;"	d
+TA_ARROW_LEFT_KEY	include/cmdCharDef.h	/^#define TA_ARROW_LEFT_KEY /;"	d
+TA_ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_LEFT_KEY /;"	d
+TA_ARROW_RIGHT_KEY	include/cmdCharDef.h	/^#define TA_ARROW_RIGHT_KEY /;"	d
+TA_ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_RIGHT_KEY /;"	d
+TA_ARROW_UP_KEY	include/cmdCharDef.h	/^#define TA_ARROW_UP_KEY /;"	d
+TA_ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_UP_KEY /;"	d
+TA_BACK_SPACE_CHAR	include/cmdCharDef.h	/^#define TA_BACK_SPACE_CHAR /;"	d
+TA_BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^#define TA_BACK_SPACE_CHAR /;"	d
+TA_BACK_SPACE_KEY	include/cmdCharDef.h	/^#define TA_BACK_SPACE_KEY /;"	d
+TA_BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^#define TA_BACK_SPACE_KEY /;"	d
+TA_BEEP_CHAR	include/cmdCharDef.h	/^#define TA_BEEP_CHAR /;"	d
+TA_BEEP_CHAR	src/cmd/cmdCharDef.h	/^#define TA_BEEP_CHAR /;"	d
+TA_DELETE_KEY	include/cmdCharDef.h	/^#define TA_DELETE_KEY /;"	d
+TA_DELETE_KEY	src/cmd/cmdCharDef.h	/^#define TA_DELETE_KEY /;"	d
+TA_END_KEY	include/cmdCharDef.h	/^#define TA_END_KEY /;"	d
+TA_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_END_KEY /;"	d
+TA_ESC_KEY	include/cmdCharDef.h	/^#define TA_ESC_KEY /;"	d
+TA_ESC_KEY	src/cmd/cmdCharDef.h	/^#define TA_ESC_KEY /;"	d
+TA_HOME_KEY	include/cmdCharDef.h	/^#define TA_HOME_KEY /;"	d
+TA_HOME_KEY	src/cmd/cmdCharDef.h	/^#define TA_HOME_KEY /;"	d
+TA_INPUT_END_KEY	include/cmdCharDef.h	/^#define TA_INPUT_END_KEY /;"	d
+TA_INPUT_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_INPUT_END_KEY /;"	d
+TA_INSERT_KEY	include/cmdCharDef.h	/^#define TA_INSERT_KEY /;"	d
+TA_INSERT_KEY	src/cmd/cmdCharDef.h	/^#define TA_INSERT_KEY /;"	d
+TA_LINE_BEGIN_KEY	include/cmdCharDef.h	/^#define TA_LINE_BEGIN_KEY /;"	d
+TA_LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^#define TA_LINE_BEGIN_KEY /;"	d
+TA_LINE_END_KEY	include/cmdCharDef.h	/^#define TA_LINE_END_KEY /;"	d
+TA_LINE_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_LINE_END_KEY /;"	d
+TA_MOD_KEY_BEGIN	include/cmdCharDef.h	/^#define TA_MOD_KEY_BEGIN /;"	d
+TA_MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_BEGIN /;"	d
+TA_MOD_KEY_DUMMY	include/cmdCharDef.h	/^#define TA_MOD_KEY_DUMMY /;"	d
+TA_MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_DUMMY /;"	d
+TA_MOD_KEY_END	include/cmdCharDef.h	/^#define TA_MOD_KEY_END /;"	d
+TA_MOD_KEY_END	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_END /;"	d
+TA_MOD_KEY_FLAG	include/cmdCharDef.h	/^#define TA_MOD_KEY_FLAG /;"	d
+TA_MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_FLAG /;"	d
+TA_MOD_KEY_INT	include/cmdCharDef.h	/^#define TA_MOD_KEY_INT /;"	d
+TA_MOD_KEY_INT	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_INT /;"	d
+TA_NEWLINE_KEY	include/cmdCharDef.h	/^#define TA_NEWLINE_KEY /;"	d
+TA_NEWLINE_KEY	src/cmd/cmdCharDef.h	/^#define TA_NEWLINE_KEY /;"	d
+TA_PG_DOWN_KEY	include/cmdCharDef.h	/^#define TA_PG_DOWN_KEY /;"	d
+TA_PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^#define TA_PG_DOWN_KEY /;"	d
+TA_PG_UP_KEY	include/cmdCharDef.h	/^#define TA_PG_UP_KEY /;"	d
+TA_PG_UP_KEY	src/cmd/cmdCharDef.h	/^#define TA_PG_UP_KEY /;"	d
+TA_TAB_KEY	include/cmdCharDef.h	/^#define TA_TAB_KEY /;"	d
+TA_TAB_KEY	src/cmd/cmdCharDef.h	/^#define TA_TAB_KEY /;"	d
+TA_UNDEFINED_KEY	include/cmdCharDef.h	/^#define TA_UNDEFINED_KEY /;"	d
+TA_UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^#define TA_UNDEFINED_KEY /;"	d
+TOT_GATE	src/cir/cirDef.h	/^   TOT_GATE$/;"	e	enum:GateType
+UNDEFINED_KEY	include/cmdCharDef.h	/^   UNDEFINED_KEY    = TA_UNDEFINED_KEY,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	include/cmdCharDef.h	/^   UNDEFINED_KEY  = INT_MAX,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^   UNDEFINED_KEY    = TA_UNDEFINED_KEY,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^   UNDEFINED_KEY  = INT_MAX,$/;"	e	enum:ParseChar
+UNDEF_GATE	src/cir/cirDef.h	/^   UNDEF_GATE = 0,$/;"	e	enum:GateType
+UTIL_H	include/util.h	/^#define UTIL_H$/;"	d
+UTIL_H	src/util/util.h	/^#define UTIL_H$/;"	d
+UndefGate	src/cir/cirgate.h	/^        UndefGate() {}$/;"	f	class:UndefGate
+UndefGate	src/cir/cirgate.h	/^class UndefGate : public CirGate{$/;"	c
+_MILOA	src/cir/cirMgr.h	/^   IdList _MILOA;$/;"	m	class:CirMgr
+_active	src/cir/cirgate.h	/^   bool _active;$/;"	m	class:CirGate
+_cmdMap	include/cmdParser.h	/^   CmdMap    _cmdMap;                \/\/ map from string to command$/;"	m	class:CmdParser
+_cmdMap	src/cmd/cmdParser.h	/^   CmdMap    _cmdMap;                \/\/ map from string to command$/;"	m	class:CmdParser
+_column	src/cir/cirgate.h	/^   unsigned _column;$/;"	m	class:CirGate
+_currentMem	include/myUsage.h	/^   double     _currentMem;$/;"	m	class:MyUsage
+_currentMem	src/util/myUsage.h	/^   double     _currentMem;$/;"	m	class:MyUsage
+_currentTick	include/myUsage.h	/^   double     _currentTick;$/;"	m	class:MyUsage
+_currentTick	src/util/myUsage.h	/^   double     _currentTick;$/;"	m	class:MyUsage
+_dfsList	src/cir/cirMgr.h	/^   GateList _dfsList;$/;"	m	class:CirMgr
+_dofile	include/cmdParser.h	/^   ifstream* _dofile;                \/\/ for command script$/;"	m	class:CmdParser
+_dofile	src/cmd/cmdParser.h	/^   ifstream* _dofile;                \/\/ for command script$/;"	m	class:CmdParser
+_dofileStack	include/cmdParser.h	/^   stack<ifstream*> _dofileStack;    \/\/ For recursive dofile calling$/;"	m	class:CmdParser
+_dofileStack	src/cmd/cmdParser.h	/^   stack<ifstream*> _dofileStack;    \/\/ For recursive dofile calling$/;"	m	class:CmdParser
+_fanin	src/cir/cirgate.h	/^        IdList _fanin;$/;"	m	class:AigGate
+_fanin	src/cir/cirgate.h	/^        IdList _fanin;$/;"	m	class:PoGate
+_faninList	src/cir/cirgate.h	/^        vector<CirGateV> _faninList;$/;"	m	class:AigGate
+_faninList	src/cir/cirgate.h	/^        vector<CirGateV> _faninList;$/;"	m	class:PoGate
+_fanoutList	src/cir/cirgate.h	/^        GateList _fanoutList;$/;"	m	class:AigGate
+_fanoutList	src/cir/cirgate.h	/^        GateList _fanoutList;$/;"	m	class:ConstGate
+_fanoutList	src/cir/cirgate.h	/^        GateList _fanoutList;$/;"	m	class:PiGate
+_fanoutList	src/cir/cirgate.h	/^        GateList _fanoutList;$/;"	m	class:UndefGate
+_fbList	src/cir/cirMgr.h	/^   vector< pair<CirGate*, CirGate*> > _fbList;$/;"	m	class:CirMgr
+_gateV	src/cir/cirgate.h	/^        size_t _gateV;$/;"	m	class:CirGateV
+_globalRef	src/cir/cirgate.cpp	/^unsigned CirGate::_globalRef = 0;$/;"	m	class:CirGate	file:
+_globalRef	src/cir/cirgate.h	/^   static unsigned _globalRef;$/;"	m	class:CirGate
+_history	include/cmdParser.h	/^   vector<string>   _history;        \/\/ oldest:_history[0],latest:_hist.back()$/;"	m	class:CmdParser
+_history	src/cmd/cmdParser.h	/^   vector<string>   _history;        \/\/ oldest:_history[0],latest:_hist.back()$/;"	m	class:CmdParser
+_historyIdx	include/cmdParser.h	/^   int       _historyIdx;            \/\/ (1) Position to insert history string$/;"	m	class:CmdParser
+_historyIdx	src/cmd/cmdParser.h	/^   int       _historyIdx;            \/\/ (1) Position to insert history string$/;"	m	class:CmdParser
+_id	src/cir/cirgate.h	/^   unsigned _id;$/;"	m	class:CirGate
+_initMem	include/myUsage.h	/^   double     _initMem;$/;"	m	class:MyUsage
+_initMem	src/util/myUsage.h	/^   double     _initMem;$/;"	m	class:MyUsage
+_line	src/cir/cirgate.h	/^   unsigned _line;$/;"	m	class:CirGate
+_optCmd	include/cmdParser.h	/^   string            _optCmd;$/;"	m	class:CmdExec
+_optCmd	src/cmd/cmdParser.h	/^   string            _optCmd;$/;"	m	class:CmdExec
+_periodUsedTime	include/myUsage.h	/^   double     _periodUsedTime;$/;"	m	class:MyUsage
+_periodUsedTime	src/util/myUsage.h	/^   double     _periodUsedTime;$/;"	m	class:MyUsage
+_piList	src/cir/cirMgr.h	/^   GateList _piList;$/;"	m	class:CirMgr
+_poList	src/cir/cirMgr.h	/^   GateList _poList;$/;"	m	class:CirMgr
+_prompt	include/cmdParser.h	/^   const string _prompt;             \/\/ command prompt$/;"	m	class:CmdParser
+_prompt	src/cmd/cmdParser.h	/^   const string _prompt;             \/\/ command prompt$/;"	m	class:CmdParser
+_readBuf	include/cmdParser.h	/^   char      _readBuf[READ_BUF_SIZE];\/\/ save the current line input$/;"	m	class:CmdParser
+_readBuf	src/cmd/cmdParser.h	/^   char      _readBuf[READ_BUF_SIZE];\/\/ save the current line input$/;"	m	class:CmdParser
+_readBufEnd	include/cmdParser.h	/^   char*     _readBufEnd;            \/\/ end of string position of _readBuf$/;"	m	class:CmdParser
+_readBufEnd	src/cmd/cmdParser.h	/^   char*     _readBufEnd;            \/\/ end of string position of _readBuf$/;"	m	class:CmdParser
+_readBufPtr	include/cmdParser.h	/^   char*     _readBufPtr;            \/\/ point to the cursor position$/;"	m	class:CmdParser
+_readBufPtr	src/cmd/cmdParser.h	/^   char*     _readBufPtr;            \/\/ point to the cursor position$/;"	m	class:CmdParser
+_ref	src/cir/cirgate.h	/^   unsigned _ref;$/;"	m	class:CirGate
+_tabPressCount	include/cmdParser.h	/^   size_t    _tabPressCount;         \/\/ The number of tab pressed$/;"	m	class:CmdParser
+_tabPressCount	src/cmd/cmdParser.h	/^   size_t    _tabPressCount;         \/\/ The number of tab pressed$/;"	m	class:CmdParser
+_tempCmdStored	include/cmdParser.h	/^   bool      _tempCmdStored;         \/\/ When up\/pgUp is pressed, current line$/;"	m	class:CmdParser
+_tempCmdStored	src/cmd/cmdParser.h	/^   bool      _tempCmdStored;         \/\/ When up\/pgUp is pressed, current line$/;"	m	class:CmdParser
+_totalList	src/cir/cirMgr.h	/^   unordered_map<unsigned, CirGate*> _totalList;$/;"	m	class:CirMgr
+_totalUsedTime	include/myUsage.h	/^   double     _totalUsedTime;$/;"	m	class:MyUsage
+_totalUsedTime	src/util/myUsage.h	/^   double     _totalUsedTime;$/;"	m	class:MyUsage
+buf	src/cir/cirMgr.cpp	/^static char buf[1024];$/;"	v	file:
+checkMem	include/myUsage.h	/^   double checkMem() const {$/;"	f	class:MyUsage
+checkMem	src/util/myUsage.h	/^   double checkMem() const {$/;"	f	class:MyUsage
+checkTick	include/myUsage.h	/^   double checkTick() const {$/;"	f	class:MyUsage
+checkTick	src/util/myUsage.h	/^   double checkTick() const {$/;"	f	class:MyUsage
+clear	src/cir/cirMgr.cpp	/^void CirMgr::clear(){$/;"	f	class:CirMgr
+clearList	include/util.h	/^void clearList(T& l)$/;"	f
+clearList	src/util/util.h	/^void clearList(T& l)$/;"	f
+colNo	src/cir/cirMgr.cpp	/^static unsigned colNo  = 0;  \/\/ in printing, colNo needs to ++$/;"	v	file:
+constructNet	src/cir/cirMgr.cpp	/^void CirMgr::constructNet(){$/;"	f	class:CirMgr
+curCmd	src/cir/cirCmd.cpp	/^static CirCmdState curCmd = CIRINIT;$/;"	v	file:
+dfsTraversal	src/cir/cirMgr.cpp	/^void CirMgr::dfsTraversal(const GateList& sinkList){$/;"	f	class:CirMgr
+dfsTraversal	src/cir/cirgate.cpp	/^void CirGate::dfsTraversal(GateList& dfsList, vector< pair<CirGate*, CirGate*> >& fbList){$/;"	f	class:CirGate
+errGate	src/cir/cirMgr.cpp	/^static CirGate *errGate;$/;"	v	file:
+errInt	src/cir/cirMgr.cpp	/^static int errInt;$/;"	v	file:
+errMsg	src/cir/cirMgr.cpp	/^static string errMsg;$/;"	v	file:
+exec	src/cir/cirCmd.cpp	/^CirGateCmd::exec(const string& option)$/;"	f	class:CirGateCmd
+exec	src/cir/cirCmd.cpp	/^CirPrintCmd::exec(const string& option)$/;"	f	class:CirPrintCmd
+exec	src/cir/cirCmd.cpp	/^CirReadCmd::exec(const string& option)$/;"	f	class:CirReadCmd
+exec	src/cir/cirCmd.cpp	/^CirWriteCmd::exec(const string& option)$/;"	f	class:CirWriteCmd
+gate	src/cir/cirgate.h	/^        CirGate* gate() const { return (CirGate*)(_gateV & ~size_t(NEG)); }$/;"	f	class:CirGateV
+getGate	src/cir/cirMgr.h	/^   CirGate* getGate(unsigned gid) const {$/;"	f	class:CirMgr
+getHashSize	src/util/util.cpp	/^size_t getHashSize(size_t s) {$/;"	f
+getLineNo	src/cir/cirgate.h	/^   unsigned getLineNo() const { return _line; }$/;"	f	class:CirGate
+getOptCmd	include/cmdParser.h	/^   const string& getOptCmd() const { return _optCmd; }$/;"	f	class:CmdExec
+getOptCmd	src/cmd/cmdParser.h	/^   const string& getOptCmd() const { return _optCmd; }$/;"	f	class:CmdExec
+getTypeStr	src/cir/cirgate.h	/^        string getTypeStr() const { return "AIG"; }$/;"	f	class:AigGate
+getTypeStr	src/cir/cirgate.h	/^        string getTypeStr() const { return "CONST"; }$/;"	f	class:ConstGate
+getTypeStr	src/cir/cirgate.h	/^        string getTypeStr() const { return "PI"; }$/;"	f	class:PiGate
+getTypeStr	src/cir/cirgate.h	/^        string getTypeStr() const { return "PO"; }$/;"	f	class:PoGate
+getTypeStr	src/cir/cirgate.h	/^        string getTypeStr() const { return "UNDEF"; }$/;"	f	class:UndefGate
+help	src/cir/cirCmd.cpp	/^CirGateCmd::help() const$/;"	f	class:CirGateCmd
+help	src/cir/cirCmd.cpp	/^CirPrintCmd::help() const$/;"	f	class:CirPrintCmd
+help	src/cir/cirCmd.cpp	/^CirReadCmd::help() const$/;"	f	class:CirReadCmd
+help	src/cir/cirCmd.cpp	/^CirWriteCmd::help() const$/;"	f	class:CirWriteCmd
+initCirCmd	src/cir/cirCmd.cpp	/^initCirCmd()$/;"	f
+isGlobalRef	src/cir/cirgate.h	/^   bool isGlobalRef() const { return _ref == _globalRef; }$/;"	f	class:CirGate
+isInv	src/cir/cirgate.h	/^        bool isInv() const { return (_gateV & NEG); }$/;"	f	class:CirGateV
+isValidVarName	src/util/myString.cpp	/^isValidVarName(const string& str)$/;"	f
+lineNo	src/cir/cirMgr.cpp	/^static unsigned lineNo = 0;  \/\/ in printint, lineNo needs to ++$/;"	v	file:
+listDir	src/util/util.cpp	/^int listDir$/;"	f
+main	src/main/main.cpp	/^main(int argc, char** argv)$/;"	f
+myGetChar	src/util/myGetChar.cpp	/^char myGetChar()$/;"	f
+myGetChar	src/util/myGetChar.cpp	/^char myGetChar(istream& istr)$/;"	f
+myStr2Int	src/util/myString.cpp	/^myStr2Int(const string& str, int& num)$/;"	f
+myStrGetTok	src/util/myString.cpp	/^myStrGetTok(const string& str, string& tok, size_t pos = 0,$/;"	f
+myStrNCmp	src/util/myString.cpp	/^myStrNCmp(const string& s1, const string& s2, unsigned n)$/;"	f
+myUsage	src/util/util.cpp	/^MyUsage       myUsage;$/;"	v
+my_random	include/rnGen.h	/^#define my_random /;"	d
+my_random	src/util/rnGen.h	/^#define my_random /;"	d
+my_srandom	include/rnGen.h	/^#define my_srandom /;"	d
+my_srandom	src/util/rnGen.h	/^#define my_srandom /;"	d
+myexit	src/main/main.cpp	/^myexit()$/;"	f	file:
+operator ()	include/rnGen.h	/^      const int operator() (const int range) const {$/;"	f	class:RandomNumGen
+operator ()	src/util/rnGen.h	/^      const int operator() (const int range) const {$/;"	f	class:RandomNumGen
+parseError	src/cir/cirMgr.cpp	/^parseError(CirParseError err)$/;"	f	file:
+printFanin	src/cir/cirgate.cpp	/^void CirGate::printFanin(CirGate* gate, int& level, int levelCount, unordered_set<unsigned>& uset, CirGate* ogGate){$/;"	f	class:CirGate
+printFanout	src/cir/cirgate.cpp	/^void CirGate::printFanout(CirGate* gate, int& level, int levelCount, unordered_set<unsigned>& uset, CirGate* ogGate){$/;"	f	class:CirGate
+printFloatGates	src/cir/cirMgr.cpp	/^CirMgr::printFloatGates() const$/;"	f	class:CirMgr
+printGate	src/cir/cirgate.h	/^        void printGate() const {}$/;"	f	class:AigGate
+printGate	src/cir/cirgate.h	/^        void printGate() const {}$/;"	f	class:ConstGate
+printGate	src/cir/cirgate.h	/^        void printGate() const {}$/;"	f	class:PiGate
+printGate	src/cir/cirgate.h	/^        void printGate() const {}$/;"	f	class:PoGate
+printGate	src/cir/cirgate.h	/^        void printGate() const {}$/;"	f	class:UndefGate
+printNetlist	src/cir/cirMgr.cpp	/^CirMgr::printNetlist() const$/;"	f	class:CirMgr
+printPIs	src/cir/cirMgr.cpp	/^CirMgr::printPIs() const$/;"	f	class:CirMgr
+printPOs	src/cir/cirMgr.cpp	/^CirMgr::printPOs() const$/;"	f	class:CirMgr
+printPrompt	include/cmdParser.h	/^   void printPrompt() const { cout << _prompt; }$/;"	f	class:CmdParser
+printPrompt	src/cmd/cmdParser.h	/^   void printPrompt() const { cout << _prompt; }$/;"	f	class:CmdParser
+printSummary	src/cir/cirMgr.cpp	/^CirMgr::printSummary() const$/;"	f	class:CirMgr
+readCircuit	src/cir/cirMgr.cpp	/^CirMgr::readCircuit(const string& fileName)$/;"	f	class:CirMgr
+removeData	include/util.h	/^void removeData(T& l, const D& d)$/;"	f
+removeData	src/util/util.h	/^void removeData(T& l, const D& d)$/;"	f
+report	include/myUsage.h	/^   void report(bool repTime, bool repMem) {$/;"	f	class:MyUsage
+report	src/util/myUsage.h	/^   void report(bool repTime, bool repMem) {$/;"	f	class:MyUsage
+reportFanin	src/cir/cirgate.cpp	/^CirGate::reportFanin(int level)$/;"	f	class:CirGate
+reportFanout	src/cir/cirgate.cpp	/^CirGate::reportFanout(int level)$/;"	f	class:CirGate
+reportGate	src/cir/cirgate.cpp	/^CirGate::reportGate() const$/;"	f	class:CirGate
+reset	include/myUsage.h	/^   void reset() {$/;"	f	class:MyUsage
+reset	src/util/myUsage.h	/^   void reset() {$/;"	f	class:MyUsage
+resetBufAndPrintPrompt	include/cmdParser.h	/^   void resetBufAndPrintPrompt() {$/;"	f	class:CmdParser
+resetBufAndPrintPrompt	src/cmd/cmdParser.h	/^   void resetBufAndPrintPrompt() {$/;"	f	class:CmdParser
+reset_keypress	src/util/myGetChar.cpp	/^static void reset_keypress(void)$/;"	f	file:
+setGlobalRef	src/cir/cirgate.h	/^   static void setGlobalRef() { ++_globalRef; }$/;"	f	class:CirGate
+setIdLineColumn	src/cir/cirgate.h	/^   void setIdLineColumn(const unsigned& id, const unsigned& line, const unsigned& column){$/;"	f	class:CirGate
+setMemUsage	include/myUsage.h	/^   void setMemUsage() { _currentMem = checkMem() - _initMem; }$/;"	f	class:MyUsage
+setMemUsage	src/util/myUsage.h	/^   void setMemUsage() { _currentMem = checkMem() - _initMem; }$/;"	f	class:MyUsage
+setOptCmd	include/cmdParser.h	/^   void setOptCmd(const string& str) { _optCmd = str; }$/;"	f	class:CmdExec
+setOptCmd	src/cmd/cmdParser.h	/^   void setOptCmd(const string& str) { _optCmd = str; }$/;"	f	class:CmdExec
+setTimeUsage	include/myUsage.h	/^   void setTimeUsage() {$/;"	f	class:MyUsage
+setTimeUsage	src/util/myUsage.h	/^   void setTimeUsage() {$/;"	f	class:MyUsage
+setToGlobalRef	src/cir/cirgate.h	/^   void setToGlobalRef() { _ref = _globalRef; }$/;"	f	class:CirGate
+set_keypress	src/util/myGetChar.cpp	/^static void set_keypress(void)$/;"	f	file:
+stored_settings	src/util/myGetChar.cpp	/^static struct termios stored_settings;$/;"	v	typeref:struct:termios	file:
+taTestOnly	include/cmdParser.h	/^   void taTestOnly() {}$/;"	f	class:CmdParser
+taTestOnly	src/cmd/cmdParser.h	/^   void taTestOnly() {}$/;"	f	class:CmdParser
+usage	src/cir/cirCmd.cpp	/^CirGateCmd::usage(ostream& os) const$/;"	f	class:CirGateCmd
+usage	src/cir/cirCmd.cpp	/^CirPrintCmd::usage(ostream& os) const$/;"	f	class:CirPrintCmd
+usage	src/cir/cirCmd.cpp	/^CirReadCmd::usage(ostream& os) const$/;"	f	class:CirReadCmd
+usage	src/cir/cirCmd.cpp	/^CirWriteCmd::usage(ostream& os) const$/;"	f	class:CirWriteCmd
+usage	src/main/main.cpp	/^usage()$/;"	f	file:
+writeAag	src/cir/cirMgr.cpp	/^CirMgr::writeAag(ostream& outfile) const$/;"	f	class:CirMgr
+~AigGate	src/cir/cirgate.h	/^        ~AigGate() {}$/;"	f	class:AigGate
+~CirGate	src/cir/cirgate.h	/^   virtual ~CirGate() {}$/;"	f	class:CirGate
+~CirMgr	src/cir/cirMgr.h	/^   ~CirMgr() { clear(); }$/;"	f	class:CirMgr
+~CmdExec	include/cmdParser.h	/^   virtual ~CmdExec() {}$/;"	f	class:CmdExec
+~CmdExec	src/cmd/cmdParser.h	/^   virtual ~CmdExec() {}$/;"	f	class:CmdExec
+~CmdParser	include/cmdParser.h	/^   virtual ~CmdParser() {}$/;"	f	class:CmdParser
+~CmdParser	src/cmd/cmdParser.h	/^   virtual ~CmdParser() {}$/;"	f	class:CmdParser
+~ConstGate	src/cir/cirgate.h	/^        ~ConstGate() {}$/;"	f	class:ConstGate
+~PiGate	src/cir/cirgate.h	/^        ~PiGate() {}$/;"	f	class:PiGate
+~PoGate	src/cir/cirgate.h	/^        ~PoGate() {}$/;"	f	class:PoGate
+~UndefGate	src/cir/cirgate.h	/^        ~UndefGate() {}$/;"	f	class:UndefGate
