@@ -1,0 +1,1755 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AIG_GATE	src/cir/cirDef.h	/^    AIG_GATE = 3,$/;"	e	enum:GateType
+ARROW_DOWN_KEY	include/cmdCharDef.h	/^   ARROW_DOWN_KEY   = 66 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	include/cmdCharDef.h	/^   ARROW_DOWN_KEY   = TA_ARROW_DOWN_KEY,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^   ARROW_DOWN_KEY   = 66 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^   ARROW_DOWN_KEY   = TA_ARROW_DOWN_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	include/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	include/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = TA_ARROW_KEY_BEGIN,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = TA_ARROW_KEY_BEGIN,$/;"	e	enum:ParseChar
+ARROW_KEY_END	include/cmdCharDef.h	/^   ARROW_KEY_END    = ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_END	include/cmdCharDef.h	/^   ARROW_KEY_END    = TA_ARROW_KEY_END,$/;"	e	enum:ParseChar
+ARROW_KEY_END	src/cmd/cmdCharDef.h	/^   ARROW_KEY_END    = ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_END	src/cmd/cmdCharDef.h	/^   ARROW_KEY_END    = TA_ARROW_KEY_END,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	include/cmdCharDef.h	/^   ARROW_KEY_FLAG   = 1 << 8,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	include/cmdCharDef.h	/^   ARROW_KEY_FLAG   = TA_ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^   ARROW_KEY_FLAG   = 1 << 8,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^   ARROW_KEY_FLAG   = TA_ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	include/cmdCharDef.h	/^   ARROW_KEY_INT    = 91,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	include/cmdCharDef.h	/^   ARROW_KEY_INT    = TA_ARROW_KEY_INT,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^   ARROW_KEY_INT    = 91,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^   ARROW_KEY_INT    = TA_ARROW_KEY_INT,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	include/cmdCharDef.h	/^   ARROW_LEFT_KEY   = 68 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	include/cmdCharDef.h	/^   ARROW_LEFT_KEY   = TA_ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_LEFT_KEY   = 68 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_LEFT_KEY   = TA_ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	include/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = 67 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	include/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = TA_ARROW_RIGHT_KEY,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = 67 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = TA_ARROW_RIGHT_KEY,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	include/cmdCharDef.h	/^   ARROW_UP_KEY     = 65 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	include/cmdCharDef.h	/^   ARROW_UP_KEY     = TA_ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^   ARROW_UP_KEY     = 65 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^   ARROW_UP_KEY     = TA_ARROW_UP_KEY,$/;"	e	enum:ParseChar
+AigGate	src/cir/cirGate.h	/^        AigGate() {}$/;"	f	class:AigGate
+AigGate	src/cir/cirGate.h	/^class AigGate : public CirGate{$/;"	c
+BACK_SPACE_CHAR	include/cmdCharDef.h	/^   BACK_SPACE_CHAR  = 8,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	include/cmdCharDef.h	/^   BACK_SPACE_CHAR  = TA_BACK_SPACE_CHAR,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^   BACK_SPACE_CHAR  = 8,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^   BACK_SPACE_CHAR  = TA_BACK_SPACE_CHAR,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	include/cmdCharDef.h	/^   BACK_SPACE_KEY   = 127,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	include/cmdCharDef.h	/^   BACK_SPACE_KEY   = TA_BACK_SPACE_KEY,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^   BACK_SPACE_KEY   = 127,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^   BACK_SPACE_KEY   = TA_BACK_SPACE_KEY,$/;"	e	enum:ParseChar
+BEEP_CHAR	include/cmdCharDef.h	/^   BEEP_CHAR        = 7,$/;"	e	enum:ParseChar
+BEEP_CHAR	include/cmdCharDef.h	/^   BEEP_CHAR        = TA_BEEP_CHAR,$/;"	e	enum:ParseChar
+BEEP_CHAR	src/cmd/cmdCharDef.h	/^   BEEP_CHAR        = 7,$/;"	e	enum:ParseChar
+BEEP_CHAR	src/cmd/cmdCharDef.h	/^   BEEP_CHAR        = TA_BEEP_CHAR,$/;"	e	enum:ParseChar
+CANNOT_INVERTED	src/cir/cirMgr.cpp	/^   CANNOT_INVERTED,$/;"	e	enum:CirParseError	file:
+CIRCMDTOT	src/cir/cirCmd.cpp	/^   CIRCMDTOT$/;"	e	enum:CirCmdState	file:
+CIRFRAIG	src/cir/cirCmd.cpp	/^   CIRFRAIG,$/;"	e	enum:CirCmdState	file:
+CIRINIT	src/cir/cirCmd.cpp	/^   CIRINIT,$/;"	e	enum:CirCmdState	file:
+CIROPT	src/cir/cirCmd.cpp	/^   CIROPT,$/;"	e	enum:CirCmdState	file:
+CIRREAD	src/cir/cirCmd.cpp	/^   CIRREAD,$/;"	e	enum:CirCmdState	file:
+CIRSIMULATE	src/cir/cirCmd.cpp	/^   CIRSIMULATE,$/;"	e	enum:CirCmdState	file:
+CIRSTRASH	src/cir/cirCmd.cpp	/^   CIRSTRASH,$/;"	e	enum:CirCmdState	file:
+CIR_CMD_H	src/cir/cirCmd.h	/^#define CIR_CMD_H$/;"	d
+CIR_DEF_H	src/cir/cirDef.h	/^#define CIR_DEF_H$/;"	d
+CIR_GATE_H	src/cir/cirGate.h	/^#define CIR_GATE_H$/;"	d
+CIR_MGR_H	src/cir/cirMgr.h	/^#define CIR_MGR_H$/;"	d
+CMD_CHAR_DEF_H	include/cmdCharDef.h	/^#define CMD_CHAR_DEF_H$/;"	d
+CMD_CHAR_DEF_H	src/cmd/cmdCharDef.h	/^#define CMD_CHAR_DEF_H$/;"	d
+CMD_EXEC_DONE	include/cmdParser.h	/^   CMD_EXEC_DONE  = 0,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_DONE	src/cmd/cmdParser.h	/^   CMD_EXEC_DONE  = 0,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_ERROR	include/cmdParser.h	/^   CMD_EXEC_ERROR = 1,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_ERROR	src/cmd/cmdParser.h	/^   CMD_EXEC_ERROR = 1,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_NOP	include/cmdParser.h	/^   CMD_EXEC_NOP   = 3,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_NOP	src/cmd/cmdParser.h	/^   CMD_EXEC_NOP   = 3,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_QUIT	include/cmdParser.h	/^   CMD_EXEC_QUIT  = 2,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_QUIT	src/cmd/cmdParser.h	/^   CMD_EXEC_QUIT  = 2,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_TOT	include/cmdParser.h	/^   CMD_EXEC_TOT$/;"	e	enum:CmdExecStatus
+CMD_EXEC_TOT	src/cmd/cmdParser.h	/^   CMD_EXEC_TOT$/;"	e	enum:CmdExecStatus
+CMD_OPT_ERROR_TOT	include/cmdParser.h	/^   CMD_OPT_ERROR_TOT$/;"	e	enum:CmdOptionError
+CMD_OPT_ERROR_TOT	src/cmd/cmdParser.h	/^   CMD_OPT_ERROR_TOT$/;"	e	enum:CmdOptionError
+CMD_OPT_EXTRA	include/cmdParser.h	/^   CMD_OPT_EXTRA      = 1,$/;"	e	enum:CmdOptionError
+CMD_OPT_EXTRA	src/cmd/cmdParser.h	/^   CMD_OPT_EXTRA      = 1,$/;"	e	enum:CmdOptionError
+CMD_OPT_FOPEN_FAIL	include/cmdParser.h	/^   CMD_OPT_FOPEN_FAIL = 3,$/;"	e	enum:CmdOptionError
+CMD_OPT_FOPEN_FAIL	src/cmd/cmdParser.h	/^   CMD_OPT_FOPEN_FAIL = 3,$/;"	e	enum:CmdOptionError
+CMD_OPT_ILLEGAL	include/cmdParser.h	/^   CMD_OPT_ILLEGAL    = 2,$/;"	e	enum:CmdOptionError
+CMD_OPT_ILLEGAL	src/cmd/cmdParser.h	/^   CMD_OPT_ILLEGAL    = 2,$/;"	e	enum:CmdOptionError
+CMD_OPT_MISSING	include/cmdParser.h	/^   CMD_OPT_MISSING    = 0,$/;"	e	enum:CmdOptionError
+CMD_OPT_MISSING	src/cmd/cmdParser.h	/^   CMD_OPT_MISSING    = 0,$/;"	e	enum:CmdOptionError
+CMD_PARSER_H	include/cmdParser.h	/^#define CMD_PARSER_H$/;"	d
+CMD_PARSER_H	src/cmd/cmdParser.h	/^#define CMD_PARSER_H$/;"	d
+CONST_GATE	src/cir/cirDef.h	/^    CONST_GATE = 4,$/;"	e	enum:GateType
+Cache	include/myHashMap.h	/^   Cache() : _size(0), _cache(0) {}$/;"	f	class:Cache
+Cache	include/myHashMap.h	/^   Cache(size_t s) : _size(0), _cache(0) { init(s); }$/;"	f	class:Cache
+Cache	include/myHashMap.h	/^class Cache$/;"	c
+Cache	src/util/myHashMap.h	/^   Cache() : _size(0), _cache(0) {}$/;"	f	class:Cache
+Cache	src/util/myHashMap.h	/^   Cache(size_t s) : _size(0), _cache(0) { init(s); }$/;"	f	class:Cache
+Cache	src/util/myHashMap.h	/^class Cache$/;"	c
+CacheNode	include/myHashMap.h	/^typedef pair<CacheKey, CacheData> CacheNode;$/;"	t	class:Cache
+CacheNode	src/util/myHashMap.h	/^typedef pair<CacheKey, CacheData> CacheNode;$/;"	t	class:Cache
+CirCmdState	src/cir/cirCmd.cpp	/^enum CirCmdState$/;"	g	file:
+CirFraigCmd	src/cir/cirCmd.h	/^CmdClass(CirFraigCmd);$/;"	v
+CirGate	src/cir/cirGate.h	/^   CirGate(): _ref(0), _active(false) {}$/;"	f	class:CirGate
+CirGate	src/cir/cirGate.h	/^class CirGate$/;"	c
+CirGateCmd	src/cir/cirCmd.h	/^CmdClass(CirGateCmd);$/;"	v
+CirGatePairList	src/cir/cirDef.h	/^typedef vector< pair<CirGate*, CirGate*> >      CirGatePairList;$/;"	t
+CirGateV	src/cir/cirGate.h	/^        CirGateV(CirGate* g, size_t phase = 0): _gateV(size_t(g)+phase) {}$/;"	f	class:CirGateV
+CirGateV	src/cir/cirGate.h	/^class CirGateV{$/;"	c
+CirMgr	src/cir/cirMgr.h	/^   CirMgr(): _myHashMap(10000) { init(); }$/;"	f	class:CirMgr
+CirMgr	src/cir/cirMgr.h	/^class CirMgr$/;"	c
+CirOptCmd	src/cir/cirCmd.h	/^CmdClass(CirOptCmd);$/;"	v
+CirParseError	src/cir/cirMgr.cpp	/^enum CirParseError {$/;"	g	file:
+CirPrintCmd	src/cir/cirCmd.h	/^CmdClass(CirPrintCmd);$/;"	v
+CirReadCmd	src/cir/cirCmd.h	/^CmdClass(CirReadCmd);$/;"	v
+CirSimCmd	src/cir/cirCmd.h	/^CmdClass(CirSimCmd);$/;"	v
+CirStrashCmd	src/cir/cirCmd.h	/^CmdClass(CirStrashCmd);$/;"	v
+CirSweepCmd	src/cir/cirCmd.h	/^CmdClass(CirSweepCmd);$/;"	v
+CirWriteCmd	src/cir/cirCmd.h	/^CmdClass(CirWriteCmd);$/;"	v
+Clause	include/SolverTypes.h	/^    Clause(bool learnt, const vec<Lit>& ps, ClauseId id_ = ClauseId_NULL) {$/;"	f	class:Clause
+Clause	include/SolverTypes.h	/^class Clause {$/;"	c
+Clause	src/sat/SolverTypes.h	/^    Clause(bool learnt, const vec<Lit>& ps, ClauseId id_ = ClauseId_NULL) {$/;"	f	class:Clause
+Clause	src/sat/SolverTypes.h	/^class Clause {$/;"	c
+Clause	src/sat/test/SolverTypes.h	/^    Clause(bool learnt, const vec<Lit>& ps, ClauseId id_ = ClauseId_NULL) {$/;"	f	class:Clause
+Clause	src/sat/test/SolverTypes.h	/^class Clause {$/;"	c
+ClauseId	include/SolverTypes.h	/^typedef int ClauseId;     \/\/ (might have to use uint64 one day...)$/;"	t
+ClauseId	src/sat/SolverTypes.h	/^typedef int ClauseId;     \/\/ (might have to use uint64 one day...)$/;"	t
+ClauseId	src/sat/test/SolverTypes.h	/^typedef int ClauseId;     \/\/ (might have to use uint64 one day...)$/;"	t
+ClauseId_NULL	include/SolverTypes.h	/^const   int ClauseId_NULL = INT_MIN;$/;"	v
+ClauseId_NULL	src/sat/SolverTypes.h	/^const   int ClauseId_NULL = INT_MIN;$/;"	v
+ClauseId_NULL	src/sat/test/SolverTypes.h	/^const   int ClauseId_NULL = INT_MIN;$/;"	v
+Clause_new	include/SolverTypes.h	/^inline Clause* Clause_new(bool learnt, const vec<Lit>& ps, ClauseId id = ClauseId_NULL) {$/;"	f
+Clause_new	src/sat/SolverTypes.h	/^inline Clause* Clause_new(bool learnt, const vec<Lit>& ps, ClauseId id = ClauseId_NULL) {$/;"	f
+Clause_new	src/sat/test/SolverTypes.h	/^inline Clause* Clause_new(bool learnt, const vec<Lit>& ps, ClauseId id = ClauseId_NULL) {$/;"	f
+CmdClass	include/cmdParser.h	/^#define CmdClass(/;"	d
+CmdClass	src/cmd/cmdParser.h	/^#define CmdClass(/;"	d
+CmdExec	include/cmdParser.h	/^   CmdExec() {}$/;"	f	class:CmdExec
+CmdExec	include/cmdParser.h	/^class CmdExec$/;"	c
+CmdExec	src/cmd/cmdParser.h	/^   CmdExec() {}$/;"	f	class:CmdExec
+CmdExec	src/cmd/cmdParser.h	/^class CmdExec$/;"	c
+CmdExecStatus	include/cmdParser.h	/^enum CmdExecStatus$/;"	g
+CmdExecStatus	src/cmd/cmdParser.h	/^enum CmdExecStatus$/;"	g
+CmdMap	include/cmdParser.h	/^typedef map<const string, CmdExec*>   CmdMap;$/;"	t	class:CmdParser
+CmdMap	src/cmd/cmdParser.h	/^typedef map<const string, CmdExec*>   CmdMap;$/;"	t	class:CmdParser
+CmdOptionError	include/cmdParser.h	/^enum CmdOptionError$/;"	g
+CmdOptionError	src/cmd/cmdParser.h	/^enum CmdOptionError$/;"	g
+CmdParser	include/cmdParser.h	/^   CmdParser(const string& p) : _prompt(p), _dofile(0),$/;"	f	class:CmdParser
+CmdParser	include/cmdParser.h	/^class CmdParser$/;"	c
+CmdParser	src/cmd/cmdParser.h	/^   CmdParser(const string& p) : _prompt(p), _dofile(0),$/;"	f	class:CmdParser
+CmdParser	src/cmd/cmdParser.h	/^class CmdParser$/;"	c
+CmdRegPair	include/cmdParser.h	/^typedef pair<const string, CmdExec*>  CmdRegPair;$/;"	t	class:CmdParser
+CmdRegPair	src/cmd/cmdParser.h	/^typedef pair<const string, CmdExec*>  CmdRegPair;$/;"	t	class:CmdParser
+ConstGate	src/cir/cirGate.h	/^        ConstGate() {}$/;"	f	class:ConstGate
+ConstGate	src/cir/cirGate.h	/^class ConstGate : public CirGate{$/;"	c
+DEFAULTS	include/File.h	/^    #define DEFAULTS /;"	d
+DEFAULTS	include/File.h	/^    #undef DEFAULTS$/;"	d
+DEFAULTS	src/sat/File.h	/^    #define DEFAULTS /;"	d
+DEFAULTS	src/sat/File.h	/^    #undef DEFAULTS$/;"	d
+DEFAULTS	src/sat/test/File.h	/^    #define DEFAULTS /;"	d
+DEFAULTS	src/sat/test/File.h	/^    #undef DEFAULTS$/;"	d
+DELETE_KEY	include/cmdCharDef.h	/^   DELETE_KEY       = 51 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+DELETE_KEY	include/cmdCharDef.h	/^   DELETE_KEY       = TA_DELETE_KEY,$/;"	e	enum:ParseChar
+DELETE_KEY	src/cmd/cmdCharDef.h	/^   DELETE_KEY       = 51 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+DELETE_KEY	src/cmd/cmdCharDef.h	/^   DELETE_KEY       = TA_DELETE_KEY,$/;"	e	enum:ParseChar
+DUMMY_END	src/cir/cirMgr.cpp	/^   DUMMY_END$/;"	e	enum:CirParseError	file:
+Datum	include/Global.h	/^    typedef T   Datum;$/;"	t	class:vec
+Datum	src/sat/Global.h	/^    typedef T   Datum;$/;"	t	class:vec
+Datum	src/sat/test/Global.h	/^    typedef T   Datum;$/;"	t	class:vec
+END_KEY	include/cmdCharDef.h	/^   END_KEY          = 52 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+END_KEY	include/cmdCharDef.h	/^   END_KEY          = TA_END_KEY,$/;"	e	enum:ParseChar
+END_KEY	src/cmd/cmdCharDef.h	/^   END_KEY          = 52 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+END_KEY	src/cmd/cmdCharDef.h	/^   END_KEY          = TA_END_KEY,$/;"	e	enum:ParseChar
+ESC_KEY	include/cmdCharDef.h	/^   ESC_KEY          = 27,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	include/cmdCharDef.h	/^   ESC_KEY          = TA_ESC_KEY,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	src/cmd/cmdCharDef.h	/^   ESC_KEY          = 27,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	src/cmd/cmdCharDef.h	/^   ESC_KEY          = TA_ESC_KEY,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+EXEC	Makefile	/^EXEC     = fraig$/;"	m
+EXTRA_SPACE	src/cir/cirMgr.cpp	/^   EXTRA_SPACE,$/;"	e	enum:CirParseError	file:
+Exception_EOF	include/File.h	/^class Exception_EOF {};$/;"	c
+Exception_EOF	src/sat/File.h	/^class Exception_EOF {};$/;"	c
+Exception_EOF	src/sat/test/File.h	/^class Exception_EOF {};$/;"	c
+File	include/File.h	/^    File(cchar* name, cchar* mode) : DEFAULTS {$/;"	f	class:File
+File	include/File.h	/^    File(int fd, FileMode mode, bool own_fd = true) : DEFAULTS  {$/;"	f	class:File
+File	include/File.h	/^    File(void) : DEFAULTS {}$/;"	f	class:File
+File	include/File.h	/^class File {$/;"	c
+File	src/sat/File.h	/^    File(cchar* name, cchar* mode) : DEFAULTS {$/;"	f	class:File
+File	src/sat/File.h	/^    File(int fd, FileMode mode, bool own_fd = true) : DEFAULTS  {$/;"	f	class:File
+File	src/sat/File.h	/^    File(void) : DEFAULTS {}$/;"	f	class:File
+File	src/sat/File.h	/^class File {$/;"	c
+File	src/sat/test/File.h	/^    File(cchar* name, cchar* mode) : DEFAULTS {$/;"	f	class:File
+File	src/sat/test/File.h	/^    File(int fd, FileMode mode, bool own_fd = true) : DEFAULTS  {$/;"	f	class:File
+File	src/sat/test/File.h	/^    File(void) : DEFAULTS {}$/;"	f	class:File
+File	src/sat/test/File.h	/^class File {$/;"	c
+FileMode	include/File.h	/^enum FileMode { READ, WRITE };$/;"	g
+FileMode	src/sat/File.h	/^enum FileMode { READ, WRITE };$/;"	g
+FileMode	src/sat/test/File.h	/^enum FileMode { READ, WRITE };$/;"	g
+File_BufSize	include/File.h	/^#define File_BufSize /;"	d
+File_BufSize	src/sat/File.h	/^#define File_BufSize /;"	d
+File_BufSize	src/sat/test/File.h	/^#define File_BufSize /;"	d
+File_h	include/File.h	/^#define File_h$/;"	d
+File_h	src/sat/File.h	/^#define File_h$/;"	d
+File_h	src/sat/test/File.h	/^#define File_h$/;"	d
+GClause	include/SolverTypes.h	/^    GClause(void* d) : data(d) {}$/;"	f	class:GClause
+GClause	include/SolverTypes.h	/^class GClause {$/;"	c
+GClause	src/sat/SolverTypes.h	/^    GClause(void* d) : data(d) {}$/;"	f	class:GClause
+GClause	src/sat/SolverTypes.h	/^class GClause {$/;"	c
+GClause	src/sat/test/SolverTypes.h	/^    GClause(void* d) : data(d) {}$/;"	f	class:GClause
+GClause	src/sat/test/SolverTypes.h	/^class GClause {$/;"	c
+GClause_NULL	include/SolverTypes.h	/^#define GClause_NULL /;"	d
+GClause_NULL	src/sat/SolverTypes.h	/^#define GClause_NULL /;"	d
+GClause_NULL	src/sat/test/SolverTypes.h	/^#define GClause_NULL /;"	d
+GClause_new	include/SolverTypes.h	/^inline GClause GClause_new(Clause* c) { assert(((uintp)c & 1) == 0); return GClause((void*)c); }$/;"	f
+GClause_new	include/SolverTypes.h	/^inline GClause GClause_new(Lit p)     { return GClause((void*)(((intp)index(p) << 1) + 1)); }$/;"	f
+GClause_new	src/sat/SolverTypes.h	/^inline GClause GClause_new(Clause* c) { assert(((uintp)c & 1) == 0); return GClause((void*)c); }$/;"	f
+GClause_new	src/sat/SolverTypes.h	/^inline GClause GClause_new(Lit p)     { return GClause((void*)(((intp)index(p) << 1) + 1)); }$/;"	f
+GClause_new	src/sat/test/SolverTypes.h	/^inline GClause GClause_new(Clause* c) { assert(((uintp)c & 1) == 0); return GClause((void*)c); }$/;"	f
+GClause_new	src/sat/test/SolverTypes.h	/^inline GClause GClause_new(Lit p)     { return GClause((void*)(((intp)index(p) << 1) + 1)); }$/;"	f
+Gate	src/sat/test/satTest.cpp	/^   Gate(unsigned i = 0): _gid(i) {}$/;"	f	class:Gate
+Gate	src/sat/test/satTest.cpp	/^class Gate$/;"	c	file:
+GateList	src/cir/cirDef.h	/^typedef vector<CirGate*>                        GateList;$/;"	t
+GateType	src/cir/cirDef.h	/^enum GateType{$/;"	g
+Global_h	include/Global.h	/^#define Global_h$/;"	d
+Global_h	src/sat/Global.h	/^#define Global_h$/;"	d
+Global_h	src/sat/test/Global.h	/^#define Global_h$/;"	d
+HOME_KEY	include/cmdCharDef.h	/^   HOME_KEY         = 49 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+HOME_KEY	include/cmdCharDef.h	/^   HOME_KEY         = TA_HOME_KEY,$/;"	e	enum:ParseChar
+HOME_KEY	src/cmd/cmdCharDef.h	/^   HOME_KEY         = 49 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+HOME_KEY	src/cmd/cmdCharDef.h	/^   HOME_KEY         = TA_HOME_KEY,$/;"	e	enum:ParseChar
+HashKey	include/myHashMap.h	/^        HashKey(size_t in0 = 0, size_t in1 = 0): _in0(in0), _in1(in1) {}$/;"	f	class:HashKey
+HashKey	include/myHashMap.h	/^class HashKey$/;"	c
+HashKey	src/util/myHashMap.h	/^        HashKey(size_t in0 = 0, size_t in1 = 0): _in0(in0), _in1(in1) {}$/;"	f	class:HashKey
+HashKey	src/util/myHashMap.h	/^class HashKey$/;"	c
+HashMap	include/myHashMap.h	/^   HashMap(size_t b=0) : _numBuckets(0), _buckets(0) { if (b != 0) init(b); }$/;"	f	class:HashMap
+HashMap	include/myHashMap.h	/^class HashMap$/;"	c
+HashMap	src/util/myHashMap.h	/^   HashMap(size_t b=0) : _numBuckets(0), _buckets(0) { if (b != 0) init(b); }$/;"	f	class:HashMap
+HashMap	src/util/myHashMap.h	/^class HashMap$/;"	c
+HashNode	include/myHashMap.h	/^typedef pair<HashKey, HashData> HashNode;$/;"	t	class:HashMap
+HashNode	src/util/myHashMap.h	/^typedef pair<HashKey, HashData> HashNode;$/;"	t	class:HashMap
+HashSet	src/util/myHashSet.h	/^   HashSet(size_t b = 0) : _numBuckets(0), _buckets(0) { if (b != 0) init(b); }$/;"	f	class:HashSet
+HashSet	src/util/myHashSet.h	/^class HashSet$/;"	c
+Heap	include/Heap.h	/^    Heap(C c) : comp(c) { heap.push(-1); }$/;"	f	class:Heap
+Heap	include/Heap.h	/^class Heap {$/;"	c
+Heap	src/sat/Heap.h	/^    Heap(C c) : comp(c) { heap.push(-1); }$/;"	f	class:Heap
+Heap	src/sat/Heap.h	/^class Heap {$/;"	c
+Heap	src/sat/test/Heap.h	/^    Heap(C c) : comp(c) { heap.push(-1); }$/;"	f	class:Heap
+Heap	src/sat/test/Heap.h	/^class Heap {$/;"	c
+Heap_h	include/Heap.h	/^#define Heap_h$/;"	d
+Heap_h	src/sat/Heap.h	/^#define Heap_h$/;"	d
+Heap_h	src/sat/test/Heap.h	/^#define Heap_h$/;"	d
+I64_fmt	include/Global.h	/^#define I64_fmt /;"	d
+I64_fmt	src/sat/Global.h	/^#define I64_fmt /;"	d
+I64_fmt	src/sat/test/Global.h	/^#define I64_fmt /;"	d
+ILLEGAL_IDENTIFIER	src/cir/cirMgr.cpp	/^   ILLEGAL_IDENTIFIER,$/;"	e	enum:CirParseError	file:
+ILLEGAL_NUM	src/cir/cirMgr.cpp	/^   ILLEGAL_NUM,$/;"	e	enum:CirParseError	file:
+ILLEGAL_SYMBOL_NAME	src/cir/cirMgr.cpp	/^   ILLEGAL_SYMBOL_NAME,$/;"	e	enum:CirParseError	file:
+ILLEGAL_SYMBOL_TYPE	src/cir/cirMgr.cpp	/^   ILLEGAL_SYMBOL_TYPE,$/;"	e	enum:CirParseError	file:
+ILLEGAL_WSPACE	src/cir/cirMgr.cpp	/^   ILLEGAL_WSPACE,$/;"	e	enum:CirParseError	file:
+INPUT_END_KEY	include/cmdCharDef.h	/^   INPUT_END_KEY    = 4,          \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	include/cmdCharDef.h	/^   INPUT_END_KEY    = TA_INPUT_END_KEY,   \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	src/cmd/cmdCharDef.h	/^   INPUT_END_KEY    = 4,          \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	src/cmd/cmdCharDef.h	/^   INPUT_END_KEY    = TA_INPUT_END_KEY,   \/\/ ctrl-d$/;"	e	enum:ParseChar
+INSERT_KEY	include/cmdCharDef.h	/^   INSERT_KEY       = 50 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+INSERT_KEY	include/cmdCharDef.h	/^   INSERT_KEY       = TA_INSERT_KEY,$/;"	e	enum:ParseChar
+INSERT_KEY	src/cmd/cmdCharDef.h	/^   INSERT_KEY       = 50 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+INSERT_KEY	src/cmd/cmdCharDef.h	/^   INSERT_KEY       = TA_INSERT_KEY,$/;"	e	enum:ParseChar
+IdList	src/cir/cirDef.h	/^typedef vector<unsigned>                        IdList;$/;"	t
+Key	include/Global.h	/^    typedef int Key;$/;"	t	class:vec
+Key	src/sat/Global.h	/^    typedef int Key;$/;"	t	class:vec
+Key	src/sat/test/Global.h	/^    typedef int Key;$/;"	t	class:vec
+LIBPKGS	Makefile	/^LIBPKGS  = $(REFPKGS) $(SRCPKGS)$/;"	m
+LIBS	Makefile	/^LIBS     = $(addprefix -l, $(LIBPKGS))$/;"	m
+LINE_BEGIN_KEY	include/cmdCharDef.h	/^   LINE_BEGIN_KEY   = 1,          \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	include/cmdCharDef.h	/^   LINE_BEGIN_KEY   = TA_LINE_BEGIN_KEY,  \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^   LINE_BEGIN_KEY   = 1,          \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^   LINE_BEGIN_KEY   = TA_LINE_BEGIN_KEY,  \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_END_KEY	include/cmdCharDef.h	/^   LINE_END_KEY     = 5,          \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	include/cmdCharDef.h	/^   LINE_END_KEY     = TA_LINE_END_KEY,    \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	src/cmd/cmdCharDef.h	/^   LINE_END_KEY     = 5,          \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	src/cmd/cmdCharDef.h	/^   LINE_END_KEY     = TA_LINE_END_KEY,    \/\/ ctrl-e$/;"	e	enum:ParseChar
+L_LIT	include/Solver.h	/^#define L_LIT /;"	d
+L_LIT	src/sat/Solver.h	/^#define L_LIT /;"	d
+L_LIT	src/sat/test/Solver.h	/^#define L_LIT /;"	d
+L_lit	include/Solver.h	/^#define L_lit(/;"	d
+L_lit	src/sat/Solver.h	/^#define L_lit(/;"	d
+L_lit	src/sat/test/Solver.h	/^#define L_lit(/;"	d
+LessThan_default	include/Sort.h	/^struct LessThan_default {$/;"	s
+LessThan_default	src/sat/Sort.h	/^struct LessThan_default {$/;"	s
+LessThan_default	src/sat/test/Sort.h	/^struct LessThan_default {$/;"	s
+Lit	include/SolverTypes.h	/^    Lit() : x(2*var_Undef) {}   \/\/ (lit_Undef)$/;"	f	class:Lit
+Lit	include/SolverTypes.h	/^    explicit Lit(Var var, bool sgn = false) : x((var+var) + (int)sgn) {}$/;"	f	class:Lit
+Lit	include/SolverTypes.h	/^class Lit {$/;"	c
+Lit	src/sat/SolverTypes.h	/^    Lit() : x(2*var_Undef) {}   \/\/ (lit_Undef)$/;"	f	class:Lit
+Lit	src/sat/SolverTypes.h	/^    explicit Lit(Var var, bool sgn = false) : x((var+var) + (int)sgn) {}$/;"	f	class:Lit
+Lit	src/sat/SolverTypes.h	/^class Lit {$/;"	c
+Lit	src/sat/test/SolverTypes.h	/^    Lit() : x(2*var_Undef) {}   \/\/ (lit_Undef)$/;"	f	class:Lit
+Lit	src/sat/test/SolverTypes.h	/^    explicit Lit(Var var, bool sgn = false) : x((var+var) + (int)sgn) {}$/;"	f	class:Lit
+Lit	src/sat/test/SolverTypes.h	/^class Lit {$/;"	c
+MAIN	Makefile	/^MAIN     = main$/;"	m
+MAX_LIT_ID	src/cir/cirMgr.cpp	/^   MAX_LIT_ID,$/;"	e	enum:CirParseError	file:
+MISSING_DEF	src/cir/cirMgr.cpp	/^   MISSING_DEF,$/;"	e	enum:CirParseError	file:
+MISSING_IDENTIFIER	src/cir/cirMgr.cpp	/^   MISSING_IDENTIFIER,$/;"	e	enum:CirParseError	file:
+MISSING_NEWLINE	src/cir/cirMgr.cpp	/^   MISSING_NEWLINE,$/;"	e	enum:CirParseError	file:
+MISSING_NUM	src/cir/cirMgr.cpp	/^   MISSING_NUM,$/;"	e	enum:CirParseError	file:
+MISSING_SPACE	src/cir/cirMgr.cpp	/^   MISSING_SPACE,$/;"	e	enum:CirParseError	file:
+MOD_KEY_BEGIN	include/cmdCharDef.h	/^   MOD_KEY_BEGIN    = HOME_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	include/cmdCharDef.h	/^   MOD_KEY_BEGIN    = TA_MOD_KEY_BEGIN,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   MOD_KEY_BEGIN    = HOME_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   MOD_KEY_BEGIN    = TA_MOD_KEY_BEGIN,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	include/cmdCharDef.h	/^   MOD_KEY_DUMMY    = 126,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	include/cmdCharDef.h	/^   MOD_KEY_DUMMY    = TA_MOD_KEY_DUMMY,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^   MOD_KEY_DUMMY    = 126,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^   MOD_KEY_DUMMY    = TA_MOD_KEY_DUMMY,$/;"	e	enum:ParseChar
+MOD_KEY_END	include/cmdCharDef.h	/^   MOD_KEY_END      = PG_DOWN_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_END	include/cmdCharDef.h	/^   MOD_KEY_END      = TA_MOD_KEY_END,$/;"	e	enum:ParseChar
+MOD_KEY_END	src/cmd/cmdCharDef.h	/^   MOD_KEY_END      = PG_DOWN_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_END	src/cmd/cmdCharDef.h	/^   MOD_KEY_END      = TA_MOD_KEY_END,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	include/cmdCharDef.h	/^   MOD_KEY_FLAG     = 1 << 9,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	include/cmdCharDef.h	/^   MOD_KEY_FLAG     = TA_MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^   MOD_KEY_FLAG     = 1 << 9,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^   MOD_KEY_FLAG     = TA_MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+MOD_KEY_INT	include/cmdCharDef.h	/^   MOD_KEY_INT      = 91,$/;"	e	enum:ParseChar
+MOD_KEY_INT	include/cmdCharDef.h	/^   MOD_KEY_INT      = TA_MOD_KEY_INT,$/;"	e	enum:ParseChar
+MOD_KEY_INT	src/cmd/cmdCharDef.h	/^   MOD_KEY_INT      = 91,$/;"	e	enum:ParseChar
+MOD_KEY_INT	src/cmd/cmdCharDef.h	/^   MOD_KEY_INT      = TA_MOD_KEY_INT,$/;"	e	enum:ParseChar
+MYCLK_TCK	include/myUsage.h	/^#define MYCLK_TCK /;"	d
+MYCLK_TCK	include/myUsage.h	/^#undef MYCLK_TCK$/;"	d
+MYCLK_TCK	src/util/myUsage.h	/^#define MYCLK_TCK /;"	d
+MYCLK_TCK	src/util/myUsage.h	/^#undef MYCLK_TCK$/;"	d
+MY_HASH_MAP_H	include/myHashMap.h	/^#define MY_HASH_MAP_H$/;"	d
+MY_HASH_MAP_H	src/util/myHashMap.h	/^#define MY_HASH_MAP_H$/;"	d
+MY_HASH_SET_H	src/util/myHashSet.h	/^#define MY_HASH_SET_H$/;"	d
+MY_USAGE_H	include/myUsage.h	/^#define MY_USAGE_H$/;"	d
+MY_USAGE_H	src/util/myUsage.h	/^#define MY_USAGE_H$/;"	d
+MyUsage	include/myUsage.h	/^   MyUsage() { reset(); }$/;"	f	class:MyUsage
+MyUsage	include/myUsage.h	/^class MyUsage$/;"	c
+MyUsage	src/util/myUsage.h	/^   MyUsage() { reset(); }$/;"	f	class:MyUsage
+MyUsage	src/util/myUsage.h	/^class MyUsage$/;"	c
+NEG	src/cir/cirGate.h	/^#define NEG /;"	d
+NEWLINE_KEY	include/cmdCharDef.h	/^   NEWLINE_KEY      = TA_NEWLINE_KEY,     \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	include/cmdCharDef.h	/^   NEWLINE_KEY      = int('\\n'),  \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	src/cmd/cmdCharDef.h	/^   NEWLINE_KEY      = TA_NEWLINE_KEY,     \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	src/cmd/cmdCharDef.h	/^   NEWLINE_KEY      = int('\\n'),  \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NUM_TOO_BIG	src/cir/cirMgr.cpp	/^   NUM_TOO_BIG,$/;"	e	enum:CirParseError	file:
+NUM_TOO_SMALL	src/cir/cirMgr.cpp	/^   NUM_TOO_SMALL,$/;"	e	enum:CirParseError	file:
+PARSE_CHAR_END	include/cmdCharDef.h	/^   PARSE_CHAR_END$/;"	e	enum:ParseChar
+PARSE_CHAR_END	src/cmd/cmdCharDef.h	/^   PARSE_CHAR_END$/;"	e	enum:ParseChar
+PG_DOWN_KEY	include/cmdCharDef.h	/^   PG_DOWN_KEY      = 54 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	include/cmdCharDef.h	/^   PG_DOWN_KEY      = TA_PG_DOWN_KEY,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^   PG_DOWN_KEY      = 54 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^   PG_DOWN_KEY      = TA_PG_DOWN_KEY,$/;"	e	enum:ParseChar
+PG_OFFSET	include/cmdParser.h	/^#define PG_OFFSET /;"	d
+PG_OFFSET	src/cmd/cmdParser.h	/^#define PG_OFFSET /;"	d
+PG_UP_KEY	include/cmdCharDef.h	/^   PG_UP_KEY        = 53 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_UP_KEY	include/cmdCharDef.h	/^   PG_UP_KEY        = TA_PG_UP_KEY,$/;"	e	enum:ParseChar
+PG_UP_KEY	src/cmd/cmdCharDef.h	/^   PG_UP_KEY        = 53 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_UP_KEY	src/cmd/cmdCharDef.h	/^   PG_UP_KEY        = TA_PG_UP_KEY,$/;"	e	enum:ParseChar
+PI_GATE	src/cir/cirDef.h	/^    PI_GATE = 1,$/;"	e	enum:GateType
+PO_GATE	src/cir/cirDef.h	/^    PO_GATE = 2,$/;"	e	enum:GateType
+ParseChar	include/cmdCharDef.h	/^enum ParseChar$/;"	g
+ParseChar	src/cmd/cmdCharDef.h	/^enum ParseChar$/;"	g
+PiGate	src/cir/cirGate.h	/^        PiGate() {}$/;"	f	class:PiGate
+PiGate	src/cir/cirGate.h	/^class PiGate : public CirGate{$/;"	c
+PoGate	src/cir/cirGate.h	/^        PoGate() {}$/;"	f	class:PoGate
+PoGate	src/cir/cirGate.h	/^class PoGate : public CirGate{$/;"	c
+Proof	include/Proof.h	/^class Proof {$/;"	c
+Proof	src/sat/Proof.cpp	/^Proof::Proof()$/;"	f	class:Proof
+Proof	src/sat/Proof.cpp	/^Proof::Proof(ProofTraverser& t)$/;"	f	class:Proof
+Proof	src/sat/Proof.h	/^class Proof {$/;"	c
+Proof	src/sat/test/Proof.cpp	/^Proof::Proof()$/;"	f	class:Proof
+Proof	src/sat/test/Proof.cpp	/^Proof::Proof(ProofTraverser& t)$/;"	f	class:Proof
+Proof	src/sat/test/Proof.h	/^class Proof {$/;"	c
+ProofTraverser	include/Proof.h	/^struct ProofTraverser {$/;"	s
+ProofTraverser	src/sat/Proof.h	/^struct ProofTraverser {$/;"	s
+ProofTraverser	src/sat/test/Proof.h	/^struct ProofTraverser {$/;"	s
+Proof_h	include/Proof.h	/^#define Proof_h$/;"	d
+Proof_h	src/sat/Proof.h	/^#define Proof_h$/;"	d
+Proof_h	src/sat/test/Proof.h	/^#define Proof_h$/;"	d
+READ	include/File.h	/^enum FileMode { READ, WRITE };$/;"	e	enum:FileMode
+READ	src/sat/File.h	/^enum FileMode { READ, WRITE };$/;"	e	enum:FileMode
+READ	src/sat/test/File.h	/^enum FileMode { READ, WRITE };$/;"	e	enum:FileMode
+READ_BUF_SIZE	include/cmdParser.h	/^#define READ_BUF_SIZE /;"	d
+READ_BUF_SIZE	src/cmd/cmdParser.h	/^#define READ_BUF_SIZE /;"	d
+REDEF_CONST	src/cir/cirMgr.cpp	/^   REDEF_CONST,$/;"	e	enum:CirParseError	file:
+REDEF_GATE	src/cir/cirMgr.cpp	/^   REDEF_GATE,$/;"	e	enum:CirParseError	file:
+REDEF_SYMBOLIC_NAME	src/cir/cirMgr.cpp	/^   REDEF_SYMBOLIC_NAME,$/;"	e	enum:CirParseError	file:
+REFPKGS	Makefile	/^REFPKGS  = cmd$/;"	m
+RN_GEN_H	include/rnGen.h	/^#define RN_GEN_H$/;"	d
+RN_GEN_H	src/util/rnGen.h	/^#define RN_GEN_H$/;"	d
+RandomNumGen	include/rnGen.h	/^      RandomNumGen() { my_srandom(getpid()); }$/;"	f	class:RandomNumGen
+RandomNumGen	include/rnGen.h	/^      RandomNumGen(unsigned seed) { my_srandom(seed); }$/;"	f	class:RandomNumGen
+RandomNumGen	include/rnGen.h	/^class RandomNumGen$/;"	c
+RandomNumGen	src/util/rnGen.h	/^      RandomNumGen() { my_srandom(getpid()); }$/;"	f	class:RandomNumGen
+RandomNumGen	src/util/rnGen.h	/^      RandomNumGen(unsigned seed) { my_srandom(seed); }$/;"	f	class:RandomNumGen
+RandomNumGen	src/util/rnGen.h	/^class RandomNumGen$/;"	c
+SAT_H	include/sat.h	/^#define SAT_H$/;"	d
+SAT_H	src/sat/sat.h	/^#define SAT_H$/;"	d
+SAT_H	src/sat/test/sat.h	/^#define SAT_H$/;"	d
+SRCLIBS	Makefile	/^SRCLIBS  = $(addsuffix .a, $(addprefix lib, $(SRCPKGS)))$/;"	m
+SRCPKGS	Makefile	/^SRCPKGS  = cir sat util$/;"	m
+STATIC_ASSERTION_FAILURE	include/Global.h	/^template <bool> struct STATIC_ASSERTION_FAILURE {};$/;"	s
+STATIC_ASSERTION_FAILURE	src/sat/Global.h	/^template <bool> struct STATIC_ASSERTION_FAILURE {};$/;"	s
+STATIC_ASSERTION_FAILURE	src/sat/test/Global.h	/^template <bool> struct STATIC_ASSERTION_FAILURE {};$/;"	s
+SatSolver	include/sat.h	/^      SatSolver():_solver(0) { }$/;"	f	class:SatSolver
+SatSolver	include/sat.h	/^class SatSolver$/;"	c
+SatSolver	src/sat/sat.h	/^      SatSolver():_solver(0) { }$/;"	f	class:SatSolver
+SatSolver	src/sat/sat.h	/^class SatSolver$/;"	c
+SatSolver	src/sat/test/sat.h	/^      SatSolver():_solver(0) { }$/;"	f	class:SatSolver
+SatSolver	src/sat/test/sat.h	/^class SatSolver$/;"	c
+SearchParams	include/Solver.h	/^    SearchParams(double v = 1, double c = 1, double r = 0) : var_decay(v), clause_decay(c), random_var_freq(r) { }$/;"	f	struct:SearchParams
+SearchParams	include/Solver.h	/^struct SearchParams {$/;"	s
+SearchParams	src/sat/Solver.h	/^    SearchParams(double v = 1, double c = 1, double r = 0) : var_decay(v), clause_decay(c), random_var_freq(r) { }$/;"	f	struct:SearchParams
+SearchParams	src/sat/Solver.h	/^struct SearchParams {$/;"	s
+SearchParams	src/sat/test/Solver.h	/^    SearchParams(double v = 1, double c = 1, double r = 0) : var_decay(v), clause_decay(c), random_var_freq(r) { }$/;"	f	struct:SearchParams
+SearchParams	src/sat/test/Solver.h	/^struct SearchParams {$/;"	s
+Solver	include/Solver.h	/^    Solver() : ok               (true)$/;"	f	class:Solver
+Solver	include/Solver.h	/^class Solver {$/;"	c
+Solver	src/sat/Solver.h	/^    Solver() : ok               (true)$/;"	f	class:Solver
+Solver	src/sat/Solver.h	/^class Solver {$/;"	c
+Solver	src/sat/test/Solver.h	/^    Solver() : ok               (true)$/;"	f	class:Solver
+Solver	src/sat/test/Solver.h	/^class Solver {$/;"	c
+SolverStats	include/Solver.h	/^    SolverStats() : starts(0), decisions(0), propagations(0), conflicts(0)$/;"	f	struct:SolverStats
+SolverStats	include/Solver.h	/^struct SolverStats {$/;"	s
+SolverStats	src/sat/Solver.h	/^    SolverStats() : starts(0), decisions(0), propagations(0), conflicts(0)$/;"	f	struct:SolverStats
+SolverStats	src/sat/Solver.h	/^struct SolverStats {$/;"	s
+SolverStats	src/sat/test/Solver.h	/^    SolverStats() : starts(0), decisions(0), propagations(0), conflicts(0)$/;"	f	struct:SolverStats
+SolverStats	src/sat/test/Solver.h	/^struct SolverStats {$/;"	s
+SolverTypes_h	include/SolverTypes.h	/^#define SolverTypes_h$/;"	d
+SolverTypes_h	src/sat/SolverTypes.h	/^#define SolverTypes_h$/;"	d
+SolverTypes_h	src/sat/test/SolverTypes.h	/^#define SolverTypes_h$/;"	d
+Solver_h	include/Solver.h	/^#define Solver_h$/;"	d
+Solver_h	src/sat/Solver.h	/^#define Solver_h$/;"	d
+Solver_h	src/sat/test/Solver.h	/^#define Solver_h$/;"	d
+Sort_h	include/Sort.h	/^#define Sort_h$/;"	d
+Sort_h	src/sat/Sort.h	/^#define Sort_h$/;"	d
+Sort_h	src/sat/test/Sort.h	/^#define Sort_h$/;"	d
+TAB_KEY	include/cmdCharDef.h	/^   TAB_KEY          = TA_TAB_KEY,         \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	include/cmdCharDef.h	/^   TAB_KEY          = int('\\t'),  \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	src/cmd/cmdCharDef.h	/^   TAB_KEY          = TA_TAB_KEY,         \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	src/cmd/cmdCharDef.h	/^   TAB_KEY          = int('\\t'),  \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TA_ARROW_DOWN_KEY	include/cmdCharDef.h	/^#define TA_ARROW_DOWN_KEY /;"	d
+TA_ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_DOWN_KEY /;"	d
+TA_ARROW_KEY_BEGIN	include/cmdCharDef.h	/^#define TA_ARROW_KEY_BEGIN /;"	d
+TA_ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_BEGIN /;"	d
+TA_ARROW_KEY_END	include/cmdCharDef.h	/^#define TA_ARROW_KEY_END /;"	d
+TA_ARROW_KEY_END	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_END /;"	d
+TA_ARROW_KEY_FLAG	include/cmdCharDef.h	/^#define TA_ARROW_KEY_FLAG /;"	d
+TA_ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_FLAG /;"	d
+TA_ARROW_KEY_INT	include/cmdCharDef.h	/^#define TA_ARROW_KEY_INT /;"	d
+TA_ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_INT /;"	d
+TA_ARROW_LEFT_KEY	include/cmdCharDef.h	/^#define TA_ARROW_LEFT_KEY /;"	d
+TA_ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_LEFT_KEY /;"	d
+TA_ARROW_RIGHT_KEY	include/cmdCharDef.h	/^#define TA_ARROW_RIGHT_KEY /;"	d
+TA_ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_RIGHT_KEY /;"	d
+TA_ARROW_UP_KEY	include/cmdCharDef.h	/^#define TA_ARROW_UP_KEY /;"	d
+TA_ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_UP_KEY /;"	d
+TA_BACK_SPACE_CHAR	include/cmdCharDef.h	/^#define TA_BACK_SPACE_CHAR /;"	d
+TA_BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^#define TA_BACK_SPACE_CHAR /;"	d
+TA_BACK_SPACE_KEY	include/cmdCharDef.h	/^#define TA_BACK_SPACE_KEY /;"	d
+TA_BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^#define TA_BACK_SPACE_KEY /;"	d
+TA_BEEP_CHAR	include/cmdCharDef.h	/^#define TA_BEEP_CHAR /;"	d
+TA_BEEP_CHAR	src/cmd/cmdCharDef.h	/^#define TA_BEEP_CHAR /;"	d
+TA_DELETE_KEY	include/cmdCharDef.h	/^#define TA_DELETE_KEY /;"	d
+TA_DELETE_KEY	src/cmd/cmdCharDef.h	/^#define TA_DELETE_KEY /;"	d
+TA_END_KEY	include/cmdCharDef.h	/^#define TA_END_KEY /;"	d
+TA_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_END_KEY /;"	d
+TA_ESC_KEY	include/cmdCharDef.h	/^#define TA_ESC_KEY /;"	d
+TA_ESC_KEY	src/cmd/cmdCharDef.h	/^#define TA_ESC_KEY /;"	d
+TA_HOME_KEY	include/cmdCharDef.h	/^#define TA_HOME_KEY /;"	d
+TA_HOME_KEY	src/cmd/cmdCharDef.h	/^#define TA_HOME_KEY /;"	d
+TA_INPUT_END_KEY	include/cmdCharDef.h	/^#define TA_INPUT_END_KEY /;"	d
+TA_INPUT_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_INPUT_END_KEY /;"	d
+TA_INSERT_KEY	include/cmdCharDef.h	/^#define TA_INSERT_KEY /;"	d
+TA_INSERT_KEY	src/cmd/cmdCharDef.h	/^#define TA_INSERT_KEY /;"	d
+TA_LINE_BEGIN_KEY	include/cmdCharDef.h	/^#define TA_LINE_BEGIN_KEY /;"	d
+TA_LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^#define TA_LINE_BEGIN_KEY /;"	d
+TA_LINE_END_KEY	include/cmdCharDef.h	/^#define TA_LINE_END_KEY /;"	d
+TA_LINE_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_LINE_END_KEY /;"	d
+TA_MOD_KEY_BEGIN	include/cmdCharDef.h	/^#define TA_MOD_KEY_BEGIN /;"	d
+TA_MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_BEGIN /;"	d
+TA_MOD_KEY_DUMMY	include/cmdCharDef.h	/^#define TA_MOD_KEY_DUMMY /;"	d
+TA_MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_DUMMY /;"	d
+TA_MOD_KEY_END	include/cmdCharDef.h	/^#define TA_MOD_KEY_END /;"	d
+TA_MOD_KEY_END	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_END /;"	d
+TA_MOD_KEY_FLAG	include/cmdCharDef.h	/^#define TA_MOD_KEY_FLAG /;"	d
+TA_MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_FLAG /;"	d
+TA_MOD_KEY_INT	include/cmdCharDef.h	/^#define TA_MOD_KEY_INT /;"	d
+TA_MOD_KEY_INT	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_INT /;"	d
+TA_NEWLINE_KEY	include/cmdCharDef.h	/^#define TA_NEWLINE_KEY /;"	d
+TA_NEWLINE_KEY	src/cmd/cmdCharDef.h	/^#define TA_NEWLINE_KEY /;"	d
+TA_PG_DOWN_KEY	include/cmdCharDef.h	/^#define TA_PG_DOWN_KEY /;"	d
+TA_PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^#define TA_PG_DOWN_KEY /;"	d
+TA_PG_UP_KEY	include/cmdCharDef.h	/^#define TA_PG_UP_KEY /;"	d
+TA_PG_UP_KEY	src/cmd/cmdCharDef.h	/^#define TA_PG_UP_KEY /;"	d
+TA_TAB_KEY	include/cmdCharDef.h	/^#define TA_TAB_KEY /;"	d
+TA_TAB_KEY	src/cmd/cmdCharDef.h	/^#define TA_TAB_KEY /;"	d
+TA_UNDEFINED_KEY	include/cmdCharDef.h	/^#define TA_UNDEFINED_KEY /;"	d
+TA_UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^#define TA_UNDEFINED_KEY /;"	d
+TEMPLATE_FAIL	include/Global.h	/^#define TEMPLATE_FAIL /;"	d
+TEMPLATE_FAIL	src/sat/Global.h	/^#define TEMPLATE_FAIL /;"	d
+TEMPLATE_FAIL	src/sat/test/Global.h	/^#define TEMPLATE_FAIL /;"	d
+TOT_GATE	src/cir/cirDef.h	/^    TOT_GATE$/;"	e	enum:GateType
+TRA_INT	include/Proof.h	/^    int             TRA_INT;$/;"	m	class:Proof
+TRA_INT	src/sat/Proof.h	/^    int             TRA_INT;$/;"	m	class:Proof
+TRA_INT	src/sat/test/Proof.h	/^    int             TRA_INT;$/;"	m	class:Proof
+TempFiles	src/sat/Proof.cpp	/^class TempFiles {$/;"	c	file:
+TempFiles	src/sat/test/Proof.cpp	/^class TempFiles {$/;"	c	file:
+UNDEFINED_KEY	include/cmdCharDef.h	/^   UNDEFINED_KEY    = TA_UNDEFINED_KEY,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	include/cmdCharDef.h	/^   UNDEFINED_KEY  = INT_MAX,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^   UNDEFINED_KEY    = TA_UNDEFINED_KEY,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^   UNDEFINED_KEY  = INT_MAX,$/;"	e	enum:ParseChar
+UNDEF_GATE	src/cir/cirDef.h	/^    UNDEF_GATE = 0,$/;"	e	enum:GateType
+UTIL_H	include/util.h	/^#define UTIL_H$/;"	d
+UTIL_H	src/util/util.h	/^#define UTIL_H$/;"	d
+UnMap	src/cir/cirDef.h	/^typedef unordered_map<unsigned, CirGate*>       UnMap;$/;"	t
+UnSet	src/cir/cirDef.h	/^typedef unordered_set<unsigned>                 UnSet;$/;"	t
+UndefGate	src/cir/cirGate.h	/^        UndefGate() {}$/;"	f	class:UndefGate
+UndefGate	src/cir/cirGate.h	/^class UndefGate : public CirGate{$/;"	c
+Var	include/SolverTypes.h	/^typedef int Var;$/;"	t
+Var	src/sat/SolverTypes.h	/^typedef int Var;$/;"	t
+Var	src/sat/test/SolverTypes.h	/^typedef int Var;$/;"	t
+VarOrder	include/VarOrder.h	/^    VarOrder(const vec<char>& ass, const vec<double>& act) :$/;"	f	class:VarOrder
+VarOrder	include/VarOrder.h	/^class VarOrder {$/;"	c
+VarOrder	src/sat/VarOrder.h	/^    VarOrder(const vec<char>& ass, const vec<double>& act) :$/;"	f	class:VarOrder
+VarOrder	src/sat/VarOrder.h	/^class VarOrder {$/;"	c
+VarOrder	src/sat/test/VarOrder.h	/^    VarOrder(const vec<char>& ass, const vec<double>& act) :$/;"	f	class:VarOrder
+VarOrder	src/sat/test/VarOrder.h	/^class VarOrder {$/;"	c
+VarOrder_h	include/VarOrder.h	/^#define VarOrder_h$/;"	d
+VarOrder_h	src/sat/VarOrder.h	/^#define VarOrder_h$/;"	d
+VarOrder_h	src/sat/test/VarOrder.h	/^#define VarOrder_h$/;"	d
+VarOrder_lt	include/VarOrder.h	/^    VarOrder_lt(const vec<double>&  act) : activity(act) { }$/;"	f	struct:VarOrder_lt
+VarOrder_lt	include/VarOrder.h	/^struct VarOrder_lt {$/;"	s
+VarOrder_lt	src/sat/VarOrder.h	/^    VarOrder_lt(const vec<double>&  act) : activity(act) { }$/;"	f	struct:VarOrder_lt
+VarOrder_lt	src/sat/VarOrder.h	/^struct VarOrder_lt {$/;"	s
+VarOrder_lt	src/sat/test/VarOrder.h	/^    VarOrder_lt(const vec<double>&  act) : activity(act) { }$/;"	f	struct:VarOrder_lt
+VarOrder_lt	src/sat/test/VarOrder.h	/^struct VarOrder_lt {$/;"	s
+WRITE	include/File.h	/^enum FileMode { READ, WRITE };$/;"	e	enum:FileMode
+WRITE	src/sat/File.h	/^enum FileMode { READ, WRITE };$/;"	e	enum:FileMode
+WRITE	src/sat/test/File.h	/^enum FileMode { READ, WRITE };$/;"	e	enum:FileMode
+_MILOA	src/cir/cirMgr.h	/^   IdList _MILOA;$/;"	m	class:CirMgr
+__SGI_STL_INTERNAL_RELOPS	include/Global.h	/^#define __SGI_STL_INTERNAL_RELOPS$/;"	d
+__SGI_STL_INTERNAL_RELOPS	src/sat/Global.h	/^#define __SGI_STL_INTERNAL_RELOPS$/;"	d
+__SGI_STL_INTERNAL_RELOPS	src/sat/test/Global.h	/^#define __SGI_STL_INTERNAL_RELOPS$/;"	d
+_active	src/cir/cirGate.h	/^   bool _active;$/;"	m	class:CirGate
+_assump	include/sat.h	/^      vec<Lit>          _assump;    \/\/ Assumption List for assumption solve$/;"	m	class:SatSolver
+_assump	src/sat/sat.h	/^      vec<Lit>          _assump;    \/\/ Assumption List for assumption solve$/;"	m	class:SatSolver
+_assump	src/sat/test/sat.h	/^      vec<Lit>          _assump;    \/\/ Assumption List for assumption solve$/;"	m	class:SatSolver
+_buckets	include/myHashMap.h	/^   vector<HashNode>*        _buckets;$/;"	m	class:HashMap
+_buckets	src/util/myHashMap.h	/^   vector<HashNode>*        _buckets;$/;"	m	class:HashMap
+_buckets	src/util/myHashSet.h	/^   vector<Data>*     _buckets;$/;"	m	class:HashSet
+_cache	include/myHashMap.h	/^   CacheNode*     _cache;$/;"	m	class:Cache
+_cache	src/util/myHashMap.h	/^   CacheNode*     _cache;$/;"	m	class:Cache
+_cmdMap	include/cmdParser.h	/^   CmdMap    _cmdMap;                \/\/ map from string to command$/;"	m	class:CmdParser
+_cmdMap	src/cmd/cmdParser.h	/^   CmdMap    _cmdMap;                \/\/ map from string to command$/;"	m	class:CmdParser
+_col	src/cir/cirGate.h	/^   unsigned _col;$/;"	m	class:CirGate
+_comments	src/cir/cirMgr.h	/^   vector<string> _comments;$/;"	m	class:CirMgr
+_curVar	include/sat.h	/^      Var               _curVar;    \/\/ Variable currently$/;"	m	class:SatSolver
+_curVar	src/sat/sat.h	/^      Var               _curVar;    \/\/ Variable currently$/;"	m	class:SatSolver
+_curVar	src/sat/test/sat.h	/^      Var               _curVar;    \/\/ Variable currently$/;"	m	class:SatSolver
+_currentMem	include/myUsage.h	/^   double     _currentMem;$/;"	m	class:MyUsage
+_currentMem	src/util/myUsage.h	/^   double     _currentMem;$/;"	m	class:MyUsage
+_currentTick	include/myUsage.h	/^   double     _currentTick;$/;"	m	class:MyUsage
+_currentTick	src/util/myUsage.h	/^   double     _currentTick;$/;"	m	class:MyUsage
+_data	src/util/myHashSet.h	/^      Data* _data;$/;"	m	class:HashSet::iterator
+_dfsList	src/cir/cirMgr.h	/^   GateList _dfsList;$/;"	m	class:CirMgr
+_dofile	include/cmdParser.h	/^   ifstream* _dofile;                \/\/ for command script$/;"	m	class:CmdParser
+_dofile	src/cmd/cmdParser.h	/^   ifstream* _dofile;                \/\/ for command script$/;"	m	class:CmdParser
+_dofileStack	include/cmdParser.h	/^   stack<ifstream*> _dofileStack;    \/\/ For recursive dofile calling$/;"	m	class:CmdParser
+_dofileStack	src/cmd/cmdParser.h	/^   stack<ifstream*> _dofileStack;    \/\/ For recursive dofile calling$/;"	m	class:CmdParser
+_fanin	src/cir/cirGate.h	/^        IdList _fanin;$/;"	m	class:AigGate
+_fanin	src/cir/cirGate.h	/^        IdList _fanin;$/;"	m	class:PoGate
+_faninList	src/cir/cirGate.h	/^        vector<CirGateV> _faninList;$/;"	m	class:AigGate
+_faninList	src/cir/cirGate.h	/^        vector<CirGateV> _faninList;$/;"	m	class:PoGate
+_fanoutList	src/cir/cirGate.h	/^        GateList _fanoutList;$/;"	m	class:AigGate
+_fanoutList	src/cir/cirGate.h	/^        GateList _fanoutList;$/;"	m	class:ConstGate
+_fanoutList	src/cir/cirGate.h	/^        GateList _fanoutList;$/;"	m	class:PiGate
+_fanoutList	src/cir/cirGate.h	/^        GateList _fanoutList;$/;"	m	class:UndefGate
+_fbList	src/cir/cirMgr.h	/^   CirGatePairList _fbList;$/;"	m	class:CirMgr
+_gateV	src/cir/cirGate.h	/^        size_t _gateV;$/;"	m	class:CirGateV
+_gid	src/sat/test/satTest.cpp	/^   unsigned   _gid;  \/\/ for debugging purpose...$/;"	m	class:Gate	file:
+_globalRef	src/cir/cirGate.cpp	/^unsigned CirGate::_globalRef = 0;$/;"	m	class:CirGate	file:
+_globalRef	src/cir/cirGate.h	/^   static unsigned _globalRef;$/;"	m	class:CirGate
+_hash	include/myHashMap.h	/^      const HashMap* _hash;$/;"	m	class:HashMap::iterator
+_hash	src/util/myHashMap.h	/^      const HashMap* _hash;$/;"	m	class:HashMap::iterator
+_hash	src/util/myHashSet.h	/^      const HashSet* _hash;$/;"	m	class:HashSet::iterator
+_hashNode	include/myHashMap.h	/^      HashNode* _hashNode;$/;"	m	class:HashMap::iterator
+_hashNode	src/util/myHashMap.h	/^      HashNode* _hashNode;$/;"	m	class:HashMap::iterator
+_history	include/cmdParser.h	/^   vector<string>   _history;        \/\/ oldest:_history[0],latest:_hist.back()$/;"	m	class:CmdParser
+_history	src/cmd/cmdParser.h	/^   vector<string>   _history;        \/\/ oldest:_history[0],latest:_hist.back()$/;"	m	class:CmdParser
+_historyIdx	include/cmdParser.h	/^   int       _historyIdx;            \/\/ (1) Position to insert history string$/;"	m	class:CmdParser
+_historyIdx	src/cmd/cmdParser.h	/^   int       _historyIdx;            \/\/ (1) Position to insert history string$/;"	m	class:CmdParser
+_i	include/myHashMap.h	/^      size_t _i, _j;$/;"	m	class:HashMap::iterator
+_i	src/util/myHashMap.h	/^      size_t _i, _j;$/;"	m	class:HashMap::iterator
+_i	src/util/myHashSet.h	/^      size_t _i;$/;"	m	class:HashSet::iterator
+_id	src/cir/cirGate.h	/^   unsigned _id;$/;"	m	class:CirGate
+_in0	include/myHashMap.h	/^        size_t _in0, _in1;$/;"	m	class:HashKey
+_in0	src/util/myHashMap.h	/^        size_t _in0, _in1;$/;"	m	class:HashKey
+_in1	include/myHashMap.h	/^        size_t _in0, _in1;$/;"	m	class:HashKey
+_in1	src/util/myHashMap.h	/^        size_t _in0, _in1;$/;"	m	class:HashKey
+_initMem	include/myUsage.h	/^   double     _initMem;$/;"	m	class:MyUsage
+_initMem	src/util/myUsage.h	/^   double     _initMem;$/;"	m	class:MyUsage
+_j	include/myHashMap.h	/^      size_t _i, _j;$/;"	m	class:HashMap::iterator
+_j	src/util/myHashMap.h	/^      size_t _i, _j;$/;"	m	class:HashMap::iterator
+_j	src/util/myHashSet.h	/^      size_t _j;$/;"	m	class:HashSet::iterator
+_line	src/cir/cirGate.h	/^   unsigned _line;$/;"	m	class:CirGate
+_myHashMap	src/cir/cirMgr.h	/^   HashMap<HashKey, CirGateV> _myHashMap;$/;"	m	class:CirMgr
+_numBuckets	include/myHashMap.h	/^   size_t                   _numBuckets;$/;"	m	class:HashMap
+_numBuckets	src/util/myHashMap.h	/^   size_t                   _numBuckets;$/;"	m	class:HashMap
+_numBuckets	src/util/myHashSet.h	/^   size_t            _numBuckets;$/;"	m	class:HashSet
+_optCmd	include/cmdParser.h	/^   string            _optCmd;$/;"	m	class:CmdExec
+_optCmd	src/cmd/cmdParser.h	/^   string            _optCmd;$/;"	m	class:CmdExec
+_periodUsedTime	include/myUsage.h	/^   double     _periodUsedTime;$/;"	m	class:MyUsage
+_periodUsedTime	src/util/myUsage.h	/^   double     _periodUsedTime;$/;"	m	class:MyUsage
+_piList	src/cir/cirMgr.h	/^   GateList _piList;$/;"	m	class:CirMgr
+_poList	src/cir/cirMgr.h	/^   GateList _poList;$/;"	m	class:CirMgr
+_prompt	include/cmdParser.h	/^   const string _prompt;             \/\/ command prompt$/;"	m	class:CmdParser
+_prompt	src/cmd/cmdParser.h	/^   const string _prompt;             \/\/ command prompt$/;"	m	class:CmdParser
+_readBuf	include/cmdParser.h	/^   char      _readBuf[READ_BUF_SIZE];\/\/ save the current line input$/;"	m	class:CmdParser
+_readBuf	src/cmd/cmdParser.h	/^   char      _readBuf[READ_BUF_SIZE];\/\/ save the current line input$/;"	m	class:CmdParser
+_readBufEnd	include/cmdParser.h	/^   char*     _readBufEnd;            \/\/ end of string position of _readBuf$/;"	m	class:CmdParser
+_readBufEnd	src/cmd/cmdParser.h	/^   char*     _readBufEnd;            \/\/ end of string position of _readBuf$/;"	m	class:CmdParser
+_readBufPtr	include/cmdParser.h	/^   char*     _readBufPtr;            \/\/ point to the cursor position$/;"	m	class:CmdParser
+_readBufPtr	src/cmd/cmdParser.h	/^   char*     _readBufPtr;            \/\/ point to the cursor position$/;"	m	class:CmdParser
+_ref	src/cir/cirGate.h	/^   unsigned _ref;$/;"	m	class:CirGate
+_simLog	src/cir/cirMgr.h	/^   ofstream           *_simLog;$/;"	m	class:CirMgr
+_size	include/myHashMap.h	/^   size_t         _size;$/;"	m	class:Cache
+_size	src/util/myHashMap.h	/^   size_t         _size;$/;"	m	class:Cache
+_solver	include/sat.h	/^      Solver           *_solver;    \/\/ Pointer to a Minisat solver$/;"	m	class:SatSolver
+_solver	src/sat/sat.h	/^      Solver           *_solver;    \/\/ Pointer to a Minisat solver$/;"	m	class:SatSolver
+_solver	src/sat/test/sat.h	/^      Solver           *_solver;    \/\/ Pointer to a Minisat solver$/;"	m	class:SatSolver
+_symbol	src/cir/cirGate.h	/^   string _symbol;$/;"	m	class:CirGate
+_tabPressCount	include/cmdParser.h	/^   size_t    _tabPressCount;         \/\/ The number of tab pressed$/;"	m	class:CmdParser
+_tabPressCount	src/cmd/cmdParser.h	/^   size_t    _tabPressCount;         \/\/ The number of tab pressed$/;"	m	class:CmdParser
+_tempCmdStored	include/cmdParser.h	/^   bool      _tempCmdStored;         \/\/ When up\/pgUp is pressed, current line$/;"	m	class:CmdParser
+_tempCmdStored	src/cmd/cmdParser.h	/^   bool      _tempCmdStored;         \/\/ When up\/pgUp is pressed, current line$/;"	m	class:CmdParser
+_totalList	src/cir/cirMgr.h	/^   UnMap _totalList;$/;"	m	class:CirMgr
+_totalUsedTime	include/myUsage.h	/^   double     _totalUsedTime;$/;"	m	class:MyUsage
+_totalUsedTime	src/util/myUsage.h	/^   double     _totalUsedTime;$/;"	m	class:MyUsage
+_var	src/sat/test/satTest.cpp	/^   Var        _var;$/;"	m	class:Gate	file:
+activity	include/Solver.h	/^    vec<double>         activity;         \/\/ A heuristic measurement of the activity of a variable.$/;"	m	class:Solver
+activity	include/SolverTypes.h	/^    float&    activity    ()      const {$/;"	f	class:Clause
+activity	include/VarOrder.h	/^    const vec<double>&  activity;$/;"	m	struct:VarOrder_lt
+activity	src/sat/Solver.h	/^    vec<double>         activity;         \/\/ A heuristic measurement of the activity of a variable.$/;"	m	class:Solver
+activity	src/sat/SolverTypes.h	/^    float&    activity    ()      const {$/;"	f	class:Clause
+activity	src/sat/VarOrder.h	/^    const vec<double>&  activity;$/;"	m	struct:VarOrder_lt
+activity	src/sat/test/Solver.h	/^    vec<double>         activity;         \/\/ A heuristic measurement of the activity of a variable.$/;"	m	class:Solver
+activity	src/sat/test/SolverTypes.h	/^    float&    activity    ()      const {$/;"	f	class:Clause
+activity	src/sat/test/VarOrder.h	/^    const vec<double>&  activity;$/;"	m	struct:VarOrder_lt
+addAigCNF	include/sat.h	/^      void addAigCNF(Var vf, Var va, bool fa, Var vb, bool fb) {$/;"	f	class:SatSolver
+addAigCNF	src/sat/sat.h	/^      void addAigCNF(Var vf, Var va, bool fa, Var vb, bool fb) {$/;"	f	class:SatSolver
+addAigCNF	src/sat/test/sat.h	/^      void addAigCNF(Var vf, Var va, bool fa, Var vb, bool fb) {$/;"	f	class:SatSolver
+addBinary	include/Solver.h	/^    void    addBinary (Lit p, Lit q)        { addBinary_tmp [0] = p; addBinary_tmp [1] = q; addClause(addBinary_tmp); }$/;"	f	class:Solver
+addBinary	src/sat/Solver.h	/^    void    addBinary (Lit p, Lit q)        { addBinary_tmp [0] = p; addBinary_tmp [1] = q; addClause(addBinary_tmp); }$/;"	f	class:Solver
+addBinary	src/sat/test/Solver.h	/^    void    addBinary (Lit p, Lit q)        { addBinary_tmp [0] = p; addBinary_tmp [1] = q; addClause(addBinary_tmp); }$/;"	f	class:Solver
+addBinary_tmp	include/Solver.h	/^    vec<Lit>            addBinary_tmp;$/;"	m	class:Solver
+addBinary_tmp	src/sat/Solver.h	/^    vec<Lit>            addBinary_tmp;$/;"	m	class:Solver
+addBinary_tmp	src/sat/test/Solver.h	/^    vec<Lit>            addBinary_tmp;$/;"	m	class:Solver
+addClause	include/Solver.h	/^    void    addClause (const vec<Lit>& ps , bool A = true)  { newClause(ps , false , ClauseId_NULL , A); }  $/;"	f	class:Solver
+addClause	src/sat/Solver.h	/^    void    addClause (const vec<Lit>& ps , bool A = true)  { newClause(ps , false , ClauseId_NULL , A); }  $/;"	f	class:Solver
+addClause	src/sat/test/Solver.h	/^    void    addClause (const vec<Lit>& ps , bool A = true)  { newClause(ps , false , ClauseId_NULL , A); }  $/;"	f	class:Solver
+addRoot	src/sat/Proof.cpp	/^ClauseId Proof::addRoot(vec<Lit>& cl, bool A)$/;"	f	class:Proof
+addRoot	src/sat/test/Proof.cpp	/^ClauseId Proof::addRoot(vec<Lit>& cl, bool A)$/;"	f	class:Proof
+addTernary	include/Solver.h	/^    void    addTernary(Lit p, Lit q, Lit r) { addTernary_tmp[0] = p; addTernary_tmp[1] = q; addTernary_tmp[2] = r; addClause(addTernary_tmp); }$/;"	f	class:Solver
+addTernary	src/sat/Solver.h	/^    void    addTernary(Lit p, Lit q, Lit r) { addTernary_tmp[0] = p; addTernary_tmp[1] = q; addTernary_tmp[2] = r; addClause(addTernary_tmp); }$/;"	f	class:Solver
+addTernary	src/sat/test/Solver.h	/^    void    addTernary(Lit p, Lit q, Lit r) { addTernary_tmp[0] = p; addTernary_tmp[1] = q; addTernary_tmp[2] = r; addClause(addTernary_tmp); }$/;"	f	class:Solver
+addTernary_tmp	include/Solver.h	/^    vec<Lit>            addTernary_tmp;$/;"	m	class:Solver
+addTernary_tmp	src/sat/Solver.h	/^    vec<Lit>            addTernary_tmp;$/;"	m	class:Solver
+addTernary_tmp	src/sat/test/Solver.h	/^    vec<Lit>            addTernary_tmp;$/;"	m	class:Solver
+addUnit	include/Solver.h	/^    void    addUnit   (Lit p)               { addUnit_tmp   [0] = p; addClause(addUnit_tmp); }$/;"	f	class:Solver
+addUnit	src/sat/Solver.h	/^    void    addUnit   (Lit p)               { addUnit_tmp   [0] = p; addClause(addUnit_tmp); }$/;"	f	class:Solver
+addUnit	src/sat/test/Solver.h	/^    void    addUnit   (Lit p)               { addUnit_tmp   [0] = p; addClause(addUnit_tmp); }$/;"	f	class:Solver
+addUnit_tmp	include/Solver.h	/^    vec<Lit>            addUnit_tmp;$/;"	m	class:Solver
+addUnit_tmp	src/sat/Solver.h	/^    vec<Lit>            addUnit_tmp;$/;"	m	class:Solver
+addUnit_tmp	src/sat/test/Solver.h	/^    vec<Lit>            addUnit_tmp;$/;"	m	class:Solver
+addXorCNF	include/sat.h	/^      void addXorCNF(Var vf, Var va, bool fa, Var vb, bool fb) {$/;"	f	class:SatSolver
+addXorCNF	src/sat/sat.h	/^      void addXorCNF(Var vf, Var va, bool fa, Var vb, bool fb) {$/;"	f	class:SatSolver
+addXorCNF	src/sat/test/sat.h	/^      void addXorCNF(Var vf, Var va, bool fa, Var vb, bool fb) {$/;"	f	class:SatSolver
+analyze	src/sat/Solver.cpp	/^void Solver::analyze(Clause* confl, vec<Lit>& out_learnt, int& out_btlevel)$/;"	f	class:Solver
+analyze	src/sat/test/Solver.cpp	/^void Solver::analyze(Clause* confl, vec<Lit>& out_learnt, int& out_btlevel)$/;"	f	class:Solver
+analyzeFinal	src/sat/Solver.cpp	/^void Solver::analyzeFinal(Clause* confl, bool skip_first)$/;"	f	class:Solver
+analyzeFinal	src/sat/test/Solver.cpp	/^void Solver::analyzeFinal(Clause* confl, bool skip_first)$/;"	f	class:Solver
+analyze_removable	src/sat/Solver.cpp	/^bool Solver::analyze_removable(Lit p, uint min_level)$/;"	f	class:Solver
+analyze_removable	src/sat/test/Solver.cpp	/^bool Solver::analyze_removable(Lit p, uint min_level)$/;"	f	class:Solver
+analyze_seen	include/Solver.h	/^    vec<char>           analyze_seen;$/;"	m	class:Solver
+analyze_seen	src/sat/Solver.h	/^    vec<char>           analyze_seen;$/;"	m	class:Solver
+analyze_seen	src/sat/test/Solver.h	/^    vec<char>           analyze_seen;$/;"	m	class:Solver
+analyze_stack	include/Solver.h	/^    vec<Lit>            analyze_stack;$/;"	m	class:Solver
+analyze_stack	src/sat/Solver.h	/^    vec<Lit>            analyze_stack;$/;"	m	class:Solver
+analyze_stack	src/sat/test/Solver.h	/^    vec<Lit>            analyze_stack;$/;"	m	class:Solver
+analyze_tmpbin	include/Solver.h	/^    Clause*             analyze_tmpbin;$/;"	m	class:Solver
+analyze_tmpbin	src/sat/Solver.h	/^    Clause*             analyze_tmpbin;$/;"	m	class:Solver
+analyze_tmpbin	src/sat/test/Solver.h	/^    Clause*             analyze_tmpbin;$/;"	m	class:Solver
+analyze_toclear	include/Solver.h	/^    vec<Lit>            analyze_toclear;$/;"	m	class:Solver
+analyze_toclear	src/sat/Solver.h	/^    vec<Lit>            analyze_toclear;$/;"	m	class:Solver
+analyze_toclear	src/sat/test/Solver.h	/^    vec<Lit>            analyze_toclear;$/;"	m	class:Solver
+assertProperty	include/sat.h	/^      void assertProperty(Var prop, bool val) {$/;"	f	class:SatSolver
+assertProperty	src/sat/sat.h	/^      void assertProperty(Var prop, bool val) {$/;"	f	class:SatSolver
+assertProperty	src/sat/test/sat.h	/^      void assertProperty(Var prop, bool val) {$/;"	f	class:SatSolver
+assigns	include/Solver.h	/^    vec<char>           assigns;          \/\/ The current assignments (lbool:s stored as char:s).$/;"	m	class:Solver
+assigns	include/VarOrder.h	/^    const vec<char>&    assigns;     \/\/ var->val. Pointer to external assignment table.$/;"	m	class:VarOrder
+assigns	src/sat/Solver.h	/^    vec<char>           assigns;          \/\/ The current assignments (lbool:s stored as char:s).$/;"	m	class:Solver
+assigns	src/sat/VarOrder.h	/^    const vec<char>&    assigns;     \/\/ var->val. Pointer to external assignment table.$/;"	m	class:VarOrder
+assigns	src/sat/test/Solver.h	/^    vec<char>           assigns;          \/\/ The current assignments (lbool:s stored as char:s).$/;"	m	class:Solver
+assigns	src/sat/test/VarOrder.h	/^    const vec<char>&    assigns;     \/\/ var->val. Pointer to external assignment table.$/;"	m	class:VarOrder
+assume	src/sat/Solver.cpp	/^bool Solver::assume(Lit p) {$/;"	f	class:Solver
+assume	src/sat/test/Solver.cpp	/^bool Solver::assume(Lit p) {$/;"	f	class:Solver
+assumeProperty	include/sat.h	/^      void assumeProperty(Var prop, bool val) {$/;"	f	class:SatSolver
+assumeProperty	src/sat/sat.h	/^      void assumeProperty(Var prop, bool val) {$/;"	f	class:SatSolver
+assumeProperty	src/sat/test/sat.h	/^      void assumeProperty(Var prop, bool val) {$/;"	f	class:SatSolver
+assumeRelease	include/sat.h	/^      void assumeRelease() { _assump.clear(); }$/;"	f	class:SatSolver
+assumeRelease	src/sat/sat.h	/^      void assumeRelease() { _assump.clear(); }$/;"	f	class:SatSolver
+assumeRelease	src/sat/test/sat.h	/^      void assumeRelease() { _assump.clear(); }$/;"	f	class:SatSolver
+assumpSolve	include/sat.h	/^      bool assumpSolve() { return _solver->solve(_assump); }$/;"	f	class:SatSolver
+assumpSolve	src/sat/sat.h	/^      bool assumpSolve() { return _solver->solve(_assump); }$/;"	f	class:SatSolver
+assumpSolve	src/sat/test/sat.h	/^      bool assumpSolve() { return _solver->solve(_assump); }$/;"	f	class:SatSolver
+begin	include/myHashMap.h	/^   iterator begin() const {$/;"	f	class:HashMap
+begin	src/util/myHashMap.h	/^   iterator begin() const {$/;"	f	class:HashMap
+begin	src/util/myHashSet.h	/^   iterator begin() const {$/;"	f	class:HashSet
+beginChain	src/sat/Proof.cpp	/^void Proof::beginChain(ClauseId start)$/;"	f	class:Proof
+beginChain	src/sat/test/Proof.cpp	/^void Proof::beginChain(ClauseId start)$/;"	f	class:Proof
+bucketNum	include/myHashMap.h	/^   size_t bucketNum(const HashKey& k) const {$/;"	f	class:HashMap
+bucketNum	src/util/myHashMap.h	/^   size_t bucketNum(const HashKey& k) const {$/;"	f	class:HashMap
+bucketNum	src/util/myHashSet.h	/^   size_t bucketNum(const Data& d) const {$/;"	f	class:HashSet
+buf	include/File.h	/^    uchar*      buf;        \/\/ Read or write buffer.$/;"	m	class:File
+buf	src/cir/cirMgr.cpp	/^static char buf[1024];$/;"	v	file:
+buf	src/sat/File.h	/^    uchar*      buf;        \/\/ Read or write buffer.$/;"	m	class:File
+buf	src/sat/test/File.h	/^    uchar*      buf;        \/\/ Read or write buffer.$/;"	m	class:File
+cancelUntil	src/sat/Solver.cpp	/^void Solver::cancelUntil(int level) {$/;"	f	class:Solver
+cancelUntil	src/sat/test/Solver.cpp	/^void Solver::cancelUntil(int level) {$/;"	f	class:Solver
+cap	include/Global.h	/^    int cap;$/;"	m	class:vec
+cap	src/sat/Global.h	/^    int cap;$/;"	m	class:vec
+cap	src/sat/test/Global.h	/^    int cap;$/;"	m	class:vec
+capacity	include/Global.h	/^    void     capacity (int size) { grow(size); }$/;"	f	class:vec
+capacity	src/sat/Global.h	/^    void     capacity (int size) { grow(size); }$/;"	f	class:vec
+capacity	src/sat/test/Global.h	/^    void     capacity (int size) { grow(size); }$/;"	f	class:vec
+cchar	include/Global.h	/^typedef const char    cchar;$/;"	t
+cchar	src/sat/Global.h	/^typedef const char    cchar;$/;"	t
+cchar	src/sat/test/Global.h	/^typedef const char    cchar;$/;"	t
+chain_id	include/Proof.h	/^    vec<ClauseId>   chain_id;$/;"	m	class:Proof
+chain_id	src/sat/Proof.h	/^    vec<ClauseId>   chain_id;$/;"	m	class:Proof
+chain_id	src/sat/test/Proof.h	/^    vec<ClauseId>   chain_id;$/;"	m	class:Proof
+chain_lit	include/Proof.h	/^    vec<Lit>        chain_lit;$/;"	m	class:Proof
+chain_lit	src/sat/Proof.h	/^    vec<Lit>        chain_lit;$/;"	m	class:Proof
+chain_lit	src/sat/test/Proof.h	/^    vec<Lit>        chain_lit;$/;"	m	class:Proof
+check	include/Solver.h	/^inline void check(bool expr) { assert(expr); }$/;"	f
+check	include/myHashMap.h	/^   bool check(const HashKey& k) const {$/;"	f	class:HashMap
+check	src/sat/Solver.h	/^inline void check(bool expr) { assert(expr); }$/;"	f
+check	src/sat/test/Solver.h	/^inline void check(bool expr) { assert(expr); }$/;"	f
+check	src/util/myHashMap.h	/^   bool check(const HashKey& k) const {$/;"	f	class:HashMap
+check	src/util/myHashSet.h	/^   bool check(const Data& d) const {$/;"	f	class:HashSet
+checkExist	SelfCheck	/^sub checkExist{$/;"	s
+checkMem	include/myUsage.h	/^   double checkMem() const {$/;"	f	class:MyUsage
+checkMem	src/util/myUsage.h	/^   double checkMem() const {$/;"	f	class:MyUsage
+checkRemove	SelfCheck	/^sub checkRemove{$/;"	s
+checkTick	include/myUsage.h	/^   double checkTick() const {$/;"	f	class:MyUsage
+checkTick	src/util/myUsage.h	/^   double checkTick() const {$/;"	f	class:MyUsage
+claBumpActivity	include/Solver.h	/^    void     claBumpActivity (Clause* c) { if ( (c->activity() += cla_inc) > 1e20 ) claRescaleActivity(); }$/;"	f	class:Solver
+claBumpActivity	src/sat/Solver.h	/^    void     claBumpActivity (Clause* c) { if ( (c->activity() += cla_inc) > 1e20 ) claRescaleActivity(); }$/;"	f	class:Solver
+claBumpActivity	src/sat/test/Solver.h	/^    void     claBumpActivity (Clause* c) { if ( (c->activity() += cla_inc) > 1e20 ) claRescaleActivity(); }$/;"	f	class:Solver
+claDecayActivity	include/Solver.h	/^    void     claDecayActivity  () { cla_inc *= cla_decay; }$/;"	f	class:Solver
+claDecayActivity	src/sat/Solver.h	/^    void     claDecayActivity  () { cla_inc *= cla_decay; }$/;"	f	class:Solver
+claDecayActivity	src/sat/test/Solver.h	/^    void     claDecayActivity  () { cla_inc *= cla_decay; }$/;"	f	class:Solver
+claRescaleActivity	src/sat/Solver.cpp	/^void Solver::claRescaleActivity()$/;"	f	class:Solver
+claRescaleActivity	src/sat/test/Solver.cpp	/^void Solver::claRescaleActivity()$/;"	f	class:Solver
+cla_decay	include/Solver.h	/^    double              cla_decay;        \/\/ INVERSE decay factor for clause activity: stores 1\/decay.$/;"	m	class:Solver
+cla_decay	src/sat/Solver.h	/^    double              cla_decay;        \/\/ INVERSE decay factor for clause activity: stores 1\/decay.$/;"	m	class:Solver
+cla_decay	src/sat/test/Solver.h	/^    double              cla_decay;        \/\/ INVERSE decay factor for clause activity: stores 1\/decay.$/;"	m	class:Solver
+cla_inc	include/Solver.h	/^    double              cla_inc;          \/\/ Amount to bump next clause with.$/;"	m	class:Solver
+cla_inc	src/sat/Solver.h	/^    double              cla_inc;          \/\/ Amount to bump next clause with.$/;"	m	class:Solver
+cla_inc	src/sat/test/Solver.h	/^    double              cla_inc;          \/\/ Amount to bump next clause with.$/;"	m	class:Solver
+clause	include/Proof.h	/^    vec<Lit>        clause;$/;"	m	class:Proof
+clause	include/SolverTypes.h	/^    Clause*     clause   () const { return (Clause*)data; }$/;"	f	class:GClause
+clause	src/sat/Proof.h	/^    vec<Lit>        clause;$/;"	m	class:Proof
+clause	src/sat/SolverTypes.h	/^    Clause*     clause   () const { return (Clause*)data; }$/;"	f	class:GClause
+clause	src/sat/test/Proof.h	/^    vec<Lit>        clause;$/;"	m	class:Proof
+clause	src/sat/test/SolverTypes.h	/^    Clause*     clause   () const { return (Clause*)data; }$/;"	f	class:GClause
+clause_decay	include/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+clause_decay	src/sat/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+clause_decay	src/sat/test/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+clauses	include/Solver.h	/^    vec<Clause*>        clauses;          \/\/ List of problem clauses.$/;"	m	class:Solver
+clauses	src/sat/Solver.h	/^    vec<Clause*>        clauses;          \/\/ List of problem clauses.$/;"	m	class:Solver
+clauses	src/sat/test/Solver.h	/^    vec<Clause*>        clauses;          \/\/ List of problem clauses.$/;"	m	class:Solver
+clauses_literals	include/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+clauses_literals	src/sat/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+clauses_literals	src/sat/test/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+clear	include/Global.h	/^void vec<T>::clear(bool dealloc) {$/;"	f	class:vec
+clear	include/myHashMap.h	/^   void clear() {$/;"	f	class:HashMap
+clear	src/cir/cirMgr.cpp	/^void CirMgr::clear(){$/;"	f	class:CirMgr
+clear	src/sat/Global.h	/^void vec<T>::clear(bool dealloc) {$/;"	f	class:vec
+clear	src/sat/test/Global.h	/^void vec<T>::clear(bool dealloc) {$/;"	f	class:vec
+clear	src/util/myHashMap.h	/^   void clear() {$/;"	f	class:HashMap
+clear	src/util/myHashSet.h	/^   void clear() {$/;"	f	class:HashSet
+clearList	include/util.h	/^void clearList(T& l)$/;"	f
+clearList	src/util/util.h	/^void clearList(T& l)$/;"	f
+close	src/sat/File.cpp	/^void File::close(void)$/;"	f	class:File
+close	src/sat/test/File.cpp	/^void File::close(void)$/;"	f	class:File
+colNo	src/cir/cirMgr.cpp	/^static unsigned colNo  = 0;  \/\/ in printing, colNo needs to ++$/;"	v	file:
+comp	include/Heap.h	/^    C        comp;$/;"	m	class:Heap
+comp	src/sat/Heap.h	/^    C        comp;$/;"	m	class:Heap
+comp	src/sat/test/Heap.h	/^    C        comp;$/;"	m	class:Heap
+compress	src/sat/Proof.cpp	/^void Proof::compress(Proof& dst, ClauseId goal)$/;"	f	class:Proof
+compress	src/sat/test/Proof.cpp	/^void Proof::compress(Proof& dst, ClauseId goal)$/;"	f	class:Proof
+conflict	include/Solver.h	/^    vec<Lit>    conflict;           \/\/ If problem is unsatisfiable under assumptions, this vector represent the conflict clause expressed in the assumptions.$/;"	m	class:Solver
+conflict	src/sat/Solver.h	/^    vec<Lit>    conflict;           \/\/ If problem is unsatisfiable under assumptions, this vector represent the conflict clause expressed in the assumptions.$/;"	m	class:Solver
+conflict	src/sat/test/Solver.h	/^    vec<Lit>    conflict;           \/\/ If problem is unsatisfiable under assumptions, this vector represent the conflict clause expressed in the assumptions.$/;"	m	class:Solver
+conflict_id	include/Solver.h	/^    ClauseId    conflict_id;        \/\/ (In proof logging mode only.) ID for the clause 'conflict' (for proof traverseral). NOTE! The empty clause is always the last clause derived, but for conflicts under assumption, this is not necessarly true.$/;"	m	class:Solver
+conflict_id	src/sat/Solver.h	/^    ClauseId    conflict_id;        \/\/ (In proof logging mode only.) ID for the clause 'conflict' (for proof traverseral). NOTE! The empty clause is always the last clause derived, but for conflicts under assumption, this is not necessarly true.$/;"	m	class:Solver
+conflict_id	src/sat/test/Solver.h	/^    ClauseId    conflict_id;        \/\/ (In proof logging mode only.) ID for the clause 'conflict' (for proof traverseral). NOTE! The empty clause is always the last clause derived, but for conflicts under assumption, this is not necessarly true.$/;"	m	class:Solver
+conflicts	include/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+conflicts	src/sat/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+conflicts	src/sat/test/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+constructNet	src/cir/cirMgr.cpp	/^void CirMgr::constructNet(){$/;"	f	class:CirMgr
+copyTo	include/Global.h	/^    void copyTo(vec<T>& copy) const { copy.clear(); copy.growTo(sz); for (int i = 0; i < sz; i++) new (&copy[i]) T(data[i]); }$/;"	f	class:vec
+copyTo	src/sat/Global.h	/^    void copyTo(vec<T>& copy) const { copy.clear(); copy.growTo(sz); for (int i = 0; i < sz; i++) new (&copy[i]) T(data[i]); }$/;"	f	class:vec
+copyTo	src/sat/test/Global.h	/^    void copyTo(vec<T>& copy) const { copy.clear(); copy.growTo(sz); for (int i = 0; i < sz; i++) new (&copy[i]) T(data[i]); }$/;"	f	class:vec
+cpuTime	include/Global.h	/^static inline double cpuTime(void) {$/;"	f
+cpuTime	src/sat/Global.h	/^static inline double cpuTime(void) {$/;"	f
+cpuTime	src/sat/test/Global.h	/^static inline double cpuTime(void) {$/;"	f
+curCmd	src/cir/cirCmd.cpp	/^static CirCmdState curCmd = CIRINIT;$/;"	v	file:
+data	include/Global.h	/^    T*  data;$/;"	m	class:vec
+data	include/SolverTypes.h	/^    Lit     data[1];$/;"	m	class:Clause
+data	include/SolverTypes.h	/^    void*   data;$/;"	m	class:GClause
+data	src/sat/Global.h	/^    T*  data;$/;"	m	class:vec
+data	src/sat/SolverTypes.h	/^    Lit     data[1];$/;"	m	class:Clause
+data	src/sat/SolverTypes.h	/^    void*   data;$/;"	m	class:GClause
+data	src/sat/test/Global.h	/^    T*  data;$/;"	m	class:vec
+data	src/sat/test/SolverTypes.h	/^    Lit     data[1];$/;"	m	class:Clause
+data	src/sat/test/SolverTypes.h	/^    void*   data;$/;"	m	class:GClause
+decisionLevel	include/Solver.h	/^    int      decisionLevel() const { return trail_lim.size(); }$/;"	f	class:Solver
+decisionLevel	src/sat/Solver.h	/^    int      decisionLevel() const { return trail_lim.size(); }$/;"	f	class:Solver
+decisionLevel	src/sat/test/Solver.h	/^    int      decisionLevel() const { return trail_lim.size(); }$/;"	f	class:Solver
+decisions	include/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+decisions	src/sat/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+decisions	src/sat/test/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+decode64	include/File.h	/^static inline int64  decode64(uint64 val)           { return ((val & 1) == 0) ? (int64)(val >> 1) : ~(int64)(val >> 1); }$/;"	f
+decode64	src/sat/File.h	/^static inline int64  decode64(uint64 val)           { return ((val & 1) == 0) ? (int64)(val >> 1) : ~(int64)(val >> 1); }$/;"	f
+decode64	src/sat/test/File.h	/^static inline int64  decode64(uint64 val)           { return ((val & 1) == 0) ? (int64)(val >> 1) : ~(int64)(val >> 1); }$/;"	f
+default_params	include/Solver.h	/^    SearchParams    default_params;     \/\/ Restart frequency etc.$/;"	m	class:Solver
+default_params	src/sat/Solver.h	/^    SearchParams    default_params;     \/\/ Restart frequency etc.$/;"	m	class:Solver
+default_params	src/sat/test/Solver.h	/^    SearchParams    default_params;     \/\/ Restart frequency etc.$/;"	m	class:Solver
+deleted	include/Proof.h	/^    virtual void deleted(ClauseId c){}$/;"	f	struct:ProofTraverser
+deleted	src/sat/Proof.cpp	/^void Proof::deleted(ClauseId gone)$/;"	f	class:Proof
+deleted	src/sat/Proof.h	/^    virtual void deleted(ClauseId c){}$/;"	f	struct:ProofTraverser
+deleted	src/sat/test/Proof.cpp	/^void Proof::deleted(ClauseId gone)$/;"	f	class:Proof
+deleted	src/sat/test/Proof.h	/^    virtual void deleted(ClauseId c){}$/;"	f	struct:ProofTraverser
+dfsOptimize	src/cir/cirGate.cpp	/^void CirGate::dfsOptimize(UnSet& deleted){$/;"	f	class:CirGate
+dfsOptimize	src/cir/cirOpt.cpp	/^void CirMgr::dfsOptimize(const GateList& sinkList, UnSet& deleted){$/;"	f	class:CirMgr
+dfsStrash	src/cir/cirFraig.cpp	/^void CirMgr::dfsStrash(const GateList& sinkList, HashMap<HashKey, CirGateV>& hash){$/;"	f	class:CirMgr
+dfsStrash	src/cir/cirGate.cpp	/^void CirGate::dfsStrash(HashMap<HashKey, CirGateV>& hash, UnSet& dfsList, UnSet& deleted){$/;"	f	class:CirGate
+dfsTraversal	src/cir/cirGate.cpp	/^void CirGate::dfsTraversal(GateList& dfsList, CirGatePairList& fbList){$/;"	f	class:CirGate
+dfsTraversal	src/cir/cirMgr.cpp	/^void CirMgr::dfsTraversal(const GateList& sinkList){$/;"	f	class:CirMgr
+drand	include/Global.h	/^static inline double drand(double& seed) {$/;"	f
+drand	src/sat/Global.h	/^static inline double drand(double& seed) {$/;"	f
+drand	src/sat/test/Global.h	/^static inline double drand(double& seed) {$/;"	f
+effLimit	src/sat/Solver.cpp	/^int effLimit = INT_MAX;$/;"	v
+effLimit	src/sat/test/Solver.cpp	/^int effLimit = INT_MAX;$/;"	v
+empty	include/Heap.h	/^    bool empty     ()         { return heap.size() == 1; }$/;"	f	class:Heap
+empty	include/myHashMap.h	/^   bool empty() const {$/;"	f	class:HashMap
+empty	src/sat/Heap.h	/^    bool empty     ()         { return heap.size() == 1; }$/;"	f	class:Heap
+empty	src/sat/test/Heap.h	/^    bool empty     ()         { return heap.size() == 1; }$/;"	f	class:Heap
+empty	src/util/myHashMap.h	/^   bool empty() const {$/;"	f	class:HashMap
+empty	src/util/myHashSet.h	/^   bool empty() const {$/;"	f	class:HashSet
+encode64	include/File.h	/^static inline uint64 encode64(int64  val)           { return (val >= 0) ? (uint64)val << 1 : (((uint64)(~val) << 1) | 1); }$/;"	f
+encode64	src/sat/File.h	/^static inline uint64 encode64(int64  val)           { return (val >= 0) ? (uint64)val << 1 : (((uint64)(~val) << 1) | 1); }$/;"	f
+encode64	src/sat/test/File.h	/^static inline uint64 encode64(int64  val)           { return (val >= 0) ? (uint64)val << 1 : (((uint64)(~val) << 1) | 1); }$/;"	f
+end	include/myHashMap.h	/^   iterator end() const { return iterator(const_cast<HashMap<HashKey, HashData>*>(this)); }$/;"	f	class:HashMap
+end	src/util/myHashMap.h	/^   iterator end() const { return iterator(const_cast<HashMap<HashKey, HashData>*>(this)); }$/;"	f	class:HashMap
+end	src/util/myHashSet.h	/^   iterator end() const { return iterator(const_cast<HashSet<Data>*>(this)); }$/;"	f	class:HashSet
+endChain	src/sat/Proof.cpp	/^ClauseId Proof::endChain()$/;"	f	class:Proof
+endChain	src/sat/test/Proof.cpp	/^ClauseId Proof::endChain()$/;"	f	class:Proof
+enqueue	src/sat/Solver.cpp	/^bool Solver::enqueue(Lit p, Clause* from)$/;"	f	class:Solver
+enqueue	src/sat/test/Solver.cpp	/^bool Solver::enqueue(Lit p, Clause* from)$/;"	f	class:Solver
+eof	include/File.h	/^    bool eof(void) {$/;"	f	class:File
+eof	src/sat/File.h	/^    bool eof(void) {$/;"	f	class:File
+eof	src/sat/test/File.h	/^    bool eof(void) {$/;"	f	class:File
+errGate	src/cir/cirMgr.cpp	/^static CirGate *errGate;$/;"	v	file:
+errInt	src/cir/cirMgr.cpp	/^static int errInt;$/;"	v	file:
+errMsg	src/cir/cirMgr.cpp	/^static string errMsg;$/;"	v	file:
+exec	src/cir/cirCmd.cpp	/^CirFraigCmd::exec(const string& option)$/;"	f	class:CirFraigCmd
+exec	src/cir/cirCmd.cpp	/^CirGateCmd::exec(const string& option)$/;"	f	class:CirGateCmd
+exec	src/cir/cirCmd.cpp	/^CirOptCmd::exec(const string& option)$/;"	f	class:CirOptCmd
+exec	src/cir/cirCmd.cpp	/^CirPrintCmd::exec(const string& option)$/;"	f	class:CirPrintCmd
+exec	src/cir/cirCmd.cpp	/^CirReadCmd::exec(const string& option)$/;"	f	class:CirReadCmd
+exec	src/cir/cirCmd.cpp	/^CirSimCmd::exec(const string& option)$/;"	f	class:CirSimCmd
+exec	src/cir/cirCmd.cpp	/^CirStrashCmd::exec(const string& option)$/;"	f	class:CirStrashCmd
+exec	src/cir/cirCmd.cpp	/^CirSweepCmd::exec(const string& option)$/;"	f	class:CirSweepCmd
+exec	src/cir/cirCmd.cpp	/^CirWriteCmd::exec(const string& option)$/;"	f	class:CirWriteCmd
+expensive_ccmin	include/Solver.h	/^    int             expensive_ccmin;    \/\/ Controls conflict clause minimization. TRUE by default.$/;"	m	class:Solver
+expensive_ccmin	src/sat/Solver.h	/^    int             expensive_ccmin;    \/\/ Controls conflict clause minimization. TRUE by default.$/;"	m	class:Solver
+expensive_ccmin	src/sat/test/Solver.h	/^    int             expensive_ccmin;    \/\/ Controls conflict clause minimization. TRUE by default.$/;"	m	class:Solver
+fd	include/File.h	/^    int         fd;         \/\/ Underlying file descriptor.$/;"	m	class:File
+fd	src/sat/File.h	/^    int         fd;         \/\/ Underlying file descriptor.$/;"	m	class:File
+fd	src/sat/test/File.h	/^    int         fd;         \/\/ Underlying file descriptor.$/;"	m	class:File
+fileSim	src/cir/cirSim.cpp	/^CirMgr::fileSim(ifstream& patternFile)$/;"	f	class:CirMgr
+files	src/sat/Proof.cpp	/^    vec<cchar*> files;      \/\/ For clean-up purposed on abnormal exit.$/;"	m	class:TempFiles	file:
+files	src/sat/test/Proof.cpp	/^    vec<cchar*> files;      \/\/ For clean-up purposed on abnormal exit.$/;"	m	class:TempFiles	file:
+flush	include/File.h	/^    void flush(void) {$/;"	f	class:File
+flush	src/sat/File.h	/^    void flush(void) {$/;"	f	class:File
+flush	src/sat/test/File.h	/^    void flush(void) {$/;"	f	class:File
+fp	include/Proof.h	/^    File            fp;$/;"	m	class:Proof
+fp	src/sat/Proof.h	/^    File            fp;$/;"	m	class:Proof
+fp	src/sat/test/Proof.h	/^    File            fp;$/;"	m	class:Proof
+fp_name	include/Proof.h	/^    cchar*          fp_name;$/;"	m	class:Proof
+fp_name	src/sat/Proof.h	/^    cchar*          fp_name;$/;"	m	class:Proof
+fp_name	src/sat/test/Proof.h	/^    cchar*          fp_name;$/;"	m	class:Proof
+fpos	include/Proof.h	/^    int64           fpos;$/;"	m	class:Proof
+fpos	src/sat/Proof.h	/^    int64           fpos;$/;"	m	class:Proof
+fpos	src/sat/test/Proof.h	/^    int64           fpos;$/;"	m	class:Proof
+fraig	src/cir/cirFraig.cpp	/^CirMgr::fraig()$/;"	f	class:CirMgr
+gate	src/cir/cirGate.h	/^        CirGate* gate() const { return (CirGate*)(_gateV & ~size_t(NEG)); }$/;"	f	class:CirGateV
+gates	src/sat/test/satTest.cpp	/^vector<Gate *> gates;$/;"	v
+genProofModel	src/sat/test/satTest.cpp	/^genProofModel(SatSolver& s)$/;"	f
+getChar	include/File.h	/^    int getChar(void) {$/;"	f	class:File
+getChar	src/sat/File.h	/^    int getChar(void) {$/;"	f	class:File
+getChar	src/sat/test/File.h	/^    int getChar(void) {$/;"	f	class:File
+getCharQ	include/File.h	/^    int getCharQ(void) {            \/\/ Quick version with minimal overhead -- don't call this in the wrong mode!$/;"	f	class:File
+getCharQ	src/sat/File.h	/^    int getCharQ(void) {            \/\/ Quick version with minimal overhead -- don't call this in the wrong mode!$/;"	f	class:File
+getCharQ	src/sat/test/File.h	/^    int getCharQ(void) {            \/\/ Quick version with minimal overhead -- don't call this in the wrong mode!$/;"	f	class:File
+getGate	src/cir/cirMgr.h	/^   CirGate* getGate(unsigned gid) const {$/;"	f	class:CirMgr
+getHashSize	src/util/util.cpp	/^size_t getHashSize(size_t s) {$/;"	f
+getInt	include/File.h	/^static inline uint64 getInt  (File& in)             { return decode64(getUInt(in)); }$/;"	f
+getInt	src/sat/File.h	/^static inline uint64 getInt  (File& in)             { return decode64(getUInt(in)); }$/;"	f
+getInt	src/sat/test/File.h	/^static inline uint64 getInt  (File& in)             { return decode64(getUInt(in)); }$/;"	f
+getLineNo	src/cir/cirGate.h	/^   unsigned getLineNo() const { return _line; }$/;"	f	class:CirGate
+getMode	include/File.h	/^    FileMode getMode(void) {$/;"	f	class:File
+getMode	src/sat/File.h	/^    FileMode getMode(void) {$/;"	f	class:File
+getMode	src/sat/test/File.h	/^    FileMode getMode(void) {$/;"	f	class:File
+getOptCmd	include/cmdParser.h	/^   const string& getOptCmd() const { return _optCmd; }$/;"	f	class:CmdExec
+getOptCmd	src/cmd/cmdParser.h	/^   const string& getOptCmd() const { return _optCmd; }$/;"	f	class:CmdExec
+getType	src/cir/cirGate.h	/^        GateType getType() const { return GateType(AIG_GATE); }$/;"	f	class:AigGate
+getType	src/cir/cirGate.h	/^        GateType getType() const { return GateType(CONST_GATE); }$/;"	f	class:ConstGate
+getType	src/cir/cirGate.h	/^        GateType getType() const { return GateType(PI_GATE); }$/;"	f	class:PiGate
+getType	src/cir/cirGate.h	/^        GateType getType() const { return GateType(PO_GATE); }$/;"	f	class:PoGate
+getType	src/cir/cirGate.h	/^        GateType getType() const { return GateType(UNDEF_GATE); }$/;"	f	class:UndefGate
+getTypeStr	src/cir/cirGate.h	/^        string getTypeStr() const { return "AIG"; }$/;"	f	class:AigGate
+getTypeStr	src/cir/cirGate.h	/^        string getTypeStr() const { return "CONST"; }$/;"	f	class:ConstGate
+getTypeStr	src/cir/cirGate.h	/^        string getTypeStr() const { return "PI"; }$/;"	f	class:PiGate
+getTypeStr	src/cir/cirGate.h	/^        string getTypeStr() const { return "PO"; }$/;"	f	class:PoGate
+getTypeStr	src/cir/cirGate.h	/^        string getTypeStr() const { return "UNDEF"; }$/;"	f	class:UndefGate
+getUInt	src/sat/File.cpp	/^uint64 getUInt(File& in)$/;"	f
+getUInt	src/sat/test/File.cpp	/^uint64 getUInt(File& in)$/;"	f
+getValue	include/sat.h	/^      int getValue(Var v) const {$/;"	f	class:SatSolver
+getValue	src/sat/sat.h	/^      int getValue(Var v) const {$/;"	f	class:SatSolver
+getValue	src/sat/test/sat.h	/^      int getValue(Var v) const {$/;"	f	class:SatSolver
+getVar	src/sat/test/satTest.cpp	/^   Var getVar() const { return _var; }$/;"	f	class:Gate
+getmin	include/Heap.h	/^    int  getmin() {$/;"	f	class:Heap
+getmin	src/sat/Heap.h	/^    int  getmin() {$/;"	f	class:Heap
+getmin	src/sat/test/Heap.h	/^    int  getmin() {$/;"	f	class:Heap
+grow	include/Global.h	/^void vec<T>::grow(int min_cap) {$/;"	f	class:vec
+grow	src/sat/Global.h	/^void vec<T>::grow(int min_cap) {$/;"	f	class:vec
+grow	src/sat/test/Global.h	/^void vec<T>::grow(int min_cap) {$/;"	f	class:vec
+growTo	include/Global.h	/^void vec<T>::growTo(int size) {$/;"	f	class:vec
+growTo	include/Global.h	/^void vec<T>::growTo(int size, const T& pad) {$/;"	f	class:vec
+growTo	src/sat/Global.h	/^void vec<T>::growTo(int size) {$/;"	f	class:vec
+growTo	src/sat/Global.h	/^void vec<T>::growTo(int size, const T& pad) {$/;"	f	class:vec
+growTo	src/sat/test/Global.h	/^void vec<T>::growTo(int size) {$/;"	f	class:vec
+growTo	src/sat/test/Global.h	/^void vec<T>::growTo(int size, const T& pad) {$/;"	f	class:vec
+hash	include/SolverTypes.h	/^    uint hash() const { return (uint)x; }$/;"	f	class:Lit
+hash	src/sat/SolverTypes.h	/^    uint hash() const { return (uint)x; }$/;"	f	class:Lit
+hash	src/sat/test/SolverTypes.h	/^    uint hash() const { return (uint)x; }$/;"	f	class:Lit
+heap	include/Heap.h	/^    vec<int> heap;     \/\/ heap of ints$/;"	m	class:Heap
+heap	include/VarOrder.h	/^    Heap<VarOrder_lt>   heap;$/;"	m	class:VarOrder
+heap	src/sat/Heap.h	/^    vec<int> heap;     \/\/ heap of ints$/;"	m	class:Heap
+heap	src/sat/VarOrder.h	/^    Heap<VarOrder_lt>   heap;$/;"	m	class:VarOrder
+heap	src/sat/test/Heap.h	/^    vec<int> heap;     \/\/ heap of ints$/;"	m	class:Heap
+heap	src/sat/test/VarOrder.h	/^    Heap<VarOrder_lt>   heap;$/;"	m	class:VarOrder
+heapProperty	include/Heap.h	/^    bool heapProperty() {$/;"	f	class:Heap
+heapProperty	include/Heap.h	/^    bool heapProperty(int i) {$/;"	f	class:Heap
+heapProperty	src/sat/Heap.h	/^    bool heapProperty() {$/;"	f	class:Heap
+heapProperty	src/sat/Heap.h	/^    bool heapProperty(int i) {$/;"	f	class:Heap
+heapProperty	src/sat/test/Heap.h	/^    bool heapProperty() {$/;"	f	class:Heap
+heapProperty	src/sat/test/Heap.h	/^    bool heapProperty(int i) {$/;"	f	class:Heap
+help	src/cir/cirCmd.cpp	/^CirFraigCmd::help() const$/;"	f	class:CirFraigCmd
+help	src/cir/cirCmd.cpp	/^CirGateCmd::help() const$/;"	f	class:CirGateCmd
+help	src/cir/cirCmd.cpp	/^CirOptCmd::help() const$/;"	f	class:CirOptCmd
+help	src/cir/cirCmd.cpp	/^CirPrintCmd::help() const$/;"	f	class:CirPrintCmd
+help	src/cir/cirCmd.cpp	/^CirReadCmd::help() const$/;"	f	class:CirReadCmd
+help	src/cir/cirCmd.cpp	/^CirSimCmd::help() const$/;"	f	class:CirSimCmd
+help	src/cir/cirCmd.cpp	/^CirStrashCmd::help() const$/;"	f	class:CirStrashCmd
+help	src/cir/cirCmd.cpp	/^CirSweepCmd::help() const$/;"	f	class:CirSweepCmd
+help	src/cir/cirCmd.cpp	/^CirWriteCmd::help() const$/;"	f	class:CirWriteCmd
+id	include/SolverTypes.h	/^    ClauseId& id          ()      const { return *((ClauseId*)&data[size() + (int)learnt()]); }$/;"	f	class:Clause
+id	include/SolverTypes.h	/^inline Lit  id    (Lit p, bool sgn) { Lit q; q.x = p.x ^ (int)sgn; return q; }$/;"	f
+id	src/sat/SolverTypes.h	/^    ClauseId& id          ()      const { return *((ClauseId*)&data[size() + (int)learnt()]); }$/;"	f	class:Clause
+id	src/sat/SolverTypes.h	/^inline Lit  id    (Lit p, bool sgn) { Lit q; q.x = p.x ^ (int)sgn; return q; }$/;"	f
+id	src/sat/test/SolverTypes.h	/^    ClauseId& id          ()      const { return *((ClauseId*)&data[size() + (int)learnt()]); }$/;"	f	class:Clause
+id	src/sat/test/SolverTypes.h	/^inline Lit  id    (Lit p, bool sgn) { Lit q; q.x = p.x ^ (int)sgn; return q; }$/;"	f
+id_counter	include/Proof.h	/^    ClauseId        id_counter;$/;"	m	class:Proof
+id_counter	src/sat/Proof.h	/^    ClauseId        id_counter;$/;"	m	class:Proof
+id_counter	src/sat/test/Proof.h	/^    ClauseId        id_counter;$/;"	m	class:Proof
+inHeap	include/Heap.h	/^    bool inHeap    (int n)    { assert(ok(n)); return indices[n] != 0; }$/;"	f	class:Heap
+inHeap	src/sat/Heap.h	/^    bool inHeap    (int n)    { assert(ok(n)); return indices[n] != 0; }$/;"	f	class:Heap
+inHeap	src/sat/test/Heap.h	/^    bool inHeap    (int n)    { assert(ok(n)); return indices[n] != 0; }$/;"	f	class:Heap
+increase	include/Heap.h	/^    void increase  (int n)    { assert(ok(n)); assert(inHeap(n)); percolateUp(indices[n]); }$/;"	f	class:Heap
+increase	src/sat/Heap.h	/^    void increase  (int n)    { assert(ok(n)); assert(inHeap(n)); percolateUp(indices[n]); }$/;"	f	class:Heap
+increase	src/sat/test/Heap.h	/^    void increase  (int n)    { assert(ok(n)); assert(inHeap(n)); percolateUp(indices[n]); }$/;"	f	class:Heap
+index	include/SolverTypes.h	/^inline int  index (Lit p) { return p.x; }                \/\/ A "toInt" method that guarantees small, positive integers suitable for array indexing.$/;"	f
+index	src/sat/SolverTypes.h	/^inline int  index (Lit p) { return p.x; }                \/\/ A "toInt" method that guarantees small, positive integers suitable for array indexing.$/;"	f
+index	src/sat/test/SolverTypes.h	/^inline int  index (Lit p) { return p.x; }                \/\/ A "toInt" method that guarantees small, positive integers suitable for array indexing.$/;"	f
+indices	include/Heap.h	/^    vec<int> indices;  \/\/ int -> index in heap$/;"	m	class:Heap
+indices	src/sat/Heap.h	/^    vec<int> indices;  \/\/ int -> index in heap$/;"	m	class:Heap
+indices	src/sat/test/Heap.h	/^    vec<int> indices;  \/\/ int -> index in heap$/;"	m	class:Heap
+init	include/myHashMap.h	/^   void init(size_t b) {$/;"	f	class:HashMap
+init	include/myHashMap.h	/^   void init(size_t s) { reset(); _size = s; _cache = new CacheNode[s]; }$/;"	f	class:Cache
+init	src/cir/cirMgr.cpp	/^void CirMgr::init(){$/;"	f	class:CirMgr
+init	src/util/myHashMap.h	/^   void init(size_t b) {$/;"	f	class:HashMap
+init	src/util/myHashMap.h	/^   void init(size_t s) { reset(); _size = s; _cache = new CacheNode[s]; }$/;"	f	class:Cache
+init	src/util/myHashSet.h	/^   void init(size_t b) { _numBuckets = b; _buckets = new vector<Data>[b]; }$/;"	f	class:HashSet
+initCirCmd	src/cir/cirCmd.cpp	/^initCirCmd()$/;"	f
+initCircuit	src/sat/test/satTest.cpp	/^initCircuit()$/;"	f
+initialize	include/sat.h	/^      void initialize() {$/;"	f	class:SatSolver
+initialize	src/sat/sat.h	/^      void initialize() {$/;"	f	class:SatSolver
+initialize	src/sat/test/sat.h	/^      void initialize() {$/;"	f	class:SatSolver
+insert	include/Heap.h	/^    void insert(int n) {$/;"	f	class:Heap
+insert	include/myHashMap.h	/^   bool insert(const HashKey& k, const HashData& d) {$/;"	f	class:HashMap
+insert	src/sat/Heap.h	/^    void insert(int n) {$/;"	f	class:Heap
+insert	src/sat/test/Heap.h	/^    void insert(int n) {$/;"	f	class:Heap
+insert	src/util/myHashMap.h	/^   bool insert(const HashKey& k, const HashData& d) {$/;"	f	class:HashMap
+insert	src/util/myHashSet.h	/^   bool insert(const Data& d) {$/;"	f	class:HashSet
+int64	include/Global.h	/^typedef INT64              int64;$/;"	t
+int64	include/Global.h	/^typedef long long          int64;$/;"	t
+int64	src/sat/Global.h	/^typedef INT64              int64;$/;"	t
+int64	src/sat/Global.h	/^typedef long long          int64;$/;"	t
+int64	src/sat/test/Global.h	/^typedef INT64              int64;$/;"	t
+int64	src/sat/test/Global.h	/^typedef long long          int64;$/;"	t
+intp	include/Global.h	/^typedef INT_PTR            intp;$/;"	t
+intp	include/Global.h	/^typedef __PTRDIFF_TYPE__   intp;$/;"	t
+intp	src/sat/Global.h	/^typedef INT_PTR            intp;$/;"	t
+intp	src/sat/Global.h	/^typedef __PTRDIFF_TYPE__   intp;$/;"	t
+intp	src/sat/test/Global.h	/^typedef INT_PTR            intp;$/;"	t
+intp	src/sat/test/Global.h	/^typedef __PTRDIFF_TYPE__   intp;$/;"	t
+irand	include/Global.h	/^static inline int irand(double& seed, int size) {$/;"	f
+irand	src/sat/Global.h	/^static inline int irand(double& seed, int size) {$/;"	f
+irand	src/sat/test/Global.h	/^static inline int irand(double& seed, int size) {$/;"	f
+isAig	src/cir/cirGate.h	/^   virtual bool isAig() const { if(getTypeStr()=="AIG") return true; return false; }$/;"	f	class:CirGate
+isGlobalRef	src/cir/cirGate.h	/^   bool isGlobalRef() const { return _ref == _globalRef; }$/;"	f	class:CirGate
+isInv	src/cir/cirGate.h	/^        bool isInv() const { return (_gateV & NEG); }$/;"	f	class:CirGateV
+isLit	include/SolverTypes.h	/^    bool        isLit    () const { return ((uintp)data & 1) == 1; }$/;"	f	class:GClause
+isLit	src/sat/SolverTypes.h	/^    bool        isLit    () const { return ((uintp)data & 1) == 1; }$/;"	f	class:GClause
+isLit	src/sat/test/SolverTypes.h	/^    bool        isLit    () const { return ((uintp)data & 1) == 1; }$/;"	f	class:GClause
+isValidVarName	src/util/myString.cpp	/^isValidVarName(const string& str)$/;"	f
+iterator	include/myHashMap.h	/^      iterator(HashMap* h, HashNode* n = 0, size_t i = 0, size_t j = 0)$/;"	f	class:HashMap::iterator
+iterator	include/myHashMap.h	/^   class iterator$/;"	c	class:HashMap
+iterator	src/util/myHashMap.h	/^      iterator(HashMap* h, HashNode* n = 0, size_t i = 0, size_t j = 0)$/;"	f	class:HashMap::iterator
+iterator	src/util/myHashMap.h	/^   class iterator$/;"	c	class:HashMap
+iterator	src/util/myHashSet.h	/^      iterator(HashSet* h, Data* d = 0, size_t i = 0, size_t j = 0)$/;"	f	class:HashSet::iterator
+iterator	src/util/myHashSet.h	/^      iterator(const iterator& i)$/;"	f	class:HashSet::iterator
+iterator	src/util/myHashSet.h	/^   class iterator$/;"	c	class:HashSet
+l_False	include/Global.h	/^const lbool l_False = toLbool(-1);$/;"	v
+l_False	src/sat/Global.h	/^const lbool l_False = toLbool(-1);$/;"	v
+l_False	src/sat/test/Global.h	/^const lbool l_False = toLbool(-1);$/;"	v
+l_True	include/Global.h	/^const lbool l_True  = toLbool( 1);$/;"	v
+l_True	src/sat/Global.h	/^const lbool l_True  = toLbool( 1);$/;"	v
+l_True	src/sat/test/Global.h	/^const lbool l_True  = toLbool( 1);$/;"	v
+l_Undef	include/Global.h	/^const lbool l_Undef = toLbool( 0);$/;"	v
+l_Undef	src/sat/Global.h	/^const lbool l_Undef = toLbool( 0);$/;"	v
+l_Undef	src/sat/test/Global.h	/^const lbool l_Undef = toLbool( 0);$/;"	v
+last	include/Global.h	/^    T&       last  (void)              { return data[sz-1]; }$/;"	f	class:vec
+last	include/Global.h	/^    const T& last  (void) const        { return data[sz-1]; }$/;"	f	class:vec
+last	include/Proof.h	/^    ClauseId last      () { assert(id_counter != ClauseId_NULL); return id_counter - 1; }$/;"	f	class:Proof
+last	src/sat/Global.h	/^    T&       last  (void)              { return data[sz-1]; }$/;"	f	class:vec
+last	src/sat/Global.h	/^    const T& last  (void) const        { return data[sz-1]; }$/;"	f	class:vec
+last	src/sat/Proof.h	/^    ClauseId last      () { assert(id_counter != ClauseId_NULL); return id_counter - 1; }$/;"	f	class:Proof
+last	src/sat/test/Global.h	/^    T&       last  (void)              { return data[sz-1]; }$/;"	f	class:vec
+last	src/sat/test/Global.h	/^    const T& last  (void) const        { return data[sz-1]; }$/;"	f	class:vec
+last	src/sat/test/Proof.h	/^    ClauseId last      () { assert(id_counter != ClauseId_NULL); return id_counter - 1; }$/;"	f	class:Proof
+lastToFirst_lt	src/sat/Solver.cpp	/^    lastToFirst_lt(const vec<int>& t) : trail_pos(t) {}$/;"	f	class:lastToFirst_lt
+lastToFirst_lt	src/sat/Solver.cpp	/^class lastToFirst_lt {  \/\/ Helper class to 'analyze' -- order literals from last to first occurance in 'trail[]'.$/;"	c	file:
+lastToFirst_lt	src/sat/test/Solver.cpp	/^    lastToFirst_lt(const vec<int>& t) : trail_pos(t) {}$/;"	f	class:lastToFirst_lt
+lastToFirst_lt	src/sat/test/Solver.cpp	/^class lastToFirst_lt {  \/\/ Helper class to 'analyze' -- order literals from last to first occurance in 'trail[]'.$/;"	c	file:
+lbool	include/Global.h	/^    explicit lbool(int v) : value(v) { }$/;"	f	class:lbool
+lbool	include/Global.h	/^    lbool()       : value(0) { }$/;"	f	class:lbool
+lbool	include/Global.h	/^    lbool(bool x) : value((int)x*2-1) { }$/;"	f	class:lbool
+lbool	include/Global.h	/^class lbool {$/;"	c
+lbool	src/sat/Global.h	/^    explicit lbool(int v) : value(v) { }$/;"	f	class:lbool
+lbool	src/sat/Global.h	/^    lbool()       : value(0) { }$/;"	f	class:lbool
+lbool	src/sat/Global.h	/^    lbool(bool x) : value((int)x*2-1) { }$/;"	f	class:lbool
+lbool	src/sat/Global.h	/^class lbool {$/;"	c
+lbool	src/sat/test/Global.h	/^    explicit lbool(int v) : value(v) { }$/;"	f	class:lbool
+lbool	src/sat/test/Global.h	/^    lbool()       : value(0) { }$/;"	f	class:lbool
+lbool	src/sat/test/Global.h	/^    lbool(bool x) : value((int)x*2-1) { }$/;"	f	class:lbool
+lbool	src/sat/test/Global.h	/^class lbool {$/;"	c
+learnt	include/SolverTypes.h	/^    bool      learnt      ()      const { return size_learnt & 1; }$/;"	f	class:Clause
+learnt	src/sat/SolverTypes.h	/^    bool      learnt      ()      const { return size_learnt & 1; }$/;"	f	class:Clause
+learnt	src/sat/test/SolverTypes.h	/^    bool      learnt      ()      const { return size_learnt & 1; }$/;"	f	class:Clause
+learnts	include/Solver.h	/^    vec<Clause*>        learnts;          \/\/ List of learnt clauses.$/;"	m	class:Solver
+learnts	src/sat/Solver.h	/^    vec<Clause*>        learnts;          \/\/ List of learnt clauses.$/;"	m	class:Solver
+learnts	src/sat/test/Solver.h	/^    vec<Clause*>        learnts;          \/\/ List of learnt clauses.$/;"	m	class:Solver
+learnts_literals	include/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+learnts_literals	src/sat/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+learnts_literals	src/sat/test/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+left	include/Heap.h	/^static inline int left  (int i) { return i+i; }$/;"	f
+left	src/sat/Heap.h	/^static inline int left  (int i) { return i+i; }$/;"	f
+left	src/sat/test/Heap.h	/^static inline int left  (int i) { return i+i; }$/;"	f
+level	include/Solver.h	/^    vec<int>            level;            \/\/ 'level[var]' is the decision level at which assignment was made.$/;"	m	class:Solver
+level	src/sat/Solver.h	/^    vec<int>            level;            \/\/ 'level[var]' is the decision level at which assignment was made.$/;"	m	class:Solver
+level	src/sat/test/Solver.h	/^    vec<int>            level;            \/\/ 'level[var]' is the decision level at which assignment was made.$/;"	m	class:Solver
+lineNo	src/cir/cirMgr.cpp	/^static unsigned lineNo = 0;  \/\/ in printint, lineNo needs to ++$/;"	v	file:
+listDir	src/util/util.cpp	/^int listDir$/;"	f
+lit	include/SolverTypes.h	/^    Lit         lit      () const { return toLit(((intp)data) >> 1); }$/;"	f	class:GClause
+lit	src/sat/SolverTypes.h	/^    Lit         lit      () const { return toLit(((intp)data) >> 1); }$/;"	f	class:GClause
+lit	src/sat/test/SolverTypes.h	/^    Lit         lit      () const { return toLit(((intp)data) >> 1); }$/;"	f	class:GClause
+locked	include/Solver.h	/^    bool     locked          (const Clause* c) const { return reason[var((*c)[0])] == c; }$/;"	f	class:Solver
+locked	src/sat/Solver.h	/^    bool     locked          (const Clause* c) const { return reason[var((*c)[0])] == c; }$/;"	f	class:Solver
+locked	src/sat/test/Solver.h	/^    bool     locked          (const Clause* c) const { return reason[var((*c)[0])] == c; }$/;"	f	class:Solver
+lseek64	include/File.h	/^#define lseek64 /;"	d
+lseek64	src/sat/File.h	/^#define lseek64 /;"	d
+lseek64	src/sat/test/File.h	/^#define lseek64 /;"	d
+main	src/main/main.cpp	/^main(int argc, char** argv)$/;"	f
+main	src/sat/test/satTest.cpp	/^int main()$/;"	f
+max	include/Global.h	/^template<class T> static inline T max(T x, T y) { return (x > y) ? x : y; }$/;"	f
+max	src/sat/Global.h	/^template<class T> static inline T max(T x, T y) { return (x > y) ? x : y; }$/;"	f
+max	src/sat/test/Global.h	/^template<class T> static inline T max(T x, T y) { return (x > y) ? x : y; }$/;"	f
+max_literals	include/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+max_literals	src/sat/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+max_literals	src/sat/test/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+memReadStat	include/Global.h	/^static inline int memReadStat(int field)$/;"	f
+memReadStat	src/sat/Global.h	/^static inline int memReadStat(int field)$/;"	f
+memReadStat	src/sat/test/Global.h	/^static inline int memReadStat(int field)$/;"	f
+memUsed	include/Global.h	/^static inline int64 memUsed() { return (int64)memReadStat(0) * (int64)getpagesize(); }$/;"	f
+memUsed	include/Global.h	/^static inline int64 memUsed() {$/;"	f
+memUsed	src/sat/Global.h	/^static inline int64 memUsed() { return (int64)memReadStat(0) * (int64)getpagesize(); }$/;"	f
+memUsed	src/sat/Global.h	/^static inline int64 memUsed() {$/;"	f
+memUsed	src/sat/test/Global.h	/^static inline int64 memUsed() { return (int64)memReadStat(0) * (int64)getpagesize(); }$/;"	f
+memUsed	src/sat/test/Global.h	/^static inline int64 memUsed() {$/;"	f
+min	include/Global.h	/^template<class T> static inline T min(T x, T y) { return (x < y) ? x : y; }$/;"	f
+min	src/sat/Global.h	/^template<class T> static inline T min(T x, T y) { return (x < y) ? x : y; }$/;"	f
+min	src/sat/test/Global.h	/^template<class T> static inline T min(T x, T y) { return (x < y) ? x : y; }$/;"	f
+mode	include/File.h	/^    FileMode    mode;       \/\/ Reading or writing.$/;"	m	class:File
+mode	src/sat/File.h	/^    FileMode    mode;       \/\/ Reading or writing.$/;"	m	class:File
+mode	src/sat/test/File.h	/^    FileMode    mode;       \/\/ Reading or writing.$/;"	m	class:File
+model	include/Solver.h	/^    vec<lbool>  model;              \/\/ If problem is satisfiable, this vector contains the model (if any).$/;"	m	class:Solver
+model	src/sat/Solver.h	/^    vec<lbool>  model;              \/\/ If problem is satisfiable, this vector contains the model (if any).$/;"	m	class:Solver
+model	src/sat/test/Solver.h	/^    vec<lbool>  model;              \/\/ If problem is satisfiable, this vector contains the model (if any).$/;"	m	class:Solver
+modelValue	include/Solver.h	/^    lbool   modelValue(Var x) const { return model[x]; }$/;"	f	class:Solver
+modelValue	src/sat/Solver.h	/^    lbool   modelValue(Var x) const { return model[x]; }$/;"	f	class:Solver
+modelValue	src/sat/test/Solver.h	/^    lbool   modelValue(Var x) const { return model[x]; }$/;"	f	class:Solver
+moveTo	include/Global.h	/^    void moveTo(vec<T>& dest) { dest.clear(true); dest.data = data; dest.sz = sz; dest.cap = cap; data = NULL; sz = 0; cap = 0; }$/;"	f	class:vec
+moveTo	src/sat/Global.h	/^    void moveTo(vec<T>& dest) { dest.clear(true); dest.data = data; dest.sz = sz; dest.cap = cap; data = NULL; sz = 0; cap = 0; }$/;"	f	class:vec
+moveTo	src/sat/test/Global.h	/^    void moveTo(vec<T>& dest) { dest.clear(true); dest.data = data; dest.sz = sz; dest.cap = cap; data = NULL; sz = 0; cap = 0; }$/;"	f	class:vec
+myGetChar	src/util/myGetChar.cpp	/^char myGetChar()$/;"	f
+myGetChar	src/util/myGetChar.cpp	/^char myGetChar(istream& istr)$/;"	f
+myStr2Int	src/util/myString.cpp	/^myStr2Int(const string& str, int& num)$/;"	f
+myStrGetTok	src/util/myString.cpp	/^myStrGetTok(const string& str, string& tok, size_t pos = 0,$/;"	f
+myStrNCmp	src/util/myString.cpp	/^myStrNCmp(const string& s1, const string& s2, unsigned n)$/;"	f
+myUsage	src/util/util.cpp	/^MyUsage       myUsage;$/;"	v
+my_random	include/rnGen.h	/^#define my_random /;"	d
+my_random	src/util/rnGen.h	/^#define my_random /;"	d
+my_srandom	include/rnGen.h	/^#define my_srandom /;"	d
+my_srandom	src/util/rnGen.h	/^#define my_srandom /;"	d
+myexit	src/main/main.cpp	/^myexit()$/;"	f	file:
+nAssigns	include/Solver.h	/^    int     nAssigns() { return trail.size(); }$/;"	f	class:Solver
+nAssigns	src/sat/Solver.h	/^    int     nAssigns() { return trail.size(); }$/;"	f	class:Solver
+nAssigns	src/sat/test/Solver.h	/^    int     nAssigns() { return trail.size(); }$/;"	f	class:Solver
+nClauses	include/Solver.h	/^    int     nClauses() { return clauses.size(); }$/;"	f	class:Solver
+nClauses	src/sat/Solver.h	/^    int     nClauses() { return clauses.size(); }$/;"	f	class:Solver
+nClauses	src/sat/test/Solver.h	/^    int     nClauses() { return clauses.size(); }$/;"	f	class:Solver
+nLearnts	include/Solver.h	/^    int     nLearnts() { return learnts.size(); }$/;"	f	class:Solver
+nLearnts	src/sat/Solver.h	/^    int     nLearnts() { return learnts.size(); }$/;"	f	class:Solver
+nLearnts	src/sat/test/Solver.h	/^    int     nLearnts() { return learnts.size(); }$/;"	f	class:Solver
+nVars	include/Solver.h	/^    int     nVars     ()                    { return assigns.size(); }$/;"	f	class:Solver
+nVars	src/sat/Solver.h	/^    int     nVars     ()                    { return assigns.size(); }$/;"	f	class:Solver
+nVars	src/sat/test/Solver.h	/^    int     nVars     ()                    { return assigns.size(); }$/;"	f	class:Solver
+newClause	src/sat/Solver.cpp	/^void Solver::newClause(const vec<Lit>& ps_, bool learnt, ClauseId id , bool A)$/;"	f	class:Solver
+newClause	src/sat/test/Solver.cpp	/^void Solver::newClause(const vec<Lit>& ps_, bool learnt, ClauseId id , bool A)$/;"	f	class:Solver
+newVar	include/VarOrder.h	/^void VarOrder::newVar(void)$/;"	f	class:VarOrder
+newVar	include/sat.h	/^      inline Var newVar() { _solver->newVar(); return _curVar++; }$/;"	f	class:SatSolver
+newVar	src/sat/Solver.cpp	/^Var Solver::newVar() {$/;"	f	class:Solver
+newVar	src/sat/VarOrder.h	/^void VarOrder::newVar(void)$/;"	f	class:VarOrder
+newVar	src/sat/sat.h	/^      inline Var newVar() { _solver->newVar(); return _curVar++; }$/;"	f	class:SatSolver
+newVar	src/sat/test/Solver.cpp	/^Var Solver::newVar() {$/;"	f	class:Solver
+newVar	src/sat/test/VarOrder.h	/^void VarOrder::newVar(void)$/;"	f	class:VarOrder
+newVar	src/sat/test/sat.h	/^      inline Var newVar() { _solver->newVar(); return _curVar++; }$/;"	f	class:SatSolver
+null	include/File.h	/^    bool null(void) {               \/\/ TRUE if no file is opened.$/;"	f	class:File
+null	src/sat/File.h	/^    bool null(void) {               \/\/ TRUE if no file is opened.$/;"	f	class:File
+null	src/sat/test/File.h	/^    bool null(void) {               \/\/ TRUE if no file is opened.$/;"	f	class:File
+numBuckets	include/myHashMap.h	/^   size_t numBuckets() const { return _numBuckets; }$/;"	f	class:HashMap
+numBuckets	src/util/myHashMap.h	/^   size_t numBuckets() const { return _numBuckets; }$/;"	f	class:HashMap
+numBuckets	src/util/myHashSet.h	/^   size_t numBuckets() const { return _numBuckets; }$/;"	f	class:HashSet
+ok	include/Heap.h	/^    bool ok(int n) { return n >= 0 && n < (int)indices.size(); }$/;"	f	class:Heap
+ok	include/Solver.h	/^    bool                ok;               \/\/ If FALSE, the constraints are already unsatisfiable. No part of the solver state may be used!$/;"	m	class:Solver
+ok	src/sat/Heap.h	/^    bool ok(int n) { return n >= 0 && n < (int)indices.size(); }$/;"	f	class:Heap
+ok	src/sat/Solver.h	/^    bool                ok;               \/\/ If FALSE, the constraints are already unsatisfiable. No part of the solver state may be used!$/;"	m	class:Solver
+ok	src/sat/test/Heap.h	/^    bool ok(int n) { return n >= 0 && n < (int)indices.size(); }$/;"	f	class:Heap
+ok	src/sat/test/Solver.h	/^    bool                ok;               \/\/ If FALSE, the constraints are already unsatisfiable. No part of the solver state may be used!$/;"	m	class:Solver
+okay	include/Solver.h	/^    bool    okay() { return ok; }       \/\/ FALSE means solver is in an conflicting state (must never be used again!)$/;"	f	class:Solver
+okay	src/sat/Solver.h	/^    bool    okay() { return ok; }       \/\/ FALSE means solver is in an conflicting state (must never be used again!)$/;"	f	class:Solver
+okay	src/sat/test/Solver.h	/^    bool    okay() { return ok; }       \/\/ FALSE means solver is in an conflicting state (must never be used again!)$/;"	f	class:Solver
+open	src/sat/File.cpp	/^void File::open(cchar* name, cchar* mode_)$/;"	f	class:File
+open	src/sat/File.cpp	/^void File::open(int file_descr, FileMode m, bool own)$/;"	f	class:File
+open	src/sat/Proof.cpp	/^    char* open(File& fp)$/;"	f	class:TempFiles
+open	src/sat/test/File.cpp	/^void File::open(cchar* name, cchar* mode_)$/;"	f	class:File
+open	src/sat/test/File.cpp	/^void File::open(int file_descr, FileMode m, bool own)$/;"	f	class:File
+open	src/sat/test/Proof.cpp	/^    char* open(File& fp)$/;"	f	class:TempFiles
+open64	include/File.h	/^#define open64 /;"	d
+open64	src/sat/File.h	/^#define open64 /;"	d
+open64	src/sat/test/File.h	/^#define open64 /;"	d
+operator !=	include/Global.h	/^    bool  operator != (const lbool& other) const { return value != other.value; }$/;"	f	class:lbool
+operator !=	include/Global.h	/^template <class T> static inline bool operator != (const T& x, const T& y) { return !(x == y); }$/;"	f
+operator !=	include/SolverTypes.h	/^    bool        operator != (GClause c) const { return data != c.data; }$/;"	f	class:GClause
+operator !=	include/myHashMap.h	/^      bool operator != (const iterator& i) { return _hashNode != i._hashNode; }$/;"	f	class:HashMap::iterator
+operator !=	src/sat/Global.h	/^    bool  operator != (const lbool& other) const { return value != other.value; }$/;"	f	class:lbool
+operator !=	src/sat/Global.h	/^template <class T> static inline bool operator != (const T& x, const T& y) { return !(x == y); }$/;"	f
+operator !=	src/sat/SolverTypes.h	/^    bool        operator != (GClause c) const { return data != c.data; }$/;"	f	class:GClause
+operator !=	src/sat/test/Global.h	/^    bool  operator != (const lbool& other) const { return value != other.value; }$/;"	f	class:lbool
+operator !=	src/sat/test/Global.h	/^template <class T> static inline bool operator != (const T& x, const T& y) { return !(x == y); }$/;"	f
+operator !=	src/sat/test/SolverTypes.h	/^    bool        operator != (GClause c) const { return data != c.data; }$/;"	f	class:GClause
+operator !=	src/util/myHashMap.h	/^      bool operator != (const iterator& i) { return _hashNode != i._hashNode; }$/;"	f	class:HashMap::iterator
+operator !=	src/util/myHashSet.h	/^      bool operator != (const iterator& i) { return _data != i._data; }$/;"	f	class:HashSet::iterator
+operator ()	include/Sort.h	/^    bool operator () (T x, T y) { return x < y; }$/;"	f	struct:LessThan_default
+operator ()	include/VarOrder.h	/^    bool operator () (Var x, Var y) { return activity[x] > activity[y]; }$/;"	f	struct:VarOrder_lt
+operator ()	include/myHashMap.h	/^        size_t operator () () const {$/;"	f	class:HashKey
+operator ()	include/rnGen.h	/^      const int operator() (const int range) const {$/;"	f	class:RandomNumGen
+operator ()	src/sat/Solver.cpp	/^    bool operator () (Lit p, Lit q) { return trail_pos[var(p)] > trail_pos[var(q)]; }$/;"	f	class:lastToFirst_lt
+operator ()	src/sat/Solver.cpp	/^struct reduceDB_lt { bool operator () (Clause* x, Clause* y) { return x->size() > 2 && (y->size() == 2 || x->activity() < y->activity()); } };$/;"	f	struct:reduceDB_lt
+operator ()	src/sat/Sort.h	/^    bool operator () (T x, T y) { return x < y; }$/;"	f	struct:LessThan_default
+operator ()	src/sat/VarOrder.h	/^    bool operator () (Var x, Var y) { return activity[x] > activity[y]; }$/;"	f	struct:VarOrder_lt
+operator ()	src/sat/test/Solver.cpp	/^    bool operator () (Lit p, Lit q) { return trail_pos[var(p)] > trail_pos[var(q)]; }$/;"	f	class:lastToFirst_lt
+operator ()	src/sat/test/Solver.cpp	/^struct reduceDB_lt { bool operator () (Clause* x, Clause* y) { return x->size() > 2 && (y->size() == 2 || x->activity() < y->activity()); } };$/;"	f	struct:reduceDB_lt
+operator ()	src/sat/test/Sort.h	/^    bool operator () (T x, T y) { return x < y; }$/;"	f	struct:LessThan_default
+operator ()	src/sat/test/VarOrder.h	/^    bool operator () (Var x, Var y) { return activity[x] > activity[y]; }$/;"	f	struct:VarOrder_lt
+operator ()	src/util/myHashMap.h	/^        size_t operator () () const {$/;"	f	class:HashKey
+operator ()	src/util/rnGen.h	/^      const int operator() (const int range) const {$/;"	f	class:RandomNumGen
+operator *	include/myHashMap.h	/^      const HashNode& operator * () { return *_hashNode; }$/;"	f	class:HashMap::iterator
+operator *	src/util/myHashMap.h	/^      const HashNode& operator * () { return *_hashNode; }$/;"	f	class:HashMap::iterator
+operator *	src/util/myHashSet.h	/^      const Data& operator * () const { return *_data; }$/;"	f	class:HashSet::iterator
+operator ++	include/myHashMap.h	/^      iterator operator ++ (int) {$/;"	f	class:HashMap::iterator
+operator ++	include/myHashMap.h	/^      iterator& operator ++ () {$/;"	f	class:HashMap::iterator
+operator ++	src/util/myHashMap.h	/^      iterator operator ++ (int) {$/;"	f	class:HashMap::iterator
+operator ++	src/util/myHashMap.h	/^      iterator& operator ++ () {$/;"	f	class:HashMap::iterator
+operator ++	src/util/myHashSet.h	/^      iterator operator ++ (int) {$/;"	f	class:HashSet::iterator
+operator ++	src/util/myHashSet.h	/^      iterator& operator ++ () {$/;"	f	class:HashSet::iterator
+operator --	include/myHashMap.h	/^      iterator operator -- (int) {$/;"	f	class:HashMap::iterator
+operator --	include/myHashMap.h	/^      iterator& operator -- () {$/;"	f	class:HashMap::iterator
+operator --	src/util/myHashMap.h	/^      iterator operator -- (int) {$/;"	f	class:HashMap::iterator
+operator --	src/util/myHashMap.h	/^      iterator& operator -- () {$/;"	f	class:HashMap::iterator
+operator --	src/util/myHashSet.h	/^      iterator operator -- (int) {$/;"	f	class:HashSet::iterator
+operator --	src/util/myHashSet.h	/^      iterator& operator -- () {$/;"	f	class:HashSet::iterator
+operator <	include/SolverTypes.h	/^inline bool operator <  (Lit p, Lit q) { return index(p)  < index(q); }  \/\/ '<' guarantees that p, ~p are adjacent in the ordering.$/;"	f
+operator <	src/sat/SolverTypes.h	/^inline bool operator <  (Lit p, Lit q) { return index(p)  < index(q); }  \/\/ '<' guarantees that p, ~p are adjacent in the ordering.$/;"	f
+operator <	src/sat/test/SolverTypes.h	/^inline bool operator <  (Lit p, Lit q) { return index(p)  < index(q); }  \/\/ '<' guarantees that p, ~p are adjacent in the ordering.$/;"	f
+operator <=	include/Global.h	/^template <class T> static inline bool operator <= (const T& x, const T& y) { return !(y < x);  }$/;"	f
+operator <=	src/sat/Global.h	/^template <class T> static inline bool operator <= (const T& x, const T& y) { return !(y < x);  }$/;"	f
+operator <=	src/sat/test/Global.h	/^template <class T> static inline bool operator <= (const T& x, const T& y) { return !(y < x);  }$/;"	f
+operator =	include/Global.h	/^    vec<T>&  operator = (vec<T>& other) { TEMPLATE_FAIL; }$/;"	f	class:vec
+operator =	include/myHashMap.h	/^        HashKey& operator = (const HashKey& k) { _in0 = k._in0; _in1 = k._in1; return *this; }$/;"	f	class:HashKey
+operator =	include/myHashMap.h	/^      iterator& operator = (const iterator& i) { _hashNode = i._hashNode; return *this; }$/;"	f	class:HashMap::iterator
+operator =	src/sat/Global.h	/^    vec<T>&  operator = (vec<T>& other) { TEMPLATE_FAIL; }$/;"	f	class:vec
+operator =	src/sat/test/Global.h	/^    vec<T>&  operator = (vec<T>& other) { TEMPLATE_FAIL; }$/;"	f	class:vec
+operator =	src/util/myHashMap.h	/^        HashKey& operator = (const HashKey& k) { _in0 = k._in0; _in1 = k._in1; return *this; }$/;"	f	class:HashKey
+operator =	src/util/myHashMap.h	/^      iterator& operator = (const iterator& i) { _hashNode = i._hashNode; return *this; }$/;"	f	class:HashMap::iterator
+operator =	src/util/myHashSet.h	/^      iterator& operator = (const iterator& i) { _data = i._data; _i = i._i; _j = i._j; return *this; }$/;"	f	class:HashSet::iterator
+operator ==	include/Global.h	/^    bool  operator == (const lbool& other) const { return value == other.value; }$/;"	f	class:lbool
+operator ==	include/SolverTypes.h	/^    bool        operator == (GClause c) const { return data == c.data; }$/;"	f	class:GClause
+operator ==	include/SolverTypes.h	/^inline bool operator == (Lit p, Lit q) { return index(p) == index(q); }$/;"	f
+operator ==	include/myHashMap.h	/^        bool operator == (const HashKey& k) const {$/;"	f	class:HashKey
+operator ==	include/myHashMap.h	/^      bool operator == (const iterator& i) { return _hashNode == i._hashNode; }$/;"	f	class:HashMap::iterator
+operator ==	src/cir/cirGate.h	/^        bool operator == (const CirGateV& c) const { return _gateV == c._gateV; }$/;"	f	class:CirGateV
+operator ==	src/sat/Global.h	/^    bool  operator == (const lbool& other) const { return value == other.value; }$/;"	f	class:lbool
+operator ==	src/sat/SolverTypes.h	/^    bool        operator == (GClause c) const { return data == c.data; }$/;"	f	class:GClause
+operator ==	src/sat/SolverTypes.h	/^inline bool operator == (Lit p, Lit q) { return index(p) == index(q); }$/;"	f
+operator ==	src/sat/test/Global.h	/^    bool  operator == (const lbool& other) const { return value == other.value; }$/;"	f	class:lbool
+operator ==	src/sat/test/SolverTypes.h	/^    bool        operator == (GClause c) const { return data == c.data; }$/;"	f	class:GClause
+operator ==	src/sat/test/SolverTypes.h	/^inline bool operator == (Lit p, Lit q) { return index(p) == index(q); }$/;"	f
+operator ==	src/util/myHashMap.h	/^        bool operator == (const HashKey& k) const {$/;"	f	class:HashKey
+operator ==	src/util/myHashMap.h	/^      bool operator == (const iterator& i) { return _hashNode == i._hashNode; }$/;"	f	class:HashMap::iterator
+operator ==	src/util/myHashSet.h	/^      bool operator == (const iterator& i) { return _data == i._data; }$/;"	f	class:HashSet::iterator
+operator >	include/Global.h	/^template <class T> static inline bool operator >  (const T& x, const T& y) { return y < x;     }$/;"	f
+operator >	src/sat/Global.h	/^template <class T> static inline bool operator >  (const T& x, const T& y) { return y < x;     }$/;"	f
+operator >	src/sat/test/Global.h	/^template <class T> static inline bool operator >  (const T& x, const T& y) { return y < x;     }$/;"	f
+operator >=	include/Global.h	/^template <class T> static inline bool operator >= (const T& x, const T& y) { return !(x < y);  }$/;"	f
+operator >=	src/sat/Global.h	/^template <class T> static inline bool operator >= (const T& x, const T& y) { return !(x < y);  }$/;"	f
+operator >=	src/sat/test/Global.h	/^template <class T> static inline bool operator >= (const T& x, const T& y) { return !(x < y);  }$/;"	f
+operator T*	include/Global.h	/^    operator T*       (void)           { return data; }     \/\/ (unsafe but convenient)$/;"	f	class:vec
+operator T*	src/sat/Global.h	/^    operator T*       (void)           { return data; }     \/\/ (unsafe but convenient)$/;"	f	class:vec
+operator T*	src/sat/test/Global.h	/^    operator T*       (void)           { return data; }     \/\/ (unsafe but convenient)$/;"	f	class:vec
+operator []	include/Global.h	/^    T&       operator [] (int index)        { return data[index]; }$/;"	f	class:vec
+operator []	include/Global.h	/^    const T& operator [] (int index) const  { return data[index]; }$/;"	f	class:vec
+operator []	include/SolverTypes.h	/^    Lit       operator [] (int i) const { return data[i]; }$/;"	f	class:Clause
+operator []	include/SolverTypes.h	/^    Lit&      operator [] (int i)       { return data[i]; }$/;"	f	class:Clause
+operator []	include/myHashMap.h	/^   CacheNode& operator [] (size_t i) { return _cache[i]; }$/;"	f	class:Cache
+operator []	include/myHashMap.h	/^   const CacheNode& operator [](size_t i) const { return _cache[i]; }$/;"	f	class:Cache
+operator []	include/myHashMap.h	/^   const vector<HashNode>& operator [](size_t i) const { return _buckets[i]; }$/;"	f	class:HashMap
+operator []	include/myHashMap.h	/^   vector<HashNode>& operator [] (size_t i) { return _buckets[i]; }$/;"	f	class:HashMap
+operator []	src/sat/Global.h	/^    T&       operator [] (int index)        { return data[index]; }$/;"	f	class:vec
+operator []	src/sat/Global.h	/^    const T& operator [] (int index) const  { return data[index]; }$/;"	f	class:vec
+operator []	src/sat/SolverTypes.h	/^    Lit       operator [] (int i) const { return data[i]; }$/;"	f	class:Clause
+operator []	src/sat/SolverTypes.h	/^    Lit&      operator [] (int i)       { return data[i]; }$/;"	f	class:Clause
+operator []	src/sat/test/Global.h	/^    T&       operator [] (int index)        { return data[index]; }$/;"	f	class:vec
+operator []	src/sat/test/Global.h	/^    const T& operator [] (int index) const  { return data[index]; }$/;"	f	class:vec
+operator []	src/sat/test/SolverTypes.h	/^    Lit       operator [] (int i) const { return data[i]; }$/;"	f	class:Clause
+operator []	src/sat/test/SolverTypes.h	/^    Lit&      operator [] (int i)       { return data[i]; }$/;"	f	class:Clause
+operator []	src/util/myHashMap.h	/^   CacheNode& operator [] (size_t i) { return _cache[i]; }$/;"	f	class:Cache
+operator []	src/util/myHashMap.h	/^   const CacheNode& operator [](size_t i) const { return _cache[i]; }$/;"	f	class:Cache
+operator []	src/util/myHashMap.h	/^   const vector<HashNode>& operator [](size_t i) const { return _buckets[i]; }$/;"	f	class:HashMap
+operator []	src/util/myHashMap.h	/^   vector<HashNode>& operator [] (size_t i) { return _buckets[i]; }$/;"	f	class:HashMap
+operator []	src/util/myHashSet.h	/^   const vector<Data>& operator [](size_t i) const { return _buckets[i]; }$/;"	f	class:HashSet
+operator []	src/util/myHashSet.h	/^   vector<Data>& operator [] (size_t i) { return _buckets[i]; }$/;"	f	class:HashSet
+operator const T*	include/Global.h	/^    operator const T* (void) const     { return data; }$/;"	f	class:vec
+operator const T*	src/sat/Global.h	/^    operator const T* (void) const     { return data; }$/;"	f	class:vec
+operator const T*	src/sat/test/Global.h	/^    operator const T* (void) const     { return data; }$/;"	f	class:vec
+operator ~	include/Global.h	/^    lbool operator ~  (void)               const { return lbool(-value); }$/;"	f	class:lbool
+operator ~	include/SolverTypes.h	/^inline Lit operator ~ (Lit p) { Lit q; q.x = p.x ^ 1; return q; }$/;"	f
+operator ~	src/sat/Global.h	/^    lbool operator ~  (void)               const { return lbool(-value); }$/;"	f	class:lbool
+operator ~	src/sat/SolverTypes.h	/^inline Lit operator ~ (Lit p) { Lit q; q.x = p.x ^ 1; return q; }$/;"	f
+operator ~	src/sat/test/Global.h	/^    lbool operator ~  (void)               const { return lbool(-value); }$/;"	f	class:lbool
+operator ~	src/sat/test/SolverTypes.h	/^inline Lit operator ~ (Lit p) { Lit q; q.x = p.x ^ 1; return q; }$/;"	f
+optimize	src/cir/cirOpt.cpp	/^CirMgr::optimize()$/;"	f	class:CirMgr
+order	include/Solver.h	/^    VarOrder            order;            \/\/ Keeps track of the decision variable order.$/;"	m	class:Solver
+order	src/sat/Solver.h	/^    VarOrder            order;            \/\/ Keeps track of the decision variable order.$/;"	m	class:Solver
+order	src/sat/test/Solver.h	/^    VarOrder            order;            \/\/ Keeps track of the decision variable order.$/;"	m	class:Solver
+own_fd	include/File.h	/^    bool        own_fd;     \/\/ Do we own the file descriptor? If so, will close file in destructor.$/;"	m	class:File
+own_fd	src/sat/File.h	/^    bool        own_fd;     \/\/ Do we own the file descriptor? If so, will close file in destructor.$/;"	m	class:File
+own_fd	src/sat/test/File.h	/^    bool        own_fd;     \/\/ Do we own the file descriptor? If so, will close file in destructor.$/;"	m	class:File
+parent	include/Heap.h	/^static inline int parent(int i) { return i >> 1; }$/;"	f
+parent	src/sat/Heap.h	/^static inline int parent(int i) { return i >> 1; }$/;"	f
+parent	src/sat/test/Heap.h	/^static inline int parent(int i) { return i >> 1; }$/;"	f
+parseError	src/cir/cirMgr.cpp	/^parseError(CirParseError err)$/;"	f	file:
+percolateDown	include/Heap.h	/^    inline void percolateDown(int i)$/;"	f	class:Heap
+percolateDown	src/sat/Heap.h	/^    inline void percolateDown(int i)$/;"	f	class:Heap
+percolateDown	src/sat/test/Heap.h	/^    inline void percolateDown(int i)$/;"	f	class:Heap
+percolateUp	include/Heap.h	/^    inline void percolateUp(int i)$/;"	f	class:Heap
+percolateUp	src/sat/Heap.h	/^    inline void percolateUp(int i)$/;"	f	class:Heap
+percolateUp	src/sat/test/Heap.h	/^    inline void percolateUp(int i)$/;"	f	class:Heap
+pop	include/Global.h	/^    void     pop    (void)             { sz--, data[sz].~T(); }$/;"	f	class:vec
+pop	src/sat/Global.h	/^    void     pop    (void)             { sz--, data[sz].~T(); }$/;"	f	class:vec
+pop	src/sat/test/Global.h	/^    void     pop    (void)             { sz--, data[sz].~T(); }$/;"	f	class:vec
+pos	include/File.h	/^    int         pos;        \/\/ Current position in buffer$/;"	m	class:File
+pos	src/sat/File.h	/^    int         pos;        \/\/ Current position in buffer$/;"	m	class:File
+pos	src/sat/test/File.h	/^    int         pos;        \/\/ Current position in buffer$/;"	m	class:File
+printFECPairs	src/cir/cirMgr.cpp	/^CirMgr::printFECPairs() const$/;"	f	class:CirMgr
+printFanin	src/cir/cirGate.cpp	/^void CirGate::printFanin(CirGate* gate, int& level, int levelCount, UnSet& set, CirGate* ogGate){$/;"	f	class:CirGate
+printFanout	src/cir/cirGate.cpp	/^void CirGate::printFanout(CirGate* gate, int& level, int levelCount, UnSet& set, CirGate* ogGate){$/;"	f	class:CirGate
+printFloatGates	src/cir/cirMgr.cpp	/^CirMgr::printFloatGates() const$/;"	f	class:CirMgr
+printGate	src/cir/cirGate.cpp	/^void CirGate::printGate(){$/;"	f	class:CirGate
+printNetlist	src/cir/cirMgr.cpp	/^CirMgr::printNetlist() const$/;"	f	class:CirMgr
+printPIs	src/cir/cirMgr.cpp	/^CirMgr::printPIs() const$/;"	f	class:CirMgr
+printPOs	src/cir/cirMgr.cpp	/^CirMgr::printPOs() const$/;"	f	class:CirMgr
+printPrompt	include/cmdParser.h	/^   void printPrompt() const { cout << _prompt; }$/;"	f	class:CmdParser
+printPrompt	src/cmd/cmdParser.h	/^   void printPrompt() const { cout << _prompt; }$/;"	f	class:CmdParser
+printStats	include/sat.h	/^      void printStats() const { const_cast<Solver*>(_solver)->printStats(); }$/;"	f	class:SatSolver
+printStats	src/sat/Solver.cpp	/^void Solver::printStats()$/;"	f	class:Solver
+printStats	src/sat/sat.h	/^      void printStats() const { const_cast<Solver*>(_solver)->printStats(); }$/;"	f	class:SatSolver
+printStats	src/sat/test/Solver.cpp	/^void Solver::printStats()$/;"	f	class:Solver
+printStats	src/sat/test/sat.h	/^      void printStats() const { const_cast<Solver*>(_solver)->printStats(); }$/;"	f	class:SatSolver
+printSummary	src/cir/cirMgr.cpp	/^CirMgr::printSummary() const$/;"	f	class:CirMgr
+progressEstimate	src/sat/Solver.cpp	/^double Solver::progressEstimate()$/;"	f	class:Solver
+progressEstimate	src/sat/test/Solver.cpp	/^double Solver::progressEstimate()$/;"	f	class:Solver
+progress_estimate	include/Solver.h	/^    double      progress_estimate;  \/\/ Set by 'search()'.$/;"	m	class:Solver
+progress_estimate	src/sat/Solver.h	/^    double      progress_estimate;  \/\/ Set by 'search()'.$/;"	m	class:Solver
+progress_estimate	src/sat/test/Solver.h	/^    double      progress_estimate;  \/\/ Set by 'search()'.$/;"	m	class:Solver
+proof	include/Solver.h	/^    Proof*          proof;              \/\/ Set this directly after constructing 'Solver' to enable proof logging. Initialized to NULL.$/;"	m	class:Solver
+proof	src/sat/Solver.h	/^    Proof*          proof;              \/\/ Set this directly after constructing 'Solver' to enable proof logging. Initialized to NULL.$/;"	m	class:Solver
+proof	src/sat/test/Solver.h	/^    Proof*          proof;              \/\/ Set this directly after constructing 'Solver' to enable proof logging. Initialized to NULL.$/;"	m	class:Solver
+propagate	src/sat/Solver.cpp	/^Clause* Solver::propagate()$/;"	f	class:Solver
+propagate	src/sat/test/Solver.cpp	/^Clause* Solver::propagate()$/;"	f	class:Solver
+propagate_tmpbin	include/Solver.h	/^    Clause*             propagate_tmpbin;$/;"	m	class:Solver
+propagate_tmpbin	src/sat/Solver.h	/^    Clause*             propagate_tmpbin;$/;"	m	class:Solver
+propagate_tmpbin	src/sat/test/Solver.h	/^    Clause*             propagate_tmpbin;$/;"	m	class:Solver
+propagations	include/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+propagations	src/sat/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+propagations	src/sat/test/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+push	include/Global.h	/^    void     push  (const T& elem)     { if (sz == cap) grow(sz+1); new (&data[sz]) T(elem); sz++; }$/;"	f	class:vec
+push	include/Global.h	/^    void     push  (void)              { if (sz == cap) grow(sz+1); new (&data[sz]) T()    ; sz++; }$/;"	f	class:vec
+push	src/sat/Global.h	/^    void     push  (const T& elem)     { if (sz == cap) grow(sz+1); new (&data[sz]) T(elem); sz++; }$/;"	f	class:vec
+push	src/sat/Global.h	/^    void     push  (void)              { if (sz == cap) grow(sz+1); new (&data[sz]) T()    ; sz++; }$/;"	f	class:vec
+push	src/sat/test/Global.h	/^    void     push  (const T& elem)     { if (sz == cap) grow(sz+1); new (&data[sz]) T(elem); sz++; }$/;"	f	class:vec
+push	src/sat/test/Global.h	/^    void     push  (void)              { if (sz == cap) grow(sz+1); new (&data[sz]) T()    ; sz++; }$/;"	f	class:vec
+putChar	include/File.h	/^    int putChar(int chr) {$/;"	f	class:File
+putChar	src/sat/File.h	/^    int putChar(int chr) {$/;"	f	class:File
+putChar	src/sat/test/File.h	/^    int putChar(int chr) {$/;"	f	class:File
+putCharQ	include/File.h	/^    int putCharQ(int chr) {         \/\/ Quick version with minimal overhead -- don't call this in the wrong mode!$/;"	f	class:File
+putCharQ	src/sat/File.h	/^    int putCharQ(int chr) {         \/\/ Quick version with minimal overhead -- don't call this in the wrong mode!$/;"	f	class:File
+putCharQ	src/sat/test/File.h	/^    int putCharQ(int chr) {         \/\/ Quick version with minimal overhead -- don't call this in the wrong mode!$/;"	f	class:File
+putInt	include/File.h	/^static inline void   putInt  (File& out, int64 val) { putUInt(out, encode64(val)); }$/;"	f
+putInt	src/sat/File.h	/^static inline void   putInt  (File& out, int64 val) { putUInt(out, encode64(val)); }$/;"	f
+putInt	src/sat/test/File.h	/^static inline void   putInt  (File& out, int64 val) { putUInt(out, encode64(val)); }$/;"	f
+putUInt	src/sat/File.cpp	/^void putUInt(File& out, uint64 val)$/;"	f
+putUInt	src/sat/test/File.cpp	/^void putUInt(File& out, uint64 val)$/;"	f
+qhead	include/Solver.h	/^    int                 qhead;            \/\/ Head of queue (as index into the trail -- no more explicit propagation queue in MiniSat).$/;"	m	class:Solver
+qhead	src/sat/Solver.h	/^    int                 qhead;            \/\/ Head of queue (as index into the trail -- no more explicit propagation queue in MiniSat).$/;"	m	class:Solver
+qhead	src/sat/test/Solver.h	/^    int                 qhead;            \/\/ Head of queue (as index into the trail -- no more explicit propagation queue in MiniSat).$/;"	m	class:Solver
+query	include/myHashMap.h	/^   bool query(const HashKey& k, HashData& d) const {$/;"	f	class:HashMap
+query	src/util/myHashMap.h	/^   bool query(const HashKey& k, HashData& d) const {$/;"	f	class:HashMap
+query	src/util/myHashSet.h	/^   bool query(Data& d) const {$/;"	f	class:HashSet
+randomSim	src/cir/cirSim.cpp	/^CirMgr::randomSim()$/;"	f	class:CirMgr
+random_seed	include/VarOrder.h	/^    double              random_seed; \/\/ For the internal random number generator$/;"	m	class:VarOrder
+random_seed	src/sat/VarOrder.h	/^    double              random_seed; \/\/ For the internal random number generator$/;"	m	class:VarOrder
+random_seed	src/sat/test/VarOrder.h	/^    double              random_seed; \/\/ For the internal random number generator$/;"	m	class:VarOrder
+random_var_freq	include/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+random_var_freq	src/sat/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+random_var_freq	src/sat/test/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+read	include/myHashMap.h	/^   bool read(const CacheKey& k, CacheData& d) const {$/;"	f	class:Cache
+read	src/util/myHashMap.h	/^   bool read(const CacheKey& k, CacheData& d) const {$/;"	f	class:Cache
+readCircuit	src/cir/cirMgr.cpp	/^CirMgr::readCircuit(const string& fileName)$/;"	f	class:CirMgr
+reason	include/Solver.h	/^    vec<Clause*>        reason;           \/\/ 'reason[var]' is the clause that implied the variables current value, or 'NULL' if none.$/;"	m	class:Solver
+reason	src/sat/Solver.h	/^    vec<Clause*>        reason;           \/\/ 'reason[var]' is the clause that implied the variables current value, or 'NULL' if none.$/;"	m	class:Solver
+reason	src/sat/test/Solver.h	/^    vec<Clause*>        reason;           \/\/ 'reason[var]' is the clause that implied the variables current value, or 'NULL' if none.$/;"	m	class:Solver
+reduceDB	src/sat/Solver.cpp	/^void Solver::reduceDB()$/;"	f	class:Solver
+reduceDB	src/sat/test/Solver.cpp	/^void Solver::reduceDB()$/;"	f	class:Solver
+reduceDB_lt	src/sat/Solver.cpp	/^struct reduceDB_lt { bool operator () (Clause* x, Clause* y) { return x->size() > 2 && (y->size() == 2 || x->activity() < y->activity()); } };$/;"	s	file:
+reduceDB_lt	src/sat/test/Solver.cpp	/^struct reduceDB_lt { bool operator () (Clause* x, Clause* y) { return x->size() > 2 && (y->size() == 2 || x->activity() < y->activity()); } };$/;"	s	file:
+release	include/Global.h	/^    T*       release  (void)           { T* ret = data; data = NULL; sz = 0; cap = 0; return ret; }$/;"	f	class:vec
+release	src/sat/Global.h	/^    T*       release  (void)           { T* ret = data; data = NULL; sz = 0; cap = 0; return ret; }$/;"	f	class:vec
+release	src/sat/test/Global.h	/^    T*       release  (void)           { T* ret = data; data = NULL; sz = 0; cap = 0; return ret; }$/;"	f	class:vec
+releaseDescriptor	include/File.h	/^    int releaseDescriptor(void) {   \/\/ Don't run UNIX function 'close()' on descriptor in 'File's 'close()'.$/;"	f	class:File
+releaseDescriptor	src/sat/File.h	/^    int releaseDescriptor(void) {   \/\/ Don't run UNIX function 'close()' on descriptor in 'File's 'close()'.$/;"	f	class:File
+releaseDescriptor	src/sat/test/File.h	/^    int releaseDescriptor(void) {   \/\/ Don't run UNIX function 'close()' on descriptor in 'File's 'close()'.$/;"	f	class:File
+remove	include/myHashMap.h	/^   bool remove(const HashKey& k) {$/;"	f	class:HashMap
+remove	src/sat/Solver.cpp	/^void Solver::remove(Clause* c, bool just_dealloc)$/;"	f	class:Solver
+remove	src/sat/test/Solver.cpp	/^void Solver::remove(Clause* c, bool just_dealloc)$/;"	f	class:Solver
+remove	src/util/myHashMap.h	/^   bool remove(const HashKey& k) {$/;"	f	class:HashMap
+remove	src/util/myHashSet.h	/^   bool remove(const Data& d) {$/;"	f	class:HashSet
+removeData	include/util.h	/^void removeData(T& l, const D& d)$/;"	f
+removeData	src/util/util.h	/^void removeData(T& l, const D& d)$/;"	f
+removeWatch	src/sat/Solver.cpp	/^void removeWatch(vec<Clause*>& ws, Clause* elem)$/;"	f
+removeWatch	src/sat/test/Solver.cpp	/^void removeWatch(vec<Clause*>& ws, Clause* elem)$/;"	f
+report	include/myUsage.h	/^   void report(bool repTime, bool repMem) {$/;"	f	class:MyUsage
+report	src/util/myUsage.h	/^   void report(bool repTime, bool repMem) {$/;"	f	class:MyUsage
+reportFanin	src/cir/cirGate.cpp	/^CirGate::reportFanin(int level)$/;"	f	class:CirGate
+reportFanout	src/cir/cirGate.cpp	/^CirGate::reportFanout(int level)$/;"	f	class:CirGate
+reportGate	src/cir/cirGate.cpp	/^CirGate::reportGate() const$/;"	f	class:CirGate
+reportResult	src/sat/test/satTest.cpp	/^void reportResult(const SatSolver& solver, bool result)$/;"	f
+reportf	include/Solver.h	/^#define reportf(/;"	d
+reportf	src/sat/Solver.h	/^#define reportf(/;"	d
+reportf	src/sat/test/Solver.h	/^#define reportf(/;"	d
+reset	include/myHashMap.h	/^   void reset() {  _size = 0; if (_cache) { delete [] _cache; _cache = 0; } }$/;"	f	class:Cache
+reset	include/myHashMap.h	/^   void reset() {$/;"	f	class:HashMap
+reset	include/myUsage.h	/^   void reset() {$/;"	f	class:MyUsage
+reset	include/sat.h	/^      void reset() {$/;"	f	class:SatSolver
+reset	src/sat/sat.h	/^      void reset() {$/;"	f	class:SatSolver
+reset	src/sat/test/sat.h	/^      void reset() {$/;"	f	class:SatSolver
+reset	src/util/myHashMap.h	/^   void reset() {  _size = 0; if (_cache) { delete [] _cache; _cache = 0; } }$/;"	f	class:Cache
+reset	src/util/myHashMap.h	/^   void reset() {$/;"	f	class:HashMap
+reset	src/util/myHashSet.h	/^   void reset() {$/;"	f	class:HashSet
+reset	src/util/myUsage.h	/^   void reset() {$/;"	f	class:MyUsage
+resetBufAndPrintPrompt	include/cmdParser.h	/^   void resetBufAndPrintPrompt() {$/;"	f	class:CmdParser
+resetBufAndPrintPrompt	src/cmd/cmdParser.h	/^   void resetBufAndPrintPrompt() {$/;"	f	class:CmdParser
+reset_keypress	src/util/myGetChar.cpp	/^static void reset_keypress(void)$/;"	f	file:
+resolve	src/sat/Proof.cpp	/^void Proof::resolve(ClauseId next, Lit x)$/;"	f	class:Proof
+resolve	src/sat/test/Proof.cpp	/^void Proof::resolve(ClauseId next, Lit x)$/;"	f	class:Proof
+right	include/Heap.h	/^static inline int right (int i) { return i+i + 1; }$/;"	f
+right	src/sat/Heap.h	/^static inline int right (int i) { return i+i + 1; }$/;"	f
+right	src/sat/test/Heap.h	/^static inline int right (int i) { return i+i + 1; }$/;"	f
+root_level	include/Solver.h	/^    int                 root_level;       \/\/ Level of first proper decision.$/;"	m	class:Solver
+root_level	src/sat/Solver.h	/^    int                 root_level;       \/\/ Level of first proper decision.$/;"	m	class:Solver
+root_level	src/sat/test/Solver.h	/^    int                 root_level;       \/\/ Level of first proper decision.$/;"	m	class:Solver
+save	src/sat/Proof.cpp	/^bool Proof::save(cchar* filename)$/;"	f	class:Proof
+save	src/sat/test/Proof.cpp	/^bool Proof::save(cchar* filename)$/;"	f	class:Proof
+search	src/sat/Solver.cpp	/^lbool Solver::search(int nof_conflicts, int nof_learnts, const SearchParams& params)$/;"	f	class:Solver
+search	src/sat/test/Solver.cpp	/^lbool Solver::search(int nof_conflicts, int nof_learnts, const SearchParams& params)$/;"	f	class:Solver
+seek	src/sat/File.cpp	/^void File::seek(int64 file_pos, int whence)$/;"	f	class:File
+seek	src/sat/test/File.cpp	/^void File::seek(int64 file_pos, int whence)$/;"	f	class:File
+select	include/VarOrder.h	/^Var VarOrder::select(double random_var_freq)$/;"	f	class:VarOrder
+select	src/sat/VarOrder.h	/^Var VarOrder::select(double random_var_freq)$/;"	f	class:VarOrder
+select	src/sat/test/VarOrder.h	/^Var VarOrder::select(double random_var_freq)$/;"	f	class:VarOrder
+selectionSort	include/Sort.h	/^template <class T> static inline void selectionSort(T* array, int size) {$/;"	f
+selectionSort	include/Sort.h	/^void selectionSort(T* array, int size, LessThan lt)$/;"	f
+selectionSort	src/sat/Sort.h	/^template <class T> static inline void selectionSort(T* array, int size) {$/;"	f
+selectionSort	src/sat/Sort.h	/^void selectionSort(T* array, int size, LessThan lt)$/;"	f
+selectionSort	src/sat/test/Sort.h	/^template <class T> static inline void selectionSort(T* array, int size) {$/;"	f
+selectionSort	src/sat/test/Sort.h	/^void selectionSort(T* array, int size, LessThan lt)$/;"	f
+setBounds	include/Heap.h	/^    void setBounds (int size) { assert(size >= 0); indices.growTo(size,0); }$/;"	f	class:Heap
+setBounds	src/sat/Heap.h	/^    void setBounds (int size) { assert(size >= 0); indices.growTo(size,0); }$/;"	f	class:Heap
+setBounds	src/sat/test/Heap.h	/^    void setBounds (int size) { assert(size >= 0); indices.growTo(size,0); }$/;"	f	class:Heap
+setGate	src/cir/cirGate.h	/^        void setGate(CirGate* gate, bool inv){$/;"	f	class:CirGateV
+setGlobalRef	src/cir/cirGate.h	/^   static void setGlobalRef() { ++_globalRef; }$/;"	f	class:CirGate
+setIdLineCol	src/cir/cirGate.h	/^   void setIdLineCol(const unsigned& i, const unsigned& l, const unsigned& c){$/;"	f	class:CirGate
+setMemUsage	include/myUsage.h	/^   void setMemUsage() { _currentMem = checkMem() - _initMem; }$/;"	f	class:MyUsage
+setMemUsage	src/util/myUsage.h	/^   void setMemUsage() { _currentMem = checkMem() - _initMem; }$/;"	f	class:MyUsage
+setMode	include/File.h	/^    void setMode(FileMode m) {$/;"	f	class:File
+setMode	src/sat/File.h	/^    void setMode(FileMode m) {$/;"	f	class:File
+setMode	src/sat/test/File.h	/^    void setMode(FileMode m) {$/;"	f	class:File
+setOptCmd	include/cmdParser.h	/^   void setOptCmd(const string& str) { _optCmd = str; }$/;"	f	class:CmdExec
+setOptCmd	src/cmd/cmdParser.h	/^   void setOptCmd(const string& str) { _optCmd = str; }$/;"	f	class:CmdExec
+setSimLog	src/cir/cirMgr.h	/^   void setSimLog(ofstream *logFile) { _simLog = logFile; }$/;"	f	class:CirMgr
+setTimeUsage	include/myUsage.h	/^   void setTimeUsage() {$/;"	f	class:MyUsage
+setTimeUsage	src/util/myUsage.h	/^   void setTimeUsage() {$/;"	f	class:MyUsage
+setToGlobalRef	src/cir/cirGate.h	/^   void setToGlobalRef() { _ref = _globalRef; }$/;"	f	class:CirGate
+setVar	src/sat/test/satTest.cpp	/^   void setVar(const Var& v) { _var = v; }$/;"	f	class:Gate
+set_keypress	src/util/myGetChar.cpp	/^static void set_keypress(void)$/;"	f	file:
+shrink	include/Global.h	/^    void     shrink (int nelems)       { assert(nelems <= sz); for (int i = 0; i < nelems; i++) sz--, data[sz].~T(); }$/;"	f	class:vec
+shrink	src/sat/Global.h	/^    void     shrink (int nelems)       { assert(nelems <= sz); for (int i = 0; i < nelems; i++) sz--, data[sz].~T(); }$/;"	f	class:vec
+shrink	src/sat/test/Global.h	/^    void     shrink (int nelems)       { assert(nelems <= sz); for (int i = 0; i < nelems; i++) sz--, data[sz].~T(); }$/;"	f	class:vec
+sign	include/SolverTypes.h	/^inline bool sign  (Lit p) { return p.x & 1; }$/;"	f
+sign	src/sat/SolverTypes.h	/^inline bool sign  (Lit p) { return p.x & 1; }$/;"	f
+sign	src/sat/test/SolverTypes.h	/^inline bool sign  (Lit p) { return p.x & 1; }$/;"	f
+simpDB_assigns	include/Solver.h	/^    int                 simpDB_assigns;   \/\/ Number of top-level assignments since last execution of 'simplifyDB()'.$/;"	m	class:Solver
+simpDB_assigns	src/sat/Solver.h	/^    int                 simpDB_assigns;   \/\/ Number of top-level assignments since last execution of 'simplifyDB()'.$/;"	m	class:Solver
+simpDB_assigns	src/sat/test/Solver.h	/^    int                 simpDB_assigns;   \/\/ Number of top-level assignments since last execution of 'simplifyDB()'.$/;"	m	class:Solver
+simpDB_props	include/Solver.h	/^    int64               simpDB_props;     \/\/ Remaining number of propagations that must be made before next execution of 'simplifyDB()'.$/;"	m	class:Solver
+simpDB_props	src/sat/Solver.h	/^    int64               simpDB_props;     \/\/ Remaining number of propagations that must be made before next execution of 'simplifyDB()'.$/;"	m	class:Solver
+simpDB_props	src/sat/test/Solver.h	/^    int64               simpDB_props;     \/\/ Remaining number of propagations that must be made before next execution of 'simplifyDB()'.$/;"	m	class:Solver
+simplify	src/sat/Solver.cpp	/^bool Solver::simplify(Clause* c) const$/;"	f	class:Solver
+simplify	src/sat/test/Solver.cpp	/^bool Solver::simplify(Clause* c) const$/;"	f	class:Solver
+simplifyConst	src/cir/cirGate.cpp	/^void AigGate::simplifyConst(UnSet& deleted){$/;"	f	class:AigGate
+simplifyDB	src/sat/Solver.cpp	/^void Solver::simplifyDB()$/;"	f	class:Solver
+simplifyDB	src/sat/test/Solver.cpp	/^void Solver::simplifyDB()$/;"	f	class:Solver
+simplifyFanin	src/cir/cirGate.cpp	/^void AigGate::simplifyFanin(UnSet& deleted){$/;"	f	class:AigGate
+simplifyStrash	src/cir/cirGate.cpp	/^void AigGate::simplifyStrash(HashMap<HashKey, CirGateV>& hash, UnSet& deleted){$/;"	f	class:AigGate
+size	include/File.h	/^    int         size;       \/\/ Size of buffer (at end of file, less than 'File_BufSize').$/;"	m	class:File
+size	include/Global.h	/^    int      size   (void) const       { return sz; }$/;"	f	class:vec
+size	include/SolverTypes.h	/^    int       size        ()      const { return size_learnt >> 1; }$/;"	f	class:Clause
+size	include/myHashMap.h	/^   size_t size() const { return _size; }$/;"	f	class:Cache
+size	include/myHashMap.h	/^   size_t size() const {$/;"	f	class:HashMap
+size	src/sat/File.h	/^    int         size;       \/\/ Size of buffer (at end of file, less than 'File_BufSize').$/;"	m	class:File
+size	src/sat/Global.h	/^    int      size   (void) const       { return sz; }$/;"	f	class:vec
+size	src/sat/SolverTypes.h	/^    int       size        ()      const { return size_learnt >> 1; }$/;"	f	class:Clause
+size	src/sat/test/File.h	/^    int         size;       \/\/ Size of buffer (at end of file, less than 'File_BufSize').$/;"	m	class:File
+size	src/sat/test/Global.h	/^    int      size   (void) const       { return sz; }$/;"	f	class:vec
+size	src/sat/test/SolverTypes.h	/^    int       size        ()      const { return size_learnt >> 1; }$/;"	f	class:Clause
+size	src/util/myHashMap.h	/^   size_t size() const { return _size; }$/;"	f	class:Cache
+size	src/util/myHashMap.h	/^   size_t size() const {$/;"	f	class:HashMap
+size	src/util/myHashSet.h	/^   size_t size() const {$/;"	f	class:HashSet
+size_learnt	include/SolverTypes.h	/^    uint    size_learnt;$/;"	m	class:Clause
+size_learnt	src/sat/SolverTypes.h	/^    uint    size_learnt;$/;"	m	class:Clause
+size_learnt	src/sat/test/SolverTypes.h	/^    uint    size_learnt;$/;"	m	class:Clause
+solve	include/Solver.h	/^    bool    solve() { vec<Lit> tmp; return solve(tmp); }$/;"	f	class:Solver
+solve	include/sat.h	/^      bool solve() { _solver->solve(); return _solver->okay(); }$/;"	f	class:SatSolver
+solve	src/sat/Solver.cpp	/^bool Solver::solve(const vec<Lit>& assumps)$/;"	f	class:Solver
+solve	src/sat/Solver.h	/^    bool    solve() { vec<Lit> tmp; return solve(tmp); }$/;"	f	class:Solver
+solve	src/sat/sat.h	/^      bool solve() { _solver->solve(); return _solver->okay(); }$/;"	f	class:SatSolver
+solve	src/sat/test/Solver.cpp	/^bool Solver::solve(const vec<Lit>& assumps)$/;"	f	class:Solver
+solve	src/sat/test/Solver.h	/^    bool    solve() { vec<Lit> tmp; return solve(tmp); }$/;"	f	class:Solver
+solve	src/sat/test/sat.h	/^      bool solve() { _solver->solve(); return _solver->okay(); }$/;"	f	class:SatSolver
+sort	include/Sort.h	/^template <class T, class LessThan> void sort(T* array, int size, LessThan lt) {$/;"	f
+sort	include/Sort.h	/^template <class T, class LessThan> void sort(vec<T>& v, LessThan lt) {$/;"	f
+sort	include/Sort.h	/^template <class T> static inline void sort(T* array, int size) {$/;"	f
+sort	include/Sort.h	/^template <class T> void sort(vec<T>& v) {$/;"	f
+sort	include/Sort.h	/^void sort(T* array, int size, LessThan lt, double& seed)$/;"	f
+sort	src/sat/Sort.h	/^template <class T, class LessThan> void sort(T* array, int size, LessThan lt) {$/;"	f
+sort	src/sat/Sort.h	/^template <class T, class LessThan> void sort(vec<T>& v, LessThan lt) {$/;"	f
+sort	src/sat/Sort.h	/^template <class T> static inline void sort(T* array, int size) {$/;"	f
+sort	src/sat/Sort.h	/^template <class T> void sort(vec<T>& v) {$/;"	f
+sort	src/sat/Sort.h	/^void sort(T* array, int size, LessThan lt, double& seed)$/;"	f
+sort	src/sat/test/Sort.h	/^template <class T, class LessThan> void sort(T* array, int size, LessThan lt) {$/;"	f
+sort	src/sat/test/Sort.h	/^template <class T, class LessThan> void sort(vec<T>& v, LessThan lt) {$/;"	f
+sort	src/sat/test/Sort.h	/^template <class T> static inline void sort(T* array, int size) {$/;"	f
+sort	src/sat/test/Sort.h	/^template <class T> void sort(vec<T>& v) {$/;"	f
+sort	src/sat/test/Sort.h	/^void sort(T* array, int size, LessThan lt, double& seed)$/;"	f
+sortUnique	include/Sort.h	/^template <class T, class LessThan> void sortUnique(vec<T>& v, LessThan lt) {$/;"	f
+sortUnique	include/Sort.h	/^template <class T> static inline void sortUnique(T* array, int& size) {$/;"	f
+sortUnique	include/Sort.h	/^template <class T> void sortUnique(vec<T>& v) {$/;"	f
+sortUnique	include/Sort.h	/^void sortUnique(T* array, int& size, LessThan lt)$/;"	f
+sortUnique	src/sat/Sort.h	/^template <class T, class LessThan> void sortUnique(vec<T>& v, LessThan lt) {$/;"	f
+sortUnique	src/sat/Sort.h	/^template <class T> static inline void sortUnique(T* array, int& size) {$/;"	f
+sortUnique	src/sat/Sort.h	/^template <class T> void sortUnique(vec<T>& v) {$/;"	f
+sortUnique	src/sat/Sort.h	/^void sortUnique(T* array, int& size, LessThan lt)$/;"	f
+sortUnique	src/sat/test/Sort.h	/^template <class T, class LessThan> void sortUnique(vec<T>& v, LessThan lt) {$/;"	f
+sortUnique	src/sat/test/Sort.h	/^template <class T> static inline void sortUnique(T* array, int& size) {$/;"	f
+sortUnique	src/sat/test/Sort.h	/^template <class T> void sortUnique(vec<T>& v) {$/;"	f
+sortUnique	src/sat/test/Sort.h	/^void sortUnique(T* array, int& size, LessThan lt)$/;"	f
+starts	include/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+starts	src/sat/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+starts	src/sat/test/Solver.h	/^    int64   starts, decisions, propagations, conflicts;$/;"	m	struct:SolverStats
+stats	include/Solver.h	/^    SolverStats     stats;$/;"	m	class:Solver
+stats	src/sat/Solver.h	/^    SolverStats     stats;$/;"	m	class:Solver
+stats	src/sat/test/Solver.h	/^    SolverStats     stats;$/;"	m	class:Solver
+stored_settings	src/util/myGetChar.cpp	/^static struct termios stored_settings;$/;"	v	typeref:struct:termios	file:
+strash	src/cir/cirFraig.cpp	/^CirMgr::strash()$/;"	f	class:CirMgr
+sweep	src/cir/cirOpt.cpp	/^CirMgr::sweep()$/;"	f	class:CirMgr
+sz	include/Global.h	/^    int sz;$/;"	m	class:vec
+sz	src/sat/Global.h	/^    int sz;$/;"	m	class:vec
+sz	src/sat/test/Global.h	/^    int sz;$/;"	m	class:vec
+taTestOnly	include/cmdParser.h	/^   void taTestOnly() {}$/;"	f	class:CmdParser
+taTestOnly	src/cmd/cmdParser.h	/^   void taTestOnly() {}$/;"	f	class:CmdParser
+tell	src/sat/File.cpp	/^int64 File::tell(void)$/;"	f	class:File
+tell	src/sat/test/File.cpp	/^int64 File::tell(void)$/;"	f	class:File
+temp_files	src/sat/Proof.cpp	/^static TempFiles temp_files;       \/\/ (should be singleton)$/;"	v	file:
+temp_files	src/sat/test/Proof.cpp	/^static TempFiles temp_files;       \/\/ (should be singleton)$/;"	v	file:
+toDimacs	include/SolverTypes.h	/^inline int toDimacs(Lit p) { return sign(p) ? -var(p) - 1 : var(p) + 1; }$/;"	f
+toDimacs	src/sat/SolverTypes.h	/^inline int toDimacs(Lit p) { return sign(p) ? -var(p) - 1 : var(p) + 1; }$/;"	f
+toDimacs	src/sat/test/SolverTypes.h	/^inline int toDimacs(Lit p) { return sign(p) ? -var(p) - 1 : var(p) + 1; }$/;"	f
+toInt	include/Global.h	/^    int toInt(void) const { return value; }$/;"	f	class:lbool
+toInt	include/Global.h	/^inline int   toInt  (lbool l) { return l.toInt(); }$/;"	f
+toInt	src/sat/Global.h	/^    int toInt(void) const { return value; }$/;"	f	class:lbool
+toInt	src/sat/Global.h	/^inline int   toInt  (lbool l) { return l.toInt(); }$/;"	f
+toInt	src/sat/test/Global.h	/^    int toInt(void) const { return value; }$/;"	f	class:lbool
+toInt	src/sat/test/Global.h	/^inline int   toInt  (lbool l) { return l.toInt(); }$/;"	f
+toLbool	include/Global.h	/^inline lbool toLbool(int   v) { return lbool(v);  }$/;"	f
+toLbool	src/sat/Global.h	/^inline lbool toLbool(int   v) { return lbool(v);  }$/;"	f
+toLbool	src/sat/test/Global.h	/^inline lbool toLbool(int   v) { return lbool(v);  }$/;"	f
+toLit	include/SolverTypes.h	/^inline Lit  toLit (int i) { Lit p; p.x = i; return p; }  \/\/ Inverse of 'index()'.$/;"	f
+toLit	src/sat/SolverTypes.h	/^inline Lit  toLit (int i) { Lit p; p.x = i; return p; }  \/\/ Inverse of 'index()'.$/;"	f
+toLit	src/sat/test/SolverTypes.h	/^inline Lit  toLit (int i) { Lit p; p.x = i; return p; }  \/\/ Inverse of 'index()'.$/;"	f
+tot_literals	include/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+tot_literals	src/sat/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+tot_literals	src/sat/test/Solver.h	/^    int64   clauses_literals, learnts_literals, max_literals, tot_literals;$/;"	m	struct:SolverStats
+trail	include/Solver.h	/^    vec<Lit>            trail;            \/\/ Assignment stack; stores all assigments made in the order they were made.$/;"	m	class:Solver
+trail	src/sat/Solver.h	/^    vec<Lit>            trail;            \/\/ Assignment stack; stores all assigments made in the order they were made.$/;"	m	class:Solver
+trail	src/sat/test/Solver.h	/^    vec<Lit>            trail;            \/\/ Assignment stack; stores all assigments made in the order they were made.$/;"	m	class:Solver
+trail_lim	include/Solver.h	/^    vec<int>            trail_lim;        \/\/ Separator indices for different decision levels in 'trail[]'.$/;"	m	class:Solver
+trail_lim	src/sat/Solver.h	/^    vec<int>            trail_lim;        \/\/ Separator indices for different decision levels in 'trail[]'.$/;"	m	class:Solver
+trail_lim	src/sat/test/Solver.h	/^    vec<int>            trail_lim;        \/\/ Separator indices for different decision levels in 'trail[]'.$/;"	m	class:Solver
+trail_pos	include/Solver.h	/^    vec<int>            trail_pos;        \/\/ 'trail_pos[var]' is the variable's position in 'trail[]'. This supersedes 'level[]' in some sense, and 'level[]' will probably be removed in future releases.$/;"	m	class:Solver
+trail_pos	src/sat/Solver.cpp	/^    const vec<int>& trail_pos;$/;"	m	class:lastToFirst_lt	file:
+trail_pos	src/sat/Solver.h	/^    vec<int>            trail_pos;        \/\/ 'trail_pos[var]' is the variable's position in 'trail[]'. This supersedes 'level[]' in some sense, and 'level[]' will probably be removed in future releases.$/;"	m	class:Solver
+trail_pos	src/sat/test/Solver.cpp	/^    const vec<int>& trail_pos;$/;"	m	class:lastToFirst_lt	file:
+trail_pos	src/sat/test/Solver.h	/^    vec<int>            trail_pos;        \/\/ 'trail_pos[var]' is the variable's position in 'trail[]'. This supersedes 'level[]' in some sense, and 'level[]' will probably be removed in future releases.$/;"	m	class:Solver
+trav	include/Proof.h	/^    ProofTraverser* trav;$/;"	m	class:Proof
+trav	src/sat/Proof.h	/^    ProofTraverser* trav;$/;"	m	class:Proof
+trav	src/sat/test/Proof.h	/^    ProofTraverser* trav;$/;"	m	class:Proof
+traverse	src/sat/Proof.cpp	/^void Proof::traverse(ProofTraverser& trav, ClauseId goal)$/;"	f	class:Proof
+traverse	src/sat/test/Proof.cpp	/^void Proof::traverse(ProofTraverser& trav, ClauseId goal)$/;"	f	class:Proof
+uchar	include/Global.h	/^typedef unsigned char uchar;$/;"	t
+uchar	src/sat/Global.h	/^typedef unsigned char uchar;$/;"	t
+uchar	src/sat/test/Global.h	/^typedef unsigned char uchar;$/;"	t
+uint	include/Global.h	/^typedef unsigned int uint;$/;"	t
+uint	src/sat/Global.h	/^typedef unsigned int uint;$/;"	t
+uint	src/sat/test/Global.h	/^typedef unsigned int uint;$/;"	t
+uint64	include/Global.h	/^typedef UINT64             uint64;$/;"	t
+uint64	include/Global.h	/^typedef unsigned long long uint64;$/;"	t
+uint64	src/sat/Global.h	/^typedef UINT64             uint64;$/;"	t
+uint64	src/sat/Global.h	/^typedef unsigned long long uint64;$/;"	t
+uint64	src/sat/test/Global.h	/^typedef UINT64             uint64;$/;"	t
+uint64	src/sat/test/Global.h	/^typedef unsigned long long uint64;$/;"	t
+uintp	include/Global.h	/^typedef UINT_PTR           uintp;$/;"	t
+uintp	include/Global.h	/^typedef unsigned __PTRDIFF_TYPE__ uintp;$/;"	t
+uintp	src/sat/Global.h	/^typedef UINT_PTR           uintp;$/;"	t
+uintp	src/sat/Global.h	/^typedef unsigned __PTRDIFF_TYPE__ uintp;$/;"	t
+uintp	src/sat/test/Global.h	/^typedef UINT_PTR           uintp;$/;"	t
+uintp	src/sat/test/Global.h	/^typedef unsigned __PTRDIFF_TYPE__ uintp;$/;"	t
+undo	include/VarOrder.h	/^void VarOrder::undo(Var x)$/;"	f	class:VarOrder
+undo	src/sat/VarOrder.h	/^void VarOrder::undo(Var x)$/;"	f	class:VarOrder
+undo	src/sat/test/VarOrder.h	/^void VarOrder::undo(Var x)$/;"	f	class:VarOrder
+unit_id	include/Solver.h	/^    vec<ClauseId>       unit_id;          \/\/ 'unit_id[var]' is the clause ID for the unit literal 'var' or '~var' (if set at toplevel).$/;"	m	class:Solver
+unit_id	src/sat/Solver.h	/^    vec<ClauseId>       unit_id;          \/\/ 'unit_id[var]' is the clause ID for the unit literal 'var' or '~var' (if set at toplevel).$/;"	m	class:Solver
+unit_id	src/sat/test/Solver.h	/^    vec<ClauseId>       unit_id;          \/\/ 'unit_id[var]' is the clause ID for the unit literal 'var' or '~var' (if set at toplevel).$/;"	m	class:Solver
+unsign	include/SolverTypes.h	/^inline Lit  unsign(Lit p) { Lit q; q.x = p.x & ~1; return q; }$/;"	f
+unsign	src/sat/SolverTypes.h	/^inline Lit  unsign(Lit p) { Lit q; q.x = p.x & ~1; return q; }$/;"	f
+unsign	src/sat/test/SolverTypes.h	/^inline Lit  unsign(Lit p) { Lit q; q.x = p.x & ~1; return q; }$/;"	f
+update	include/VarOrder.h	/^void VarOrder::update(Var x)$/;"	f	class:VarOrder
+update	include/myHashMap.h	/^   bool update(const HashKey& k, HashData& d) {$/;"	f	class:HashMap
+update	src/sat/VarOrder.h	/^void VarOrder::update(Var x)$/;"	f	class:VarOrder
+update	src/sat/test/VarOrder.h	/^void VarOrder::update(Var x)$/;"	f	class:VarOrder
+update	src/util/myHashMap.h	/^   bool update(const HashKey& k, HashData& d) {$/;"	f	class:HashMap
+update	src/util/myHashSet.h	/^   bool update(const Data& d) {$/;"	f	class:HashSet
+usage	src/cir/cirCmd.cpp	/^CirFraigCmd::usage(ostream& os) const$/;"	f	class:CirFraigCmd
+usage	src/cir/cirCmd.cpp	/^CirGateCmd::usage(ostream& os) const$/;"	f	class:CirGateCmd
+usage	src/cir/cirCmd.cpp	/^CirOptCmd::usage(ostream& os) const$/;"	f	class:CirOptCmd
+usage	src/cir/cirCmd.cpp	/^CirPrintCmd::usage(ostream& os) const$/;"	f	class:CirPrintCmd
+usage	src/cir/cirCmd.cpp	/^CirReadCmd::usage(ostream& os) const$/;"	f	class:CirReadCmd
+usage	src/cir/cirCmd.cpp	/^CirSimCmd::usage(ostream& os) const$/;"	f	class:CirSimCmd
+usage	src/cir/cirCmd.cpp	/^CirStrashCmd::usage(ostream& os) const$/;"	f	class:CirStrashCmd
+usage	src/cir/cirCmd.cpp	/^CirSweepCmd::usage(ostream& os) const$/;"	f	class:CirSweepCmd
+usage	src/cir/cirCmd.cpp	/^CirWriteCmd::usage(ostream& os) const$/;"	f	class:CirWriteCmd
+usage	src/main/main.cpp	/^usage()$/;"	f	file:
+value	include/Global.h	/^    int     value;$/;"	m	class:lbool
+value	include/Solver.h	/^    lbool   value(Lit p) const { return sign(p) ? ~toLbool(assigns[var(p)]) : toLbool(assigns[var(p)]); }$/;"	f	class:Solver
+value	include/Solver.h	/^    lbool   value(Var x) const { return toLbool(assigns[x]); }$/;"	f	class:Solver
+value	src/sat/Global.h	/^    int     value;$/;"	m	class:lbool
+value	src/sat/Solver.h	/^    lbool   value(Lit p) const { return sign(p) ? ~toLbool(assigns[var(p)]) : toLbool(assigns[var(p)]); }$/;"	f	class:Solver
+value	src/sat/Solver.h	/^    lbool   value(Var x) const { return toLbool(assigns[x]); }$/;"	f	class:Solver
+value	src/sat/test/Global.h	/^    int     value;$/;"	m	class:lbool
+value	src/sat/test/Solver.h	/^    lbool   value(Lit p) const { return sign(p) ? ~toLbool(assigns[var(p)]) : toLbool(assigns[var(p)]); }$/;"	f	class:Solver
+value	src/sat/test/Solver.h	/^    lbool   value(Var x) const { return toLbool(assigns[x]); }$/;"	f	class:Solver
+var	include/SolverTypes.h	/^inline int  var   (Lit p) { return p.x >> 1; }$/;"	f
+var	src/sat/SolverTypes.h	/^inline int  var   (Lit p) { return p.x >> 1; }$/;"	f
+var	src/sat/test/SolverTypes.h	/^inline int  var   (Lit p) { return p.x >> 1; }$/;"	f
+varBumpActivity	include/Solver.h	/^    void     varBumpActivity(Lit p) {$/;"	f	class:Solver
+varBumpActivity	src/sat/Solver.h	/^    void     varBumpActivity(Lit p) {$/;"	f	class:Solver
+varBumpActivity	src/sat/test/Solver.h	/^    void     varBumpActivity(Lit p) {$/;"	f	class:Solver
+varDecayActivity	include/Solver.h	/^    void     varDecayActivity  () { if (var_decay >= 0) var_inc *= var_decay; }$/;"	f	class:Solver
+varDecayActivity	src/sat/Solver.h	/^    void     varDecayActivity  () { if (var_decay >= 0) var_inc *= var_decay; }$/;"	f	class:Solver
+varDecayActivity	src/sat/test/Solver.h	/^    void     varDecayActivity  () { if (var_decay >= 0) var_inc *= var_decay; }$/;"	f	class:Solver
+varRescaleActivity	src/sat/Solver.cpp	/^void Solver::varRescaleActivity()$/;"	f	class:Solver
+varRescaleActivity	src/sat/test/Solver.cpp	/^void Solver::varRescaleActivity()$/;"	f	class:Solver
+var_Undef	include/SolverTypes.h	/^#define var_Undef /;"	d
+var_Undef	src/sat/SolverTypes.h	/^#define var_Undef /;"	d
+var_Undef	src/sat/test/SolverTypes.h	/^#define var_Undef /;"	d
+var_decay	include/Solver.h	/^    double              var_decay;        \/\/ INVERSE decay factor for variable activity: stores 1\/decay. Use negative value for static variable order.$/;"	m	class:Solver
+var_decay	include/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+var_decay	src/sat/Solver.h	/^    double              var_decay;        \/\/ INVERSE decay factor for variable activity: stores 1\/decay. Use negative value for static variable order.$/;"	m	class:Solver
+var_decay	src/sat/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+var_decay	src/sat/test/Solver.h	/^    double              var_decay;        \/\/ INVERSE decay factor for variable activity: stores 1\/decay. Use negative value for static variable order.$/;"	m	class:Solver
+var_decay	src/sat/test/Solver.h	/^    double  var_decay, clause_decay, random_var_freq;    \/\/ (reasonable values are: 0.95, 0.999, 0.02)    $/;"	m	struct:SearchParams
+var_inc	include/Solver.h	/^    double              var_inc;          \/\/ Amount to bump next variable with.$/;"	m	class:Solver
+var_inc	src/sat/Solver.h	/^    double              var_inc;          \/\/ Amount to bump next variable with.$/;"	m	class:Solver
+var_inc	src/sat/test/Solver.h	/^    double              var_inc;          \/\/ Amount to bump next variable with.$/;"	m	class:Solver
+vec	include/Global.h	/^             vec        (vec<T>& other) { TEMPLATE_FAIL; }$/;"	f	class:vec
+vec	include/Global.h	/^    vec(T* array, int size)     : data(array), sz(size), cap(size) { }      \/\/ (takes ownership of array -- will be deallocated with 'xfree()')$/;"	f	class:vec
+vec	include/Global.h	/^    vec(int size)               : data(NULL) , sz(0)   , cap(0)    { growTo(size); }$/;"	f	class:vec
+vec	include/Global.h	/^    vec(int size, const T& pad) : data(NULL) , sz(0)   , cap(0)    { growTo(size, pad); }$/;"	f	class:vec
+vec	include/Global.h	/^    vec(void)                   : data(NULL) , sz(0)   , cap(0)    { }$/;"	f	class:vec
+vec	include/Global.h	/^class vec {$/;"	c
+vec	src/sat/Global.h	/^             vec        (vec<T>& other) { TEMPLATE_FAIL; }$/;"	f	class:vec
+vec	src/sat/Global.h	/^    vec(T* array, int size)     : data(array), sz(size), cap(size) { }      \/\/ (takes ownership of array -- will be deallocated with 'xfree()')$/;"	f	class:vec
+vec	src/sat/Global.h	/^    vec(int size)               : data(NULL) , sz(0)   , cap(0)    { growTo(size); }$/;"	f	class:vec
+vec	src/sat/Global.h	/^    vec(int size, const T& pad) : data(NULL) , sz(0)   , cap(0)    { growTo(size, pad); }$/;"	f	class:vec
+vec	src/sat/Global.h	/^    vec(void)                   : data(NULL) , sz(0)   , cap(0)    { }$/;"	f	class:vec
+vec	src/sat/Global.h	/^class vec {$/;"	c
+vec	src/sat/test/Global.h	/^             vec        (vec<T>& other) { TEMPLATE_FAIL; }$/;"	f	class:vec
+vec	src/sat/test/Global.h	/^    vec(T* array, int size)     : data(array), sz(size), cap(size) { }      \/\/ (takes ownership of array -- will be deallocated with 'xfree()')$/;"	f	class:vec
+vec	src/sat/test/Global.h	/^    vec(int size)               : data(NULL) , sz(0)   , cap(0)    { growTo(size); }$/;"	f	class:vec
+vec	src/sat/test/Global.h	/^    vec(int size, const T& pad) : data(NULL) , sz(0)   , cap(0)    { growTo(size, pad); }$/;"	f	class:vec
+vec	src/sat/test/Global.h	/^    vec(void)                   : data(NULL) , sz(0)   , cap(0)    { }$/;"	f	class:vec
+vec	src/sat/test/Global.h	/^class vec {$/;"	c
+verbosity	include/Solver.h	/^    int             verbosity;          \/\/ Verbosity level. 0=silent, 1=some progress report, 2=everything$/;"	m	class:Solver
+verbosity	src/sat/Solver.h	/^    int             verbosity;          \/\/ Verbosity level. 0=silent, 1=some progress report, 2=everything$/;"	m	class:Solver
+verbosity	src/sat/test/Solver.h	/^    int             verbosity;          \/\/ Verbosity level. 0=silent, 1=some progress report, 2=everything$/;"	m	class:Solver
+watches	include/Solver.h	/^    vec<vec<Clause*> >  watches;          \/\/ 'watches[lit]' is a list of constraints watching 'lit' (will go there if literal becomes true).$/;"	m	class:Solver
+watches	src/sat/Solver.h	/^    vec<vec<Clause*> >  watches;          \/\/ 'watches[lit]' is a list of constraints watching 'lit' (will go there if literal becomes true).$/;"	m	class:Solver
+watches	src/sat/test/Solver.h	/^    vec<vec<Clause*> >  watches;          \/\/ 'watches[lit]' is a list of constraints watching 'lit' (will go there if literal becomes true).$/;"	m	class:Solver
+write	include/myHashMap.h	/^   void write(const CacheKey& k, const CacheData& d) {$/;"	f	class:Cache
+write	src/util/myHashMap.h	/^   void write(const CacheKey& k, const CacheData& d) {$/;"	f	class:Cache
+writeAag	src/cir/cirMgr.cpp	/^CirMgr::writeAag(ostream& outfile) const$/;"	f	class:CirMgr
+writeGate	src/cir/cirMgr.cpp	/^CirMgr::writeGate(ostream& outfile, CirGate *g) const$/;"	f	class:CirMgr
+x	include/SolverTypes.h	/^    int     x;$/;"	m	class:Lit
+x	src/sat/SolverTypes.h	/^    int     x;$/;"	m	class:Lit
+x	src/sat/test/SolverTypes.h	/^    int     x;$/;"	m	class:Lit
+xfree	include/Global.h	/^template<class T> static inline void xfree(T *ptr) {$/;"	f
+xfree	src/sat/Global.h	/^template<class T> static inline void xfree(T *ptr) {$/;"	f
+xfree	src/sat/test/Global.h	/^template<class T> static inline void xfree(T *ptr) {$/;"	f
+xmalloc	include/Global.h	/^template<class T> static inline T* xmalloc(size_t size) {$/;"	f
+xmalloc	src/sat/Global.h	/^template<class T> static inline T* xmalloc(size_t size) {$/;"	f
+xmalloc	src/sat/test/Global.h	/^template<class T> static inline T* xmalloc(size_t size) {$/;"	f
+xrealloc	include/Global.h	/^template<class T> static inline T* xrealloc(T* ptr, size_t size) {$/;"	f
+xrealloc	src/sat/Global.h	/^template<class T> static inline T* xrealloc(T* ptr, size_t size) {$/;"	f
+xrealloc	src/sat/test/Global.h	/^template<class T> static inline T* xrealloc(T* ptr, size_t size) {$/;"	f
+~AigGate	src/cir/cirGate.h	/^        ~AigGate() {}$/;"	f	class:AigGate
+~Cache	include/myHashMap.h	/^   ~Cache() { reset(); }$/;"	f	class:Cache
+~Cache	src/util/myHashMap.h	/^   ~Cache() { reset(); }$/;"	f	class:Cache
+~CirGate	src/cir/cirGate.h	/^   virtual ~CirGate() {}$/;"	f	class:CirGate
+~CirGateV	src/cir/cirGate.h	/^        ~CirGateV() {}$/;"	f	class:CirGateV
+~CirMgr	src/cir/cirMgr.h	/^   ~CirMgr() { clear(); } $/;"	f	class:CirMgr
+~CmdExec	include/cmdParser.h	/^   virtual ~CmdExec() {}$/;"	f	class:CmdExec
+~CmdExec	src/cmd/cmdParser.h	/^   virtual ~CmdExec() {}$/;"	f	class:CmdExec
+~CmdParser	include/cmdParser.h	/^   virtual ~CmdParser() {}$/;"	f	class:CmdParser
+~CmdParser	src/cmd/cmdParser.h	/^   virtual ~CmdParser() {}$/;"	f	class:CmdParser
+~ConstGate	src/cir/cirGate.h	/^        ~ConstGate() {}$/;"	f	class:ConstGate
+~File	include/File.h	/^   ~File(void) {$/;"	f	class:File
+~File	src/sat/File.h	/^   ~File(void) {$/;"	f	class:File
+~File	src/sat/test/File.h	/^   ~File(void) {$/;"	f	class:File
+~Gate	src/sat/test/satTest.cpp	/^   ~Gate() {}$/;"	f	class:Gate
+~HashKey	include/myHashMap.h	/^        ~HashKey() {}$/;"	f	class:HashKey
+~HashKey	src/util/myHashMap.h	/^        ~HashKey() {}$/;"	f	class:HashKey
+~HashMap	include/myHashMap.h	/^   ~HashMap() { reset(); }$/;"	f	class:HashMap
+~HashMap	src/util/myHashMap.h	/^   ~HashMap() { reset(); }$/;"	f	class:HashMap
+~HashSet	src/util/myHashSet.h	/^   ~HashSet() { reset(); }$/;"	f	class:HashSet
+~PiGate	src/cir/cirGate.h	/^        ~PiGate() {}$/;"	f	class:PiGate
+~PoGate	src/cir/cirGate.h	/^        ~PoGate() {}$/;"	f	class:PoGate
+~ProofTraverser	include/Proof.h	/^    virtual ~ProofTraverser(){}$/;"	f	struct:ProofTraverser
+~ProofTraverser	src/sat/Proof.h	/^    virtual ~ProofTraverser(){}$/;"	f	struct:ProofTraverser
+~ProofTraverser	src/sat/test/Proof.h	/^    virtual ~ProofTraverser(){}$/;"	f	struct:ProofTraverser
+~SatSolver	include/sat.h	/^      ~SatSolver() { if (_solver) delete _solver; }$/;"	f	class:SatSolver
+~SatSolver	src/sat/sat.h	/^      ~SatSolver() { if (_solver) delete _solver; }$/;"	f	class:SatSolver
+~SatSolver	src/sat/test/sat.h	/^      ~SatSolver() { if (_solver) delete _solver; }$/;"	f	class:SatSolver
+~Solver	include/Solver.h	/^   ~Solver() {$/;"	f	class:Solver
+~Solver	src/sat/Solver.h	/^   ~Solver() {$/;"	f	class:Solver
+~Solver	src/sat/test/Solver.h	/^   ~Solver() {$/;"	f	class:Solver
+~TempFiles	src/sat/Proof.cpp	/^   ~TempFiles()$/;"	f	class:TempFiles
+~TempFiles	src/sat/test/Proof.cpp	/^   ~TempFiles()$/;"	f	class:TempFiles
+~UndefGate	src/cir/cirGate.h	/^        ~UndefGate() {}$/;"	f	class:UndefGate
+~iterator	include/myHashMap.h	/^      ~iterator() {}$/;"	f	class:HashMap::iterator
+~iterator	src/util/myHashMap.h	/^      ~iterator() {}$/;"	f	class:HashMap::iterator
+~iterator	src/util/myHashSet.h	/^      ~iterator() {}$/;"	f	class:HashSet::iterator
+~vec	include/Global.h	/^   ~vec(void)                                                      { clear(true); }$/;"	f	class:vec
+~vec	src/sat/Global.h	/^   ~vec(void)                                                      { clear(true); }$/;"	f	class:vec
+~vec	src/sat/test/Global.h	/^   ~vec(void)                                                      { clear(true); }$/;"	f	class:vec
