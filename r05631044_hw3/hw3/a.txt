@@ -1,0 +1,109 @@
+mydb> dbr ../tests/test1.json
+
+mydb> dbp
+{
+}
+Total JSON elements: 0
+
+mydb> dbap Mary 30
+
+mydb> dbap Mary 30
+
+mydb> dbap
+
+mydb> dbap Larry
+
+mydb> dbap Larry 80 Hello
+
+mydb> dbap Larry XX
+
+mydb> dbap Larry 80
+
+mydb> dbp
+{
+  "Mary" : 30,
+  "Larry" : 80
+}
+Total JSON elements: 2
+
+mydb> dbp Ric
+
+mydb> dbp ric
+
+mydb> dbav
+The average of the DB is 55.00.
+
+mydb> dbc
+There are 2 JSON elements in DB.
+
+mydb> dbap Ben -50
+
+mydb> dbp
+{
+  "Mary" : 30,
+  "Larry" : 80,
+  "Ben" : -50
+}
+Total JSON elements: 3
+
+mydb> dbma
+The max JSON element is { "Larry" : 80 }.
+
+mydb> dbmi
+The min JSON element is { "Ben" : -50 }.
+
+mydb> dbsort -v
+
+mydb> dbp
+{
+  "Ben" : -50,
+  "Mary" : 30,
+  "Larry" : 80
+}
+Total JSON elements: 3
+
+mydb> dbsort -v
+
+mydb> dbp
+{
+  "Ben" : -50,
+  "Mary" : 30,
+  "Larry" : 80
+}
+Total JSON elements: 3
+
+mydb> dbsort -k
+
+mydb> dbp
+{
+  "Ben" : -50,
+  "Larry" : 80,
+  "Mary" : 30
+}
+Total JSON elements: 3
+
+mydb> dbsort -v
+
+mydb> dbp
+{
+  "Ben" : -50,
+  "Mary" : 30,
+  "Larry" : 80
+}
+Total JSON elements: 3
+
+mydb> dbsort -k
+
+mydb> dbp
+{
+  "Ben" : -50,
+  "Larry" : 80,
+  "Mary" : 30
+}
+Total JSON elements: 3
+
+mydb> dbsum
+The sum of the DB is 60.
+
+mydb> 
+mydb> 
